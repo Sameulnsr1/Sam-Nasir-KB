@@ -1,0 +1,1 @@
+/Users/sameul.nasir/.claude/rules/airtable.md

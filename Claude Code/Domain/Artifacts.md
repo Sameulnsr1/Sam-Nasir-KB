@@ -1,0 +1,1 @@
+/Users/sameul.nasir/.claude/skills/workspace-references/SKILL.md

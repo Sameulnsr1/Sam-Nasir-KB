@@ -1,0 +1,1 @@
+/Users/sameul.nasir/.claude/rules/cortex/memory-management.md
