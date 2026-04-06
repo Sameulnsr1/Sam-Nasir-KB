@@ -325,3 +325,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-balfour|Brian Balfour]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/sam-lessin|Sam Lessin]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]

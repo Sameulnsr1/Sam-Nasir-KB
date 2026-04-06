@@ -875,3 +875,17 @@ Thanks, Ryan, and bye, everyone.
 
 **Lenny Rachitsky** (01:44:45):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Ryan Singer|Ryan Singer]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/alexander-embiricos|Alexander Embiricos]]
+- 🎙️ [[Podcasts/edwin-chen|Edwin Chen]]

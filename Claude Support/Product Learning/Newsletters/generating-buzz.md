@@ -194,3 +194,15 @@ See you next week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-2-how-why-and-when-to-pivot|The art of the pivot, part 2: How, why, and when to pivot]]
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]

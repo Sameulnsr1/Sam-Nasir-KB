@@ -147,3 +147,15 @@ Thank you for being a part of this journey, and for continuing to read, subscrib
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 📰 [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]

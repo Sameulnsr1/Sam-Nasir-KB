@@ -508,3 +508,15 @@ Everything we discussed today is available in greater detail in my Substack, [Th
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/nan-yu|Nan Yu]]
+- 🎙️ [[Podcasts/farhan-thawar|Farhan Thawar]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]

@@ -242,3 +242,15 @@ Special thanks to the nearly 200 tech professionals who shared their insights *a
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/what-people-are-vibe-coding-and-actually-using|What people are vibe coding (and actually using)]]
+- 🎙️ [[Podcasts/sam-schillace|Sam Schillace]]
+- 📰 [[Newsletters/a-new-parent-gift-guide|A new-parent gift guide]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]

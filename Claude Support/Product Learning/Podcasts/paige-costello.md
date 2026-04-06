@@ -506,3 +506,17 @@ Bye, everyone.
 
 **Lenny** (01:02:57):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Paige Costello|Paige Costello]]
+
+**See also**:
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/how-gong-builds-product|How Gong builds product]]
+- 📰 [[Newsletters/how-ramp-builds-product|How Ramp builds product]]

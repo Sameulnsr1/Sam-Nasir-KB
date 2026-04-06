@@ -469,3 +469,17 @@ Thank you so much, Lenny. I really enjoyed this.
 
 **Lenny** (01:27:33):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes, or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Josh Miller|Josh Miller]]
+
+**See also**:
+- 📰 [[Newsletters/my-favorite-pm-courses|My favorite PM courses]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 📰 [[Newsletters/how-much-product-managers-make-in-the-us-europe-and-canada|How much product managers make in the U.S., Europe, and Canada]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]

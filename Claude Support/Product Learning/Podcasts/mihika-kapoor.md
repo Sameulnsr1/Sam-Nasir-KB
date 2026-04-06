@@ -602,3 +602,17 @@ Thank you for having me, Lenny. This was such a fun conversation. It was such an
 
 **Lenny Rachitsky** (01:40:11):
 The honor was mine. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Mihika Kapoor|Mihika Kapoor]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/megan-cook|Megan Cook]]
+- 🎙️ [[Podcasts/melissa-perri|Melissa Perri]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]

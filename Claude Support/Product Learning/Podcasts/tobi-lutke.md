@@ -491,3 +491,17 @@ Okay, bye.
 
 **Lenny Rachitsky** (01:41:18):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Tobi Lutke|Tobi Lutke]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 📰 [[Newsletters/how-tech-workers-really-feel-about-work-right-now|How tech workers really feel about work right now]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]

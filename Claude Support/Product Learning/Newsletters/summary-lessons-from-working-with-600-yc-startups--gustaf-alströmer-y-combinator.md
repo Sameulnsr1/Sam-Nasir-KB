@@ -112,3 +112,15 @@ Are successful founders more focused on...?
 [Watch on YouTube](https://www.youtube.com/watch?v=6lY9CYIY4pQ)
 
 This is a human edited summary of the podcast episode with Gustaf, by Gaurav Chandrashekar ([@cggaurav](https://twitter.com/cggaurav), [productscale.xyz](https://productscale.xyz)). To listen to the full episode, go [here](https://www.lennyspodcast.com/lessons-from-scaling-spotify-the-science-of-product-taking-risky-bets-and-how-ai-is-already-impacting-the-future-of-music-gustav-soderstrom-co-president-cpo-and-cto-at-spotify/#transcript).
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/michael-truell|Michael Truell]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]
+- 🎙️ [[Podcasts/heidi-helfand|Heidi Helfand]]

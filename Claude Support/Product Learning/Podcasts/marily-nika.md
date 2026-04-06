@@ -405,3 +405,17 @@ Thank you so much, Lenny. It was a pleasure.
 
 **Lenny** (00:47:38):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Marily Nika|Marily Nika]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 📰 [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]
+- 📰 [[Newsletters/you-should-be-playing-with-gpts-at-work|You should be playing with GPTs at work]]

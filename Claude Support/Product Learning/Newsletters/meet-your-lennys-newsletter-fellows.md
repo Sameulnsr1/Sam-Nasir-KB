@@ -30,3 +30,15 @@ Please join me in welcoming Tara, Natalie, and Jules in the comments 👏
 **What comes next:** I’ll be looping in Tara, Natalie, and Jules on both the back end and front end of my newsletter and podcast operations—expect to see a handful of guest posts, podcast appearances, and some other fun surprises soon.
 
 *P.S. If you applied for the fellowship, I’ve already sent you a note, but I just want to say thank you once more. There are so many incredible people who applied, and I’m thrilled to see that this newsletter and podcast have made such an impression on such an impressive group. Assuming all goes well, I’ll be kicking off another fellowship cohort later this year 👀*
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/scott-wu|Scott Wu]]
+- 🎙️ [[Podcasts/eric-simons|Eric Simons]]
+- 🎙️ [[Podcasts/anton-osika|Anton Osika]]

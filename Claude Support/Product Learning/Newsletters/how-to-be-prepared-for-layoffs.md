@@ -140,3 +140,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
+- 🎙️ [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 📰 [[Newsletters/lennys-product-pass-20-free-premium-products-available-exclusively-for-paid-annu|Lenny's Product Pass: 20+ free premium products, available exclusively for pa...]]

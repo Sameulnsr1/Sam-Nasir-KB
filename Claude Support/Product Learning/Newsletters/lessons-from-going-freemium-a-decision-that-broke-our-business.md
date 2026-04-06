@@ -240,3 +240,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 📰 [[Newsletters/the-most-important-bottom-up-saas-metrics-to-track|The most important bottom-up SaaS metrics to track]]
+- 📰 [[Newsletters/the-most-important-bottom-up-saas-metrics-to-track-and-how-to-best-visualize-the|The most important bottom-up SaaS metrics to track (and how to best visualize...]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 📰 [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]

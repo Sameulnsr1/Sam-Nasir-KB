@@ -211,3 +211,15 @@ Next: Now, help me edit my planned response to his request to be less defensive 
 Chris Sacca’s tweet, if you don’t follow him and thus can’t see it on X:
 
 ![Image from How to communicate tradeoffs so leaders will listen](https://substack-post-media.s3.amazonaws.com/public/images/075089a0-a070-4f43-bfe7-bc3034dcd101_1076x1892.png)![Image from How to communicate tradeoffs so leaders will listen](https://substack-post-media.s3.amazonaws.com/public/images/f7ba06f5-15c7-41ca-acfb-e17c4481329d_1046x1312.png)
+---
+
+## Related
+
+**Topics**: [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 📰 [[Newsletters/the-most-common-pitfalls-of-new-product-managers|The most common pitfalls of new product managers]]
+- 📰 [[Newsletters/skills-pms-need-to-build|Skills PMs need to build]]

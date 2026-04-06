@@ -436,3 +436,15 @@ That’s it for this week! [Hit me up](https://twitter.com/lennysan) if you have
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]

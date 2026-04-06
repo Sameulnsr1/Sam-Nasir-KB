@@ -475,3 +475,17 @@ Thanks for having me, Lenny, take it easy.
 
 **Lenny**:
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Adriel Frederick|Adriel Frederick]]
+
+**See also**:
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
+- 🎙️ [[Podcasts/christopher-miller|Christopher Miller]]

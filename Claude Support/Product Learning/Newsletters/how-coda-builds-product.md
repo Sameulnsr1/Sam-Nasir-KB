@@ -246,3 +246,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/paige-costello|Paige Costello]]
+- 📰 [[Newsletters/how-miro-builds-product|How Miro builds product]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]

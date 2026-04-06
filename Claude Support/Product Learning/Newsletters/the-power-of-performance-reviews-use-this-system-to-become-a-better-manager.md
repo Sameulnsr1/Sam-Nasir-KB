@@ -73,3 +73,15 @@ Identify one to two development areas to focus on for the next cycle, and put th
 A few examples of potential development areas include reliable execution, increasing code quality, and more succinct verbal communication. Don’t worry so much about making the descriptions super comprehensive here, as the details will be filled into the next column. A common mistake here is including *too many* development areas (more than two makes it very hard to make meaningful progress on any), or not making the development opportunities concrete enough (where your direct reports are left guessing at what you really mean).
 
 **[Read the full article here](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)**
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 [[Newsletters/everyone-should-be-using-claude-code-more|Everyone should be using Claude Code more]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]

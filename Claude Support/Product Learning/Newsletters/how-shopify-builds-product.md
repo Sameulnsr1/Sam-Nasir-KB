@@ -191,3 +191,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 📰 [[Newsletters/how-snowflake-builds-product|How Snowflake builds product]]
+- 📰 [[Newsletters/how-ramp-builds-product|How Ramp builds product]]
+- 🎙️ [[Podcasts/varun-parmar|Varun Parmar]]

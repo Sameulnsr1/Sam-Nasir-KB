@@ -385,3 +385,15 @@ GAIN offers a simple, straightforward, science-based framework for communicating
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/alexander-embiricos|Alexander Embiricos]]

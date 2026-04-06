@@ -330,3 +330,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 📰 [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]
+- 📰 [[Newsletters/lessons-from-going-freemium-a-decision-that-broke-our-business|Lessons from going freemium: a decision that broke our business]]
+- 🎙️ [[Podcasts/naomi-ionita|Naomi Ionita]]
+- 📰 [[Newsletters/the-most-important-bottom-up-saas-metrics-to-track|The most important bottom-up SaaS metrics to track]]

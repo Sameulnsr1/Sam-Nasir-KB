@@ -882,3 +882,17 @@ Same for me. All right, bye everyone.
 
 **Lenny Rachitsky** (01:39:28):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**Guest**: [[Guests/Simon Willison|Simon Willison]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]

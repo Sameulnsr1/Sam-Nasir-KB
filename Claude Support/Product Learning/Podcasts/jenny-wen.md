@@ -668,3 +668,17 @@ It was wonderful. Jenny, thank you. Bye everyone.
 
 **Lenny Rachitsky** (01:17:02):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jenny Wen|Jenny Wen]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]

@@ -103,3 +103,15 @@ Sincerely,
 Lenny 👋
 
 **P.S. Let me know what you think!** Is this useful? What could be better? Tell me! I promise you won’t hurt my feelings. This is an experiment and I need feedback.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 🎙️ [[Podcasts/annie-pearl|Annie Pearl]]
+- 🎙️ [[Podcasts/yuhki-yamashata|Yuhki Yamashata]]
+- 📰 [[Newsletters/taking-the-week-off-9|Taking the week off]]

@@ -615,3 +615,17 @@ Take care.
 
 **Lenny Rachitsky** (01:22:49):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Camille Fournier|Camille Fournier]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]
+- 📰 [[Newsletters/five-proven-prompt-engineering-techniques-and-a-few-more-advanced-tactics|Five proven prompt engineering techniques (and a few more-advanced tactics)]]

@@ -469,3 +469,17 @@ Yeah. Thanks for having me. Great conversation.
 
 **Lenny** (00:48:49):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jackie Bavaro|Jackie Bavaro]]
+
+**See also**:
+- 📰 [[Newsletters/applications-now-open-for-my-live-course-product-management-fundamentals|🚨 Applications now open for my live course—Product Management Fundamentals]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]

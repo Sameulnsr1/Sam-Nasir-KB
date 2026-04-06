@@ -30,3 +30,8 @@ In the meantime, to give you something fun to explore, here’s some of my brill
 ### I want to create great work (via [IG](https://www.instagram.com/michellerial/))
 
 See you next week!
+---
+
+## Related
+
+**Topics**: [[Topics/Organization|Organization]]

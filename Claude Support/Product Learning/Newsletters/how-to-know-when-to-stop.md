@@ -382,3 +382,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-tech-workers-really-feel-about-work-right-now|How tech workers really feel about work right now]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

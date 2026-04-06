@@ -492,3 +492,17 @@ My pleasure. Thank you so much for having me.
 
 **Lenny** (01:00:37):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Sachin Monga|Sachin Monga]]
+
+**See also**:
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

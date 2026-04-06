@@ -407,3 +407,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/dan-shipper|Dan Shipper]]
+- 🎙️ [[Podcasts/bob-baxley|Bob Baxley]]

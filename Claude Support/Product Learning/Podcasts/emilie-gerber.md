@@ -737,3 +737,17 @@ Yeah, it was so fun. Thank you so much.
 
 **Lenny** (01:33:29):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Emilie Gerber|Emilie Gerber]]
+
+**See also**:
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 📰 [[Newsletters/when-and-how-to-run-a-billboard-campaign|When and how to run a billboard campaign]]
+- 🎙️ [[Podcasts/yuriy-timen|Yuriy Timen]]
+- 📰 [[Newsletters/how-to-increase-virality|How to increase virality]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-found-their-first-ten-customers|How today's fastest growing B2B businesses found their first ten customers]]

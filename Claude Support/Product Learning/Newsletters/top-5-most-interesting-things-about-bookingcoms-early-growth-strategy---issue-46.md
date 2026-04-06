@@ -121,3 +121,15 @@ These paid editions are intended for a single recipient, but occasional sharing 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/ben-williams|Ben Williams]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 📰 [[Newsletters/general-management-functional-and-hybrid-models-which-org-design-works-best-for|General management, functional, and hybrid models: Which org design works bes...]]

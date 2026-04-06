@@ -627,3 +627,17 @@ Bye.
 
 **Lenny** (00:58:55):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Nikita Miller|Nikita Miller]]
+
+**See also**:
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 [[Newsletters/how-to-communicate-tradeoffs-so-leaders-will-listen|How to communicate tradeoffs so leaders will listen]]
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]

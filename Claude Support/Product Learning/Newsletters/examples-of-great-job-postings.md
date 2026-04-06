@@ -137,3 +137,15 @@ That’s it for this week! May you have a productive and fulfilling week 👋
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/claire-vo|Claire Vo]]
+- 📰 [[Newsletters/the-magic-loop|The Magic Loop]]
+- 🎙️ [[Podcasts/jeremy-henrickson|Jeremy Henrickson]]
+- 🎙️ [[Podcasts/laura-schaffer|Laura Schaffer]]

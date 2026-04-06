@@ -615,3 +615,17 @@ Thank you for your time. Take care, Lenny.
 
 **Lenny** (01:16:08):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating, or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes, or learn more about the show lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Nilan Peiris|Nilan Peiris]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/tim-holley|Tim Holley]]
+- 📰 [[Newsletters/marketplace-city-expansion-strategy|Marketplace city expansion strategy]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

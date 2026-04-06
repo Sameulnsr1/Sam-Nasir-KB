@@ -277,3 +277,15 @@ Please [ping me](https://twitter.com/lennysan) if you have any feedback, suggest
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
+- 📰 [[Newsletters/what-is-a-good-payback-period|What is a good payback period?]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]

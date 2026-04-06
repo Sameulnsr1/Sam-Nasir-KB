@@ -425,3 +425,15 @@ For those who want a more adventurous solution: A few Big Tech employees have re
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]
+- 🎙️ [[Podcasts/howie-liu|Howie Liu]]
+- 🎙️ [[Podcasts/benjamin-mann|Benjamin Mann]]

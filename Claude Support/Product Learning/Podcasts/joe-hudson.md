@@ -468,3 +468,17 @@ Pleasure. Thanks for having me. Appreciate it, Lenny.
 
 **Lenny Rachitsky** (01:18:22):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Joe Hudson|Joe Hudson]]
+
+**See also**:
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 📰 [[Newsletters/introducing-core-4-the-best-way-to-measure-and-improve-your-product-velocity|Introducing Core 4: The best way to measure and improve your product velocity]]
+- 📰 [[Newsletters/on-asking-for-help-even-when-you-really-dont-want-to|On asking for help (even when you really don’t want to)]]

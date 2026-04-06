@@ -565,3 +565,17 @@ Bye, everyone.
 
 **Audio** (01:13:14):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Patrick Campbell|Patrick Campbell]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 📰 [[Newsletters/what-seven-years-at-airbnb-taught-me-about-building-a-business|What Seven Years at Airbnb Taught Me About Building a Business]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]

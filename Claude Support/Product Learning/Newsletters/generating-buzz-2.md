@@ -115,3 +115,15 @@ Let’s dive in.
 [Subscribe now, save $40](https://www.lennyrachitsky.com/subscribe?coupon=dac5b98c)
 
 Otherwise, see you in a couple of weeks with an epic (publicly available) post!
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/top-angel-investors-in-the-us|Top angel investors in the U.S.]]
+- 🎙️ [[Podcasts/nikita-bier|Nikita Bier]]

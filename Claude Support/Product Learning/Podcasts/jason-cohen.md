@@ -937,3 +937,17 @@ Thank you. This is fun.
 
 **Lenny Rachitsky** (01:45:36):
 So fun. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jason Cohen|Jason Cohen]]
+
+**See also**:
+- 📰 [[Newsletters/your-startup-idea-probably-isnt-venture-scale|Your startup idea probably isn’t venture-scale]]
+- 🎙️ [[Podcasts/ryan-hoover|Ryan Hoover]]
+- 📰 [[Newsletters/evaluating-a-marketplace-business-idea|Evaluating a (marketplace) business idea]]
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

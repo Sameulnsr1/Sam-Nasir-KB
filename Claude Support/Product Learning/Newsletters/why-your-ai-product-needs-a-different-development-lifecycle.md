@@ -285,3 +285,15 @@ Most of that valuable product thinking already lives in successful product leade
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 📰 [[Newsletters/a-free-year-of-devin-the-worlds-most-advanced-autonomous-ai-software-engineer|A free year of Devin: the world’s most advanced autonomous AI software engineer]]

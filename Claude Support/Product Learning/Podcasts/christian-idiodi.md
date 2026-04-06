@@ -552,3 +552,17 @@ Thank you for having me, Lenny. Such a pleasure.
 
 **Lenny** (01:32:46):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Christian Idiodi|Christian Idiodi]]
+
+**See also**:
+- 📰 [[Newsletters/how-much-product-managers-make-in-the-us-europe-and-canada|How much product managers make in the U.S., Europe, and Canada]]
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]

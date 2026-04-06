@@ -227,3 +227,15 @@ Have a productive and fulfilling week 🙏
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/your-startup-idea-probably-isnt-venture-scale|Your startup idea probably isn’t venture-scale]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 📰 [[Newsletters/evaluating-a-marketplace-business-idea|Evaluating a (marketplace) business idea]]
+- 🎙️ [[Podcasts/jason-cohen|Jason Cohen]]

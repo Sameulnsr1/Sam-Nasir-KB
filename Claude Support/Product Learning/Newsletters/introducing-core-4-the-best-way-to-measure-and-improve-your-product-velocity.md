@@ -245,3 +245,15 @@ If you’re hiring, I run a white-glove recruiting service specializing in senio
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/fareed-mosavat|Fareed Mosavat]]
+- 📰 [[Newsletters/whats-in-your-software-stack---product-design-analytics-ds-research-and-more|What's in your software stack — Product, Design, Analytics, DS, Research, and...]]
+- 📰 [[Newsletters/this-week-4-motivating-engineers-to-hit-deadlines-pm-career-ladders-and-aligning|This Week #4: Motivating engineers to hit deadlines, PM career ladders, and a...]]

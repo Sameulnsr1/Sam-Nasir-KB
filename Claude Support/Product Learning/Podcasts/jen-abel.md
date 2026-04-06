@@ -696,3 +696,17 @@ So awesome. So excited for folks to hear it. I've learned a ton. Okay, I'll let 
 
 **Lenny Rachitsky** (01:15:41):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jen Abel|Jen Abel]]
+
+**See also**:
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]

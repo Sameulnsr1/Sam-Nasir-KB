@@ -142,3 +142,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/state-of-the-product-job-market-in-2025|State of the product job market in 2025]]
+- 📰 [[Newsletters/five-proven-prompt-engineering-techniques-and-a-few-more-advanced-tactics|Five proven prompt engineering techniques (and a few more-advanced tactics)]]
+- 📰 [[Newsletters/summary-ai-and-product-management--marily-nika-meta-google|Summary: AI and product management | Marily Nika (Meta, Google)]]
+- 🎙️ [[Podcasts/lane-shackleton|Lane Shackleton]]

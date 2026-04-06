@@ -254,3 +254,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/emilie-gerber|Emilie Gerber]]
+- 🎙️ [[Podcasts/yuriy-timen|Yuriy Timen]]
+- 📰 [[Newsletters/how-to-increase-virality|How to increase virality]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-found-their-first-ten-customers|How today's fastest growing B2B businesses found their first ten customers]]

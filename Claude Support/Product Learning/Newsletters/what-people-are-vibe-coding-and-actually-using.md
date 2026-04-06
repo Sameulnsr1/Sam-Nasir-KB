@@ -291,3 +291,15 @@ So many people shared so many great examples, I couldn’t help but include more
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-techs-most-resilient-workers-handle-burnout|How tech’s most resilient workers handle burnout]]
+- 🎙️ [[Podcasts/sam-schillace|Sam Schillace]]
+- 📰 [[Newsletters/a-new-parent-gift-guide|A new-parent gift guide]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]

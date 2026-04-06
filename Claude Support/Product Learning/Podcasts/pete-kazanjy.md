@@ -406,3 +406,17 @@ It was awesome. Thanks, Lenny.
 
 **Lenny** (01:01:18):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Pete Kazanjy|Pete Kazanjy]]
+
+**See also**:
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]

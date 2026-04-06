@@ -227,3 +227,15 @@ We recently partnered with Notion to help them scale their PM team. [One role th
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]
+- 📰 [[Newsletters/why-youre-so-angry-at-work-and-what-to-do-about-it|Why you’re so angry at work (and what to do about it)]]
+- 🎙️ [[Podcasts/karri-saarinen|Karri Saarinen]]
+- 🎙️ [[Podcasts/alex-hardimen|Alex Hardimen]]
+- 🎙️ [[Podcasts/jason-shah|Jason Shah]]

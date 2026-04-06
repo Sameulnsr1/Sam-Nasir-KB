@@ -598,3 +598,17 @@ Bye everyone.
 
 **Lenny** (01:19:48):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Luc Levesque|Luc Levesque]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 📰 [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]

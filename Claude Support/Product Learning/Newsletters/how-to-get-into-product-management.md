@@ -216,3 +216,15 @@ Sincerely,
 [Lenny](https://twitter.com/lennysan)
 
 *Big thank you to [Yelena](https://twitter.com/yelenart?lang=en), [Ben](https://twitter.com/byosko), [Isabel](https://twitter.com/isabeltewes), [Godfrey](https://twitter.com/Godfrey_Okeke), [Galen](https://www.linkedin.com/in/galen-mcandrew-41995b95/), and [Craig](https://www.linkedin.com/in/craig-minoff-b582804/) for reviewing drafts of this post. 🙏*
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/kenneth-berger|Kenneth Berger]]
+- 📰 [[Newsletters/when-they-hired-their-first-pm|When they hired their first PM]]
+- 🎙️ [[Podcasts/jiaona-zhang|Jiaona Zhang]]

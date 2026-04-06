@@ -728,3 +728,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:33:10):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Jessica Fain|Jessica Fain]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 📰 [[Newsletters/the-definitive-guide-to-mastering-product-sense-interviews|The definitive guide to mastering product sense interviews]]
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]

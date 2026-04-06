@@ -552,3 +552,17 @@ Thank you.
 
 **Lenny Rachitsky** (01:26:33):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Carole Robin|Carole Robin]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]

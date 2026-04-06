@@ -522,3 +522,17 @@ Cheers.
 
 **Lenny** (01:04:47):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Fareed Mosavat|Fareed Mosavat]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 📰 [[Newsletters/introducing-core-4-the-best-way-to-measure-and-improve-your-product-velocity|Introducing Core 4: The best way to measure and improve your product velocity]]
+- 📰 [[Newsletters/general-management-functional-and-hybrid-models-which-org-design-works-best-for|General management, functional, and hybrid models: Which org design works bes...]]

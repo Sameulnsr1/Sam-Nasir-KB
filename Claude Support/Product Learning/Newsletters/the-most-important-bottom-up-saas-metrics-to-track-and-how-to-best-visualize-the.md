@@ -112,3 +112,15 @@ Courtesy of [@garrett\_wj](https://twitter.com/garrett_wj/status/13124220608456
 [![Image from The most important bottom-up SaaS metrics to track (and how to best visualize](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/43f69af0-d6cd-414d-a2ca-74bc894389ad_828x852.jpeg)](https://substackcdn.com/image/fetch/$s_!m6k4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43f69af0-d6cd-414d-a2ca-74bc894389ad_828x852.jpeg)
 
 [Subscribe to continue reading 👉](https://www.lennyrachitsky.com/subscribe)
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 📰 [[Newsletters/lessons-from-going-freemium-a-decision-that-broke-our-business|Lessons from going freemium: a decision that broke our business]]
+- 📰 [[Newsletters/the-most-important-bottom-up-saas-metrics-to-track|The most important bottom-up SaaS metrics to track]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 📰 [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]

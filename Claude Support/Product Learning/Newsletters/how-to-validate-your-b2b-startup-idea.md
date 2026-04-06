@@ -439,3 +439,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/graham-weaver|Graham Weaver]]
+- 📰 [[Newsletters/hiring-your-early-team|Hiring your early team]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]

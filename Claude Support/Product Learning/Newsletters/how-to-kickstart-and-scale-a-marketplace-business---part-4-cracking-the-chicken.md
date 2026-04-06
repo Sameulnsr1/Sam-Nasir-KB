@@ -516,3 +516,15 @@ That’s it for this edition! **Stay tuned for “Phase 2: Scaling your Marketpl
 - **[Part 4:](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)** [What would you have done differently if you did it again](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)**[🔮](https://www.lennyrachitsky.com/p/what-theyd-do-differently-kickstarting)**
 
 [Sign up now](https://www.lennysnewsletter.com/subscribe?)
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-2-how-why-and-when-to-pivot|The art of the pivot, part 2: How, why, and when to pivot]]
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]

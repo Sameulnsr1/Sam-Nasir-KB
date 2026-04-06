@@ -2382,3 +2382,17 @@ You can find all past episodes or learn more about the show at lennyspodcast.com
 
 **LENNY RACHITSKY** (01:18:54):
 See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Kunal Shah|Kunal Shah]]
+
+**See also**:
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 📰 [[Newsletters/summary-april-dunford-on-product-positioning-segmentation-and-optimizing-your-sa|Summary: April Dunford on product positioning, segmentation, and optimizing y...]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]

@@ -261,3 +261,15 @@ Good luck! If you come across any other great advice, I’d love to hear it in t
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/a-three-step-framework-for-solving-problems|A Three-Step Framework For Solving Problems 👌]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]
+- 🎙️ [[Podcasts/david-placek|David Placek]]

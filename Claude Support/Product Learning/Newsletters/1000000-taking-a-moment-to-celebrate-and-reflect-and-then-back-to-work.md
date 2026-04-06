@@ -226,3 +226,15 @@ If you’d like to get your profile sent directly to their team, just fill out [
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/mike-maples-jr|Mike Maples Jr]]
+- 🎙️ [[Podcasts/kayvon-beykpour|Kayvon Beykpour]]

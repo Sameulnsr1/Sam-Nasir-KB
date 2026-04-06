@@ -137,3 +137,15 @@ For the interview process, there are a couple of things that Snowflake does that
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 📰 [[Newsletters/how-shopify-builds-product|How Shopify builds product]]
+- 📰 [[Newsletters/how-ramp-builds-product|How Ramp builds product]]
+- 🎙️ [[Podcasts/varun-parmar|Varun Parmar]]

@@ -214,3 +214,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 📰 [[Newsletters/introducing-the-gain-framework-for-feedback-an-evidence-based-approach-to-giving|Introducing the GAIN framework for feedback: an evidence-based approach to gi...]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]

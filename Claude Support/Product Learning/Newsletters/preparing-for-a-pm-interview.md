@@ -131,3 +131,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 📰 [[Newsletters/how-much-do-us-product-managers-really-make|How much do U.S. product managers really make?]]

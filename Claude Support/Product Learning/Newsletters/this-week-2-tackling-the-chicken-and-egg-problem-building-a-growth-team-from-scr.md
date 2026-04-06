@@ -74,3 +74,15 @@ Lenny 👋
 3. [Tycho's sunrise set at Burning Man](https://soundcloud.com/tycho/inversion-burning-man-sunrise-set-2019) - Live from the Dusty Rhino in Black Rock City
 
 [Sign up now](https://www.lennysnewsletter.com/subscribe?)
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
+- 🎙️ [[Podcasts/christopher-miller|Christopher Miller]]

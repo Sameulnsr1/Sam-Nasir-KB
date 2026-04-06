@@ -346,3 +346,15 @@ Finally, as I learn more about marketplaces and investing, I’ll use this post 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/your-startup-idea-probably-isnt-venture-scale|Your startup idea probably isn’t venture-scale]]
+- 🎙️ [[Podcasts/jason-cohen|Jason Cohen]]
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]

@@ -235,3 +235,15 @@ I’ve got a white-glove recruiting service specializing in senior product roles
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/summary-ai-and-product-management--marily-nika-meta-google|Summary: AI and product management | Marily Nika (Meta, Google)]]
+- 🎙️ [[Podcasts/lane-shackleton|Lane Shackleton]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/everyone-should-be-using-claude-code-more|Everyone should be using Claude Code more]]

@@ -393,3 +393,17 @@ Lenny, thank you so much for asking all these questions and giving me the opport
 
 **Lenny** (01:04:36):
 Absolutely my pleasure. That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Manik Gupta|Manik Gupta]]
+
+**See also**:
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]
+- 🎙️ [[Podcasts/phyl-terry|Phyl Terry]]
+- 🎙️ [[Podcasts/judd-antin|Judd Antin]]
+- 🎙️ [[Podcasts/paul-adams|Paul Adams]]

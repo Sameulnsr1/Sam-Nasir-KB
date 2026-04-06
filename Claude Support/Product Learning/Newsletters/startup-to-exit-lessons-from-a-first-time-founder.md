@@ -228,3 +228,15 @@ It’s challenging to quantify the real impact. Perhaps we would have received m
 [3](#footnote-anchor-3)
 
 Friendly reminder: Make it easy for your investors to work for you. Do the research, identify the person at the company you’d like to meet, and write the introductory email text.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]

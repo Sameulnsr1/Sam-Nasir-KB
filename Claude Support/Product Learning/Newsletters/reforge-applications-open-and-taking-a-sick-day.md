@@ -81,3 +81,15 @@ For one flat yearly fee, you get to participate in any three courses each year, 
 *Browse more open roles, or add your own, at [Lenny’s Job Board](https://lennysnewsletter.com/jobs).*
 
 See you next week!
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/types-of-business-models|Types of business models]]
+- 📰 [[Newsletters/startup-pm-vs-big-company-pm|Startup PM vs. big company PM]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]

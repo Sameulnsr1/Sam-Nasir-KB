@@ -451,3 +451,17 @@ Thanks so much for having me, Lenny. This is really fun.
 
 **Lenny** (01:02:22):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Andy Raskin|Andy Raskin]]
+
+**See also**:
+- 🎙️ [[Podcasts/nan-yu|Nan Yu]]
+- 🎙️ [[Podcasts/farhan-thawar|Farhan Thawar]]
+- 🎙️ [[Podcasts/tamar-yehoshua|Tamar Yehoshua]]
+- 🎙️ [[Podcasts/phyl-terry|Phyl Terry]]
+- 🎙️ [[Podcasts/melissa-tan|Melissa Tan]]

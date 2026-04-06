@@ -191,3 +191,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]
+- 📰 [[Newsletters/kickstarting-and-scaling-a-consumer-business-step-6-scale-build-your-growth-engi|Kickstarting and scaling a consumer business—Step 6: SCALE: Build your growth...]]
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/robby-stein|Robby Stein]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

@@ -63,3 +63,15 @@ That’s it for this week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 📰 [[Newsletters/how-a-traumatic-brain-injury-made-me-a-better-pm-and-person|How a traumatic brain injury made me a better PM—and person]]
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 📰 [[Newsletters/how-duolingo-builds-product|How Duolingo builds product]]
+- 📰 [[Newsletters/getting-buy-in|Getting buy-in]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]

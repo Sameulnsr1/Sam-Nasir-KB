@@ -152,3 +152,15 @@ To close: remember, you are building something that has never existed before. It
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]
+- 🎙️ [[Podcasts/maggie-crowley|Maggie Crowley]]
+- 🎙️ [[Podcasts/chris-hutchins|Chris Hutchins]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]

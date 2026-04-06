@@ -626,3 +626,17 @@ Sure thing. Thanks so much, Lenny. Appreciate it.
 
 **Lenny Rachitsky** (01:20:26):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Dalton Caldwell|Dalton Caldwell]]
+
+**See also**:
+- 📰 [[Newsletters/a-year-free-of-posthog-16500-value-the-all-in-one-analytics-experimentation-feat|A year free of PostHog ($16,500 value): The all-in-one analytics, experimenta...]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 🎙️ [[Podcasts/jake-knapp--john-zeratsky|Jake Knapp + John Zeratsky]]

@@ -534,3 +534,17 @@ Yeah, thanks for having me.
 
 **Lenny** (01:17:12):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Chris Hutchins|Chris Hutchins]]
+
+**See also**:
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]
+- 🎙️ [[Podcasts/maggie-crowley|Maggie Crowley]]
+- 📰 [[Newsletters/prioritizing-at-startups|Prioritizing at startups]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]

@@ -783,3 +783,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:41:40):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Timothy Davis|Timothy Davis]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/the-secret-to-duolingos-exponential-growth|The secret to Duolingo’s exponential growth]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 📰 [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]

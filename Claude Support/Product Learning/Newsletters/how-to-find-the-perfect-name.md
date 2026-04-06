@@ -135,3 +135,15 @@ Do that work, and your name won’t just label what you built—it will change h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/phyl-terry|Phyl Terry]]
+- 🎙️ [[Podcasts/judd-antin|Judd Antin]]
+- 🎙️ [[Podcasts/paul-adams|Paul Adams]]
+- 🎙️ [[Podcasts/itamar-gilad|Itamar Gilad]]

@@ -309,3 +309,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/drew-houston|Drew Houston]]
+- 📰 [[Newsletters/how-to-successfully-launch-on-product-hunt-when-its-right-for-your-startup|How to successfully launch on Product Hunt (when it’s right for your startup)]]
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]
+- 🎙️ [[Podcasts/kevin-aluwi|Kevin Aluwi]]

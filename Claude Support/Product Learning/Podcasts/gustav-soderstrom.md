@@ -577,3 +577,17 @@ Bye, everyone.
 
 **Lenny** (01:24:05):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Gustav Söderström|Gustav Söderström]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/alex-komoroske|Alex Komoroske]]
+- 📰 [[Newsletters/state-of-the-product-job-market-part-2|State of the product job market, part 2]]

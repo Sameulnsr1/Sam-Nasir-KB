@@ -491,3 +491,17 @@ Lenny.ai.
 
 **Lenny** (01:07:39):
 I love it. Lennybot.com, check it out. Okay, thanks Logan. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Logan Kilpatrick|Logan Kilpatrick]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]

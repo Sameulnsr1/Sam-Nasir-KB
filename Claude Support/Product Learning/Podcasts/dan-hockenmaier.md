@@ -522,3 +522,17 @@ Thank you so much for the time.
 
 **Lenny** (01:03:41):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Dan Hockenmaier|Dan Hockenmaier]]
+
+**See also**:
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/pricing-your-saas-product|Pricing your SaaS product]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 📰 [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]

@@ -484,3 +484,17 @@ Awesome, thank you very much, Lenny. It was great.
 
 **Lenny Rachitsky** (01:21:07):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Shaun Clowes|Shaun Clowes]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/bret-taylor|Bret Taylor]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]

@@ -324,3 +324,15 @@ I hope this post helps you see the role in a new and more concrete light, and if
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/the-ultimate-guide-to-negotiating-your-comp|The ultimate guide to negotiating your comp]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]

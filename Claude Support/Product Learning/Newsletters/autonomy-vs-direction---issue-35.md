@@ -140,3 +140,15 @@ I hope this proves useful to you in your journey as a manager 🙏
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/nan-yu|Nan Yu]]
+- 🎙️ [[Podcasts/farhan-thawar|Farhan Thawar]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]

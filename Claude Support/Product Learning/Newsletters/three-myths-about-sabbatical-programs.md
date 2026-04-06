@@ -216,3 +216,15 @@ To add you open roles, [visit Lenny’s Job Board](https://lennysnewsletter.com/
 
 Sincerely,
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-tech-workers-really-feel-about-work-right-now|How tech workers really feel about work right now]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

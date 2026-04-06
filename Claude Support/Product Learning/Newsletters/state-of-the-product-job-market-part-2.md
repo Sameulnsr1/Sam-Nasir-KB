@@ -192,3 +192,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]

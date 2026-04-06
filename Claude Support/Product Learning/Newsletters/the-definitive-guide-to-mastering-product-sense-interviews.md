@@ -722,3 +722,15 @@ The most effective preparation combines understanding the framework with extensi
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]

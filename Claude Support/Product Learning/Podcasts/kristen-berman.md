@@ -595,3 +595,17 @@ Wonderful. Thanks for having me, Lenny. This is super fun.
 
 **Lenny** (00:55:50):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes, or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Kristen Berman|Kristen Berman]]
+
+**See also**:
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have|How to accelerate growth by focusing on the features you already have]]
+- 🎙️ [[Podcasts/jason-fried|Jason Fried]]
+- 🎙️ [[Podcasts/lauryn-isford|Lauryn Isford]]
+- 📰 [[Newsletters/five-steps-to-starting-your-product-led-growth-motion-part-2|Five steps to starting your product-led growth motion, part 2]]

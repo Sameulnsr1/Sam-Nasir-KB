@@ -563,3 +563,17 @@ Bye everyone.
 
 **Lenny** (01:09:30):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Bob Moesta|Bob Moesta]]
+
+**See also**:
+- 🎙️ [[Podcasts/bret-taylor|Bret Taylor]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/andrew-wilkinson|Andrew Wilkinson]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

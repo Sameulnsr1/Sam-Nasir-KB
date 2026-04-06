@@ -723,3 +723,17 @@ Thanks for having me. This has been really cool. Yeah.
 
 **Lenny Rachitsky** (02:14:12):
 Same for me. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Evan LaPointe|Evan LaPointe]]
+
+**See also**:
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 🎙️ [[Podcasts/jason-fried|Jason Fried]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]

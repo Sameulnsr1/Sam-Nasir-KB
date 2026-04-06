@@ -564,3 +564,15 @@ Stay fearless, friends.
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/skills-pms-need-to-build|Skills PMs need to build]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]

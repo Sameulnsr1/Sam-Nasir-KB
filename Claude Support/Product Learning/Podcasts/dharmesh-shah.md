@@ -780,3 +780,17 @@ Thank you. Bye, everyone.
 
 **Lenny** (01:41:21):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Dharmesh Shah|Dharmesh Shah]]
+
+**See also**:
+- 🎙️ [[Podcasts/ken-norton|Ken Norton]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]

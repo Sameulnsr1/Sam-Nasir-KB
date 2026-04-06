@@ -231,3 +231,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/oji-udezue|Oji Udezue]]
+- 🎙️ [[Podcasts/sri-batchu|Sri Batchu]]
+- 🎙️ [[Podcasts/zoelle-egner|Zoelle Egner]]
+- 🎙️ [[Podcasts/elena-verna-30|Elena Verna 3.0]]
+- 📰 [[Newsletters/gtm-motions-of-30-b2b-saas-companies|GTM motions of 30 B2B SaaS companies]]

@@ -137,3 +137,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/christine-itwaru|Christine Itwaru]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]

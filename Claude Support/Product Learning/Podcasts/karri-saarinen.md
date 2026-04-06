@@ -649,3 +649,17 @@ Yes.
 
 **Lenny** (01:39:14):
 Awesome. Okay, easy-peasy. Amazing. Karri, again, thank you so much for being here. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Karri Saarinen|Karri Saarinen]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/chip-conley|Chip Conley]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]

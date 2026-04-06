@@ -938,3 +938,17 @@ Bye. Thank you, everybody.
 
 **Lenny Rachitsky** (01:51:06):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Phyl Terry|Phyl Terry]]
+
+**See also**:
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 📰 [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]
+- 🎙️ [[Podcasts/aparna-chennapragada|Aparna Chennapragada]]

@@ -612,3 +612,17 @@ My pleasure.
 
 **Lenny** (01:27:24):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**Guest**: [[Guests/Sam Schillace|Sam Schillace]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/what-people-are-vibe-coding-and-actually-using|What people are vibe coding (and actually using)]]
+- 📰 [[Newsletters/how-techs-most-resilient-workers-handle-burnout|How tech’s most resilient workers handle burnout]]
+- 📰 [[Newsletters/a-new-parent-gift-guide|A new-parent gift guide]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]

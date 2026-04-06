@@ -966,3 +966,17 @@ Thank you so much for listening. If you found this valuable, you can subscribe t
 
 **Speaker 1** (01:31:52):
 Also, please consider giving us a rating, or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes, or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Matt LeMay|Matt LeMay]]
+
+**See also**:
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/chip-conley|Chip Conley]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]

@@ -212,3 +212,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/kenneth-berger|Kenneth Berger]]
+- 🎙️ [[Podcasts/jiaona-zhang|Jiaona Zhang]]
+- 🎙️ [[Podcasts/deb-liu|Deb Liu]]

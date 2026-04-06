@@ -135,3 +135,15 @@ If you’d like to get your profile sent directly to their team, just fill out [
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/chip-conley|Chip Conley]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 📰 [[Newsletters/which-companies-accelerate-pm-careers-most|Which companies accelerate PM careers most]]

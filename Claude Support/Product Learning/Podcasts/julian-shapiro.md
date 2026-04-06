@@ -472,3 +472,17 @@ Dude, truly my pleasure. I think you're awesome and you're why I'm doing the pod
 
 **Lenny** (00:59:02):
 Thanks, man. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Julian Shapiro|Julian Shapiro]]
+
+**See also**:
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 📰 [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-5-retain-iterate-until-enoug|How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until ...]]
+- 🎙️ [[Podcasts/gibson-biddle|Gibson Biddle]]
+- 🎙️ [[Podcasts/jason-cohen|Jason Cohen]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

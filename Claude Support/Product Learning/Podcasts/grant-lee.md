@@ -930,3 +930,17 @@ It's been a blast for me too. Bye everyone.
 
 **Lenny Rachitsky** (01:53:29):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Grant Lee|Grant Lee]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 🎙️ [[Podcasts/robby-stein|Robby Stein]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-2-how-why-and-when-to-pivot|The art of the pivot, part 2: How, why, and when to pivot]]
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]

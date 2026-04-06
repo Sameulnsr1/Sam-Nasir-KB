@@ -373,3 +373,17 @@ Thanks, Lenny.
 
 **Lenny** (00:55:43):
 Thanks for listening. You can find the full episode on YouTube, or head on over to lennyspodcast.com.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Keith Yandell|Keith Yandell]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/dan-shipper|Dan Shipper]]
+- 🎙️ [[Podcasts/bob-baxley|Bob Baxley]]

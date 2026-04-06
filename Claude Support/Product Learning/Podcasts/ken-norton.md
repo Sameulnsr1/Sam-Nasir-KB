@@ -679,3 +679,17 @@ Thanks for having me, Lenny.
 
 **Lenny** (01:13:46):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast and, even better, leave a review, which helps a lot. You can also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Ken Norton|Ken Norton]]
+
+**See also**:
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/chip-conley|Chip Conley]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]

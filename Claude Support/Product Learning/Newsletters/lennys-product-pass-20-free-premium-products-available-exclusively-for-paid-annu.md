@@ -86,3 +86,15 @@ It’s everything you need to build a world-class product—and career.
 Sincerely,
 
 Lenny
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**See also**:
+- 🎙️ [[Podcasts/graham-weaver|Graham Weaver]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]

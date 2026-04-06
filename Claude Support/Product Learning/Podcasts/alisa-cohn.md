@@ -742,3 +742,17 @@ Thank you so much for having me, Lenny. It was great.
 
 **Lenny Rachitsky** (01:23:17):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Alisa Cohn|Alisa Cohn]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-1|Essential reading for product builders—part 1]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]

@@ -135,3 +135,15 @@ Here’s a handy chart that summarizes your three options for winning on the dem
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]
+- 📰 [[Newsletters/in-defense-of-feature-team-product-managers|In defense of feature team product managers]]

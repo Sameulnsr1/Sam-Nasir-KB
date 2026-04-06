@@ -412,3 +412,17 @@ Thanks, Lenny.
 
 **Lenny** (00:52:53):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Naomi Ionita|Naomi Ionita]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]

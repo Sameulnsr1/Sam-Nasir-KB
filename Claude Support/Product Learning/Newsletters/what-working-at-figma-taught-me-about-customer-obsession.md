@@ -182,3 +182,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/top-angel-investors-in-the-us|Top angel investors in the U.S.]]
+- 🎙️ [[Podcasts/paul-millerd|Paul Millerd]]
+- 📰 [[Newsletters/how-to-identify-your-ideal-customer-profile-icp|How to identify your ideal customer profile (ICP)]]
+- 🎙️ [[Podcasts/noah-weiss|Noah Weiss]]

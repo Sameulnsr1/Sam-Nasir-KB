@@ -906,3 +906,17 @@ Bye, everyone.
 
 **Lenny** (01:03:18):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Camille Hearst|Camille Hearst]]
+
+**See also**:
+- 🎙️ [[Podcasts/ray-cao|Ray Cao]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 📰 [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]

@@ -145,3 +145,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/phyl-terry|Phyl Terry]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]

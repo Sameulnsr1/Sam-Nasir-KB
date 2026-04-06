@@ -831,3 +831,17 @@ Thank you so much for having me.
 
 **Lenny** (01:25:08):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Noah Weiss|Noah Weiss]]
+
+**See also**:
+- 📰 [[Newsletters/how-to-activate-your-investor-network|How to activate your investor network]]
+- 🎙️ [[Podcasts/sahil-mansuri|Sahil Mansuri]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]

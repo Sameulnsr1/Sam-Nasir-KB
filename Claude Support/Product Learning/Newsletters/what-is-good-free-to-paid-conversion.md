@@ -189,3 +189,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
+- 📰 [[Newsletters/freemium-vs-trial|Freemium vs. trial]]

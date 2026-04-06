@@ -721,3 +721,17 @@ All right, man, thanks so much. See you soon.
 
 **Lenny Rachitsky** (01:31:13):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Kevin Weil|Kevin Weil]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/uri-levine|Uri Levine]]
+- 🎙️ [[Podcasts/paul-adams|Paul Adams]]
+- 🎙️ [[Podcasts/alex-hardimen|Alex Hardimen]]

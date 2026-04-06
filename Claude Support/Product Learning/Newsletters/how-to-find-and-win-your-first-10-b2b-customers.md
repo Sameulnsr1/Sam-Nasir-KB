@@ -401,3 +401,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/jason-fried|Jason Fried]]
+- 🎙️ [[Podcasts/oji-udezue|Oji Udezue]]
+- 📰 [[Newsletters/how-to-hire-your-first-growth-team|How to hire your first growth team]]
+- 🎙️ [[Podcasts/sri-batchu|Sri Batchu]]
+- 📰 [[Newsletters/the-unconventional-palantir-principles-that-catalyzed-a-generation-of-startups|The unconventional Palantir principles that catalyzed a generation of startups]]

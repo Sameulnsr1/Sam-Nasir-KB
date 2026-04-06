@@ -128,3 +128,15 @@ See you next week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]

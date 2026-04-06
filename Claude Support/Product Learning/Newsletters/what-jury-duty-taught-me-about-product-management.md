@@ -165,3 +165,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]
+- 📰 [[Newsletters/how-figma-builds-product|How Figma builds product]]
+- 📰 [[Newsletters/how-to-know-if-youre-doing-a-good-job-as-a-product-manager|How to know if you're doing a good job as a product manager]]

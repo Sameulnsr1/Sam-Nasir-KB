@@ -286,3 +286,15 @@ Lenny 👋
 [1](#footnote-anchor-1)
 
 Claude Code does not actually run “locally” on your machine—the AI/LLM processing happens in the cloud—but you run the commands locally (directly on your machine), it has access to all of your local files and computer interfaces, and its specifically designed to feel “local.”
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/dan-shipper|Dan Shipper]]
+- 📰 [[Newsletters/five-proven-prompt-engineering-techniques-and-a-few-more-advanced-tactics|Five proven prompt engineering techniques (and a few more-advanced tactics)]]
+- 📰 [[Newsletters/summary-ai-and-product-management--marily-nika-meta-google|Summary: AI and product management | Marily Nika (Meta, Google)]]
+- 🎙️ [[Podcasts/lane-shackleton|Lane Shackleton]]

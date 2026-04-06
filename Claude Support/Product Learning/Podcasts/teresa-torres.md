@@ -501,3 +501,17 @@ Lenny, thanks so much for having me. This has been fun.
 
 **Lenny** (00:47:15):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Teresa Torres|Teresa Torres]]
+
+**See also**:
+- 🎙️ [[Podcasts/petra-wille|Petra Wille]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]

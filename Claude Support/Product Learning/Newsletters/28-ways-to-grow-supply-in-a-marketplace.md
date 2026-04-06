@@ -748,3 +748,15 @@ Sincerely,
 Lenny
 
 *Thank you [Andrew Chen](https://twitter.com/andrewchen),* [Gustaf Alströmer](https://twitter.com/gustaf), *[Jonathan Golden](https://twitter.com/jpgg)*, *[Fatima Husain](https://www.linkedin.com/in/fatima-husain-0a278711/), [Marc McCabe](https://twitter.com/mccabe?lang=en), [Dan Hill](https://twitter.com/danhilltech?lang=en), [Kati Schmidt](https://www.linkedin.com/in/katrinschmidt/), and [Georg Bauser](https://expansion-partner.com/) for reviewing early drafts of this post and contributing great ideas. 🙏*
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/austin-hay|Austin Hay]]
+- 🎙️ [[Podcasts/scott-belsky|Scott Belsky]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/aparna-chennapragada|Aparna Chennapragada]]

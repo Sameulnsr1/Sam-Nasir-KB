@@ -179,3 +179,15 @@ If you’ve got a story to share about how you broke into growth, I’d love to 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 🎙️ [[Podcasts/bill-carr|Bill Carr]]
+- 🎙️ [[Podcasts/josh-miller|Josh Miller]]
+- 🎙️ [[Podcasts/marily-nika|Marily Nika]]

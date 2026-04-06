@@ -705,3 +705,17 @@ Bye.
 
 **Lenny Rachitsky** (01:23:35):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]]
+
+**Guest**: [[Guests/Ami Vora|Ami Vora]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/flywheels-flywheels-flywheels|Flywheels, flywheels, flywheels]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]

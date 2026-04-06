@@ -208,3 +208,15 @@ If your new RSUs are more than 10% of your liquid net worth, you should make a p
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-1-the-definitive-list-of-successful-pivots|The art of the pivot, part 1: The definitive list of successful pivots]]
+- 📰 [[Newsletters/hiring-your-early-team|Hiring your early team]]

@@ -240,3 +240,15 @@ Once you have started and are on your way, you’ll eventually want to hand sale
 
 Sincerely,
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/oji-udezue|Oji Udezue]]
+- 📰 [[Newsletters/how-to-hire-your-first-growth-team|How to hire your first growth team]]
+- 🎙️ [[Podcasts/sri-batchu|Sri Batchu]]
+- 🎙️ [[Podcasts/zoelle-egner|Zoelle Egner]]
+- 🎙️ [[Podcasts/elena-verna-30|Elena Verna 3.0]]

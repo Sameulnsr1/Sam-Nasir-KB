@@ -112,3 +112,15 @@ See you in 2022 ✨✨✨
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]]
+
+**See also**:
+- 📰 [[Newsletters/how-to-successfully-launch-on-product-hunt-when-its-right-for-your-startup|How to successfully launch on Product Hunt (when it’s right for your startup)]]
+- 📰 [[Newsletters/the-racecar-growth-framework-expanded-and-illustrated|The Racecar Growth Framework—expanded and illustrated]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/robby-stein|Robby Stein]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

@@ -86,3 +86,15 @@ You could argue that there were macro trends that explain why a DoorDash or an I
 > #### **—Bill Trenchard, First Round Capital**
 
 [Subscribe to continue reading 👉](https://www.lennysnewsletter.com/p/why-now)
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]

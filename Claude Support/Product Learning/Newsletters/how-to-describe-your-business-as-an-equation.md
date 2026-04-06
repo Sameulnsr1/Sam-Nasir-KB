@@ -527,3 +527,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/what-is-a-good-payback-period|What is a good payback period?]]
+- 📰 [[Newsletters/what-is-good-retention|What is good retention?]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]

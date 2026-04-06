@@ -514,3 +514,17 @@ Thank you so much, Lenny, for having me and your great well-researched questions
 
 **Lenny Rachitsky** (01:05:42):
 Thank you. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lenny'sPodcasts.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Melanie Perkins|Melanie Perkins]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/alexander-embiricos|Alexander Embiricos]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 🎙️ [[Podcasts/michael-truell|Michael Truell]]
+- 🎙️ [[Podcasts/alex-komoroske|Alex Komoroske]]

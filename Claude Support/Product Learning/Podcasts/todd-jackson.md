@@ -687,3 +687,17 @@ Lenny, it's been a pleasure.
 
 **Lenny Rachitsky** (01:26:44):
 It's been my pleasure. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Todd Jackson|Todd Jackson]]
+
+**See also**:
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]

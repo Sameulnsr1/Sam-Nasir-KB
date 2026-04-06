@@ -306,3 +306,15 @@ Two critiques of MPL are that (1) it anchors people on a number (maybe I was thi
 [6](#footnote-anchor-6)
 
 [There is some evidence](https://www.sciencedirect.com/science/article/abs/pii/S0095069614000692) that better-informed people will have higher WTP for the same item compared with less-informed people. In this study, there was a significant increase of $85 to $129 in WTP for well-informed individuals. This implies that you may have a difference in prices for people who understand your category and product versus people who do not.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 📰 [[Newsletters/how-to-make-an-impact-in-your-first-90-days|How to make an impact in your first 90 days]]
+- 🎙️ [[Podcasts/christopher-miller|Christopher Miller]]
+- 📰 [[Newsletters/your-startup-idea-probably-isnt-venture-scale|Your startup idea probably isn’t venture-scale]]
+- 🎙️ [[Podcasts/carilu-dietrich|Carilu Dietrich]]

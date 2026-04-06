@@ -14,3 +14,8 @@ Taking this week off to spend time with family, friends, and getting outside. Ha
 P.S. [My PTO policy](https://www.lennysnewsletter.com/p/marketplace-city-expansion).
 
 P.P.S. If you’re hankering for some time off, [don’t miss this post](https://www.lennysnewsletter.com/p/sabbatical-time-off).
+---
+
+## Related
+
+**Topics**: [[Topics/Strategy|Strategy]]

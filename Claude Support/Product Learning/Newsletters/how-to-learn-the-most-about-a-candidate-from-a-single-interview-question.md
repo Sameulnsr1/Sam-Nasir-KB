@@ -275,3 +275,15 @@ We recently partnered with Notion to help them scale their PM team. [One role th
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 📰 [[Newsletters/how-much-product-managers-make-in-the-us-europe-and-canada|How much product managers make in the U.S., Europe, and Canada]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 🎙️ [[Podcasts/noam-lovinsky|Noam Lovinsky]]
+- 🎙️ [[Podcasts/christian-idiodi|Christian Idiodi]]

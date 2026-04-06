@@ -341,3 +341,17 @@ Thanks so much.
 
 **Lenny** (00:54:50):
 That was awesome, thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast and even better leave a review, which helps a lot. You can also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Casey Winters|Casey Winters]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]

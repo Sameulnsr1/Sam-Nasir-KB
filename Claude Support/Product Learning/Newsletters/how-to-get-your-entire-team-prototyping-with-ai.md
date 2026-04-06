@@ -477,3 +477,15 @@ Give these workflows a try, and feel free to reach out with your progress. I’m
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/alexander-embiricos|Alexander Embiricos]]
+- 📰 [[Newsletters/beyond-vibe-checks-a-pms-complete-guide-to-evals|Beyond vibe checks: A PM’s complete guide to evals]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]

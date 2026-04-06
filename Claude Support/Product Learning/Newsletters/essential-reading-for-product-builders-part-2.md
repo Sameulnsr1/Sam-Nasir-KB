@@ -117,3 +117,15 @@ I’m not including books here—that list is yet to come. If you have suggestio
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]

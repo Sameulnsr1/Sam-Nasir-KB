@@ -69,3 +69,28 @@ Some of the product leaders in the dataset:
 - **Uri Levine** — Co-founder, Waze
 - **Logan Kilpatrick** — AI/ML (Google, OpenAI)
 - **Karri Saarinen** — CEO, Linear
+
+---
+
+## Topic Maps
+
+Browse by topic — each page links to all related podcasts and newsletters:
+
+| Topic | Articles |
+|---|---|
+| [[Topics/AI|AI]] | 128 |
+| [[Topics/Analytics|Analytics]] | 107 |
+| [[Topics/B2B|B2B]] | 184 |
+| [[Topics/B2C|B2C]] | 163 |
+| [[Topics/Career|Career]] | 247 |
+| [[Topics/Engineering|Engineering]] | 175 |
+| [[Topics/Go-to-Market|Go-to-Market]] | 107 |
+| [[Topics/Growth|Growth]] | 289 |
+| [[Topics/Leadership|Leadership]] | 493 |
+| [[Topics/Organization|Organization]] | 49 |
+| [[Topics/Pricing|Pricing]] | 52 |
+| [[Topics/Product Management|Product Management]] | 191 |
+| [[Topics/Startups|Startups]] | 264 |
+| [[Topics/Strategy|Strategy]] | 364 |
+
+See also: [[Guests/]] for pages on individual podcast guests.

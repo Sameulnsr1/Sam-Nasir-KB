@@ -198,3 +198,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/how-miro-builds-product|How Miro builds product]]
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]

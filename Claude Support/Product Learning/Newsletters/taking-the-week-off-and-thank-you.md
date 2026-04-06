@@ -36,3 +36,8 @@ A post shared by [@michellerial](https://instagram.com/michellerial)
    3. [How to drive word of mouth | Nilan Peiris (CPO of Wise)](https://youtu.be/xZifSLGOrrw?si=nfwGZWsdcB9XYXdm)
 
 Till next year 🫡
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]]

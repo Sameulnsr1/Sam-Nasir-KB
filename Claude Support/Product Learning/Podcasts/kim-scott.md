@@ -637,3 +637,17 @@ Take care everyone.
 
 **Lenny** (01:26:15):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lenny'spodcasts.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Kim Scott|Kim Scott]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 🎙️ [[Podcasts/dan-shipper|Dan Shipper]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 🎙️ [[Podcasts/alex-komoroske|Alex Komoroske]]

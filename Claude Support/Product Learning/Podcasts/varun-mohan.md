@@ -676,3 +676,17 @@ What an incredible conversation. Thanks, Varun. Bye everyone.
 
 **Lenny Rachitsky** (01:13:42):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Varun Mohan|Varun Mohan]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/edwin-chen|Edwin Chen]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]

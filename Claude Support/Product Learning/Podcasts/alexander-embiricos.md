@@ -673,3 +673,17 @@ Yeah, thanks so much for having me. This was fun.
 
 **Lenny Rachitsky** (01:24:48):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Alexander Embiricos|Alexander Embiricos]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/marc-andreessen|Marc Andreessen]]
+- 🎙️ [[Podcasts/edwin-chen|Edwin Chen]]
+- 📰 [[Newsletters/part-2-of-how-to-get-the-most-out-of-your-product-pass-and-welcome-stripe-atlas|Part 2 of how to get the most out of your product pass—and welcome, Stripe At...]]

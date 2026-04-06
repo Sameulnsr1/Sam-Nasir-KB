@@ -166,3 +166,15 @@ If you answered yes to these questions, you might have just found the next rocke
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-1|Essential reading for product builders—part 1]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

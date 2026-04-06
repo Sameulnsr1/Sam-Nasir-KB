@@ -388,3 +388,17 @@ This was wonderful. Thank you so much for having me, Lenny.
 
 **Lenny** (01:05:29):
 That was awesome. Thank you for listening. If you enjoy the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Julie Zhuo|Julie Zhuo]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/heidi-helfand|Heidi Helfand]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]

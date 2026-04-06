@@ -61,3 +61,15 @@ That burrito looks delicious because we’re all picturing our favorite burrito 
 Now that we know a goal is just a way to understand whether you’re achieving your strategy, let’s talk about how to decide what the actual goal should be…
 
 [Read Full Post](https://www.lennyrachitsky.com/p/setting-goals-issue-23)
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 📰 [[Newsletters/how-shopify-builds-product|How Shopify builds product]]
+- 📰 [[Newsletters/how-snowflake-builds-product|How Snowflake builds product]]
+- 📰 [[Newsletters/how-ramp-builds-product|How Ramp builds product]]

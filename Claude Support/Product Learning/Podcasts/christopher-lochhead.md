@@ -728,3 +728,17 @@ Thanks Chris. Bye everyone.
 
 **Lenny** (01:48:11):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast. com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Christopher Lochhead|Christopher Lochhead]]
+
+**See also**:
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ [[Podcasts/itamar-gilad|Itamar Gilad]]
+- 🎙️ [[Podcasts/noah-weiss|Noah Weiss]]
+- 🎙️ [[Podcasts/ayo-omojola|Ayo Omojola]]
+- 📰 [[Newsletters/how-to-activate-your-investor-network|How to activate your investor network]]

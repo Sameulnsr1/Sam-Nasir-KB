@@ -651,3 +651,17 @@ Thank you so much for listening. If you found this valuable, you can subscribe t
 
 **Lenny** (01:38:27):
 See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Madhavan Ramanujam|Madhavan Ramanujam]]
+
+**See also**:
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]

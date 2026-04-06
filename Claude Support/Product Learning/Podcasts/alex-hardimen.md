@@ -634,3 +634,17 @@ Thank you so much, Lenny. This was really fun.
 
 **Lenny** (01:10:40):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Alex Hardimen|Alex Hardimen]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]
+- 🎙️ [[Podcasts/kevin-weil|Kevin Weil]]
+- 📰 [[Newsletters/why-youre-so-angry-at-work-and-what-to-do-about-it|Why you’re so angry at work (and what to do about it)]]
+- 🎙️ [[Podcasts/nikita-bier|Nikita Bier]]

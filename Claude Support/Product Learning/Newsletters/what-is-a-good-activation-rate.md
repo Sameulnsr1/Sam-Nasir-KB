@@ -344,3 +344,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 🎙️ [[Podcasts/nilan-peiris|Nilan Peiris]]
+- 🎙️ [[Podcasts/oji-udezue|Oji Udezue]]

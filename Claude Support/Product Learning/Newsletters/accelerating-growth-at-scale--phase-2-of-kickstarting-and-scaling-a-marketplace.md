@@ -215,3 +215,15 @@ Stay tuned for the next, and penultimate, post in this series next week — **ho
 - **Part 2:** Scale growth levers 🔥 (this post)
 - **[Part 3:](https://www.lennysnewsletter.com/p/maintaining-quality-kickstarting)** [Maintain quality 🏅](https://www.lennysnewsletter.com/p/maintaining-quality-kickstarting)
 - **[Part 4:](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)** [What would you have done differently if you did it again](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)**[🔮](https://www.lennyrachitsky.com/p/what-theyd-do-differently-kickstarting)**
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 🎙️ [[Podcasts/nilan-peiris|Nilan Peiris]]
+- 🎙️ [[Podcasts/tim-holley|Tim Holley]]
+- 📰 [[Newsletters/the-racecar-growth-framework-expanded-and-illustrated|The Racecar Growth Framework—expanded and illustrated]]
+- 🎙️ [[Podcasts/gia-laudi|Gia Laudi]]

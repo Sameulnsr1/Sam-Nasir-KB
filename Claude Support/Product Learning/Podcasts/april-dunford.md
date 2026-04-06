@@ -715,3 +715,17 @@ All right. Well, thanks so much for having me and congratulations on the new pod
 
 **Lenny** (01:00:42):
 Me too. Me too. That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/April Dunford|April Dunford]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 📰 [[Newsletters/positioning|Positioning]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]

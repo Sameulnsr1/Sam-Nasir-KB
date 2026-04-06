@@ -85,3 +85,15 @@ Good luck with this new role, and see you next week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/reforge-applications-open-and-taking-a-sick-day|Reforge applications open (and taking a sick day)]]
+- 📰 [[Newsletters/types-of-business-models|Types of business models]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]

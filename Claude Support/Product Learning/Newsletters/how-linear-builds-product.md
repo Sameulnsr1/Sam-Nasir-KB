@@ -137,3 +137,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 📰 [[Newsletters/how-to-communicate-tradeoffs-so-leaders-will-listen|How to communicate tradeoffs so leaders will listen]]

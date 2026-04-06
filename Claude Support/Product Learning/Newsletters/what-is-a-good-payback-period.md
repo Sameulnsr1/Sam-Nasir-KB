@@ -219,3 +219,15 @@ If you have any other advice on tracking, improving, or operationalizing payback
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
+- 📰 [[Newsletters/what-is-good-retention|What is good retention?]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]

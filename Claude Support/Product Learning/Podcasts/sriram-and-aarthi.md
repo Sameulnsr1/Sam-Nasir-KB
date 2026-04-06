@@ -670,3 +670,17 @@ Thank you.
 
 **Lenny** (01:22:27):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify or your favorite podcast app. Also, please consider giving us a rating or a leaving review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Sriram and Aarthi|Sriram and Aarthi]]
+
+**See also**:
+- 🎙️ [[Podcasts/gina-gotthilf|Gina Gotthilf]]
+- 📰 [[Newsletters/virality-is-a-myth-mostly|Virality is a myth (mostly)]]
+- 📰 [[Newsletters/how-to-build-trust-in-a-marketplace|How to build trust in a marketplace]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]

@@ -111,3 +111,15 @@ The PM role is weird and complicated, but I hope the above gives a clearer sense
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]
+- 📰 [[Newsletters/what-jury-duty-taught-me-about-product-management|What jury duty taught me about product management]]
+- 📰 [[Newsletters/how-figma-builds-product|How Figma builds product]]

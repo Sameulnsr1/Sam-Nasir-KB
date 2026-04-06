@@ -895,3 +895,17 @@ Thank you so much for listening. If you found this valuable, you can subscribe t
 
 **Lenny Rachitsky** (01:44:25):
 You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Marc Andreessen|Marc Andreessen]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
+- 🎙️ [[Podcasts/alexander-embiricos|Alexander Embiricos]]
+- 🎙️ [[Podcasts/edwin-chen|Edwin Chen]]

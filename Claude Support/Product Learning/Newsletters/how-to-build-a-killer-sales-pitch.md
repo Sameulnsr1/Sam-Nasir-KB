@@ -208,3 +208,15 @@ I’ve recently released a book, called *[Sales Pitch](https://www.amazon.com/Sa
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 📰 [[Newsletters/summary-april-dunford-on-product-positioning-segmentation-and-optimizing-your-sa|Summary: April Dunford on product positioning, segmentation, and optimizing y...]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ [[Podcasts/kunal-shah|Kunal Shah]]
+- 🎙️ [[Podcasts/april-dunford|April Dunford]]

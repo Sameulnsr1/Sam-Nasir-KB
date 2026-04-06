@@ -52,3 +52,15 @@ Spots are limited, so apply now 👇
 [Apply now](https://maven.com/lenny/product-management-fundamentals)
 
 *P.S. Ask your manager if you can expense this to your learning and development budget. If not, I’m also giving out a limited number of scholarships.*
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/jackie-bavaro|Jackie Bavaro]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]

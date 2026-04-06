@@ -149,3 +149,15 @@ If you’d like to receive this newsletter weekly, consider subscribing 👇
 
 Sincerely,
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/bill-carr|Bill Carr]]
+- 📰 [[Newsletters/the-top-5-things-pms-should-know-about-engineering|The top 5 things PMs should know about engineering]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]

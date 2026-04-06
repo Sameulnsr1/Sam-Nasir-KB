@@ -22,3 +22,15 @@ If you’re looking for something to read or listen to in the meantime:
 3. [100 Best Books since 2000](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html) in the *New York Times*.
 
 See you next week!
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/sam-lessin|Sam Lessin]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]

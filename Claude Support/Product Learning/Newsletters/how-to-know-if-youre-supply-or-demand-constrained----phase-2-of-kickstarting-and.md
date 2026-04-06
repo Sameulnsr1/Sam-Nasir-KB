@@ -150,3 +150,15 @@ With a renewed sense of which side of the marketplace to concentrate on, the nex
 - **[Part 2:](https://www.lennysnewsletter.com/p/accelerating-growth-at-scale-phase)** [Scale growth levers 🔥](https://www.lennysnewsletter.com/p/accelerating-growth-at-scale-phase)
 - **[Part 3:](https://www.lennysnewsletter.com/p/maintaining-quality-kickstarting)** [Maintain quality 🏅](https://www.lennysnewsletter.com/p/maintaining-quality-kickstarting)
 - **[Part 4:](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)** [What would you have done differently if you did it again](https://www.lennysnewsletter.com/p/what-theyd-do-differently-kickstarting)**[🔮](https://www.lennyrachitsky.com/p/what-theyd-do-differently-kickstarting)**
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-2-how-why-and-when-to-pivot|The art of the pivot, part 2: How, why, and when to pivot]]
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]

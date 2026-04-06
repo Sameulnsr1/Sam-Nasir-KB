@@ -546,3 +546,17 @@ Bye everyone.
 
 **Lenny** (01:24:18):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Nir Eyal|Nir Eyal]]
+
+**See also**:
+- 🎙️ [[Podcasts/judd-antin|Judd Antin]]
+- 🎙️ [[Podcasts/gina-gotthilf|Gina Gotthilf]]
+- 🎙️ [[Podcasts/laura-modi|Laura Modi]]
+- 🎙️ [[Podcasts/sriram-and-aarthi|Sriram and Aarthi]]
+- 📰 [[Newsletters/virality-is-a-myth-mostly|Virality is a myth (mostly)]]

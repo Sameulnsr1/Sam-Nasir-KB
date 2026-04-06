@@ -163,3 +163,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]
+- 🎙️ [[Podcasts/noam-lovinsky|Noam Lovinsky]]

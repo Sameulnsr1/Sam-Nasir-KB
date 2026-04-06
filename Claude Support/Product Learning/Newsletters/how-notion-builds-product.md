@@ -168,3 +168,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 📰 [[Newsletters/how-duolingo-builds-product|How Duolingo builds product]]
+- 🎙️ [[Podcasts/marty-cagan|Marty Cagan]]
+- 📰 [[Newsletters/ideal-sprint-length-designer-vs-pm-roles-running-pm-team-meetings-running-post-m|Ideal sprint length, designer vs. PM roles, running PM team meetings, running...]]

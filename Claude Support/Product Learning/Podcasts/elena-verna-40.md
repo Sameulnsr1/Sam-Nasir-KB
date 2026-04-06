@@ -767,3 +767,17 @@ Thank you for having me. Really appreciate you.
 
 **Lenny Rachitsky** (01:31:29):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Elena Verna 4.0|Elena Verna 4.0]]
+
+**See also**:
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
+- 📰 [[Newsletters/what-is-a-good-payback-period|What is a good payback period?]]
+- 📰 [[Newsletters/what-is-good-retention|What is good retention?]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]

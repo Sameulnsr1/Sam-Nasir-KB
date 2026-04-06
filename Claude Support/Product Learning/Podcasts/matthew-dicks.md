@@ -668,3 +668,17 @@ Thanks so much, Lenny. I really appreciate it.
 
 **Lenny** (01:42:31):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Matthew Dicks|Matthew Dicks]]
+
+**See also**:
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]

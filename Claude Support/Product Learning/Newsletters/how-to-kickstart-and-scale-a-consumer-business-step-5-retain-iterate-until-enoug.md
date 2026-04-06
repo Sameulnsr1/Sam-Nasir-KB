@@ -676,3 +676,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 📰 [[Newsletters/when-and-how-to-run-a-billboard-campaign|When and how to run a billboard campaign]]
+- 🎙️ [[Podcasts/emilie-gerber|Emilie Gerber]]
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]

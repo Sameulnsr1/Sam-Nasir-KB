@@ -261,3 +261,15 @@ If you’d like to get your profile sent directly to their team, just fill out [
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 📰 [[Newsletters/how-much-do-us-product-managers-really-make|How much do U.S. product managers really make?]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]

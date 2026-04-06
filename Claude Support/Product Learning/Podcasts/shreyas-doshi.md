@@ -376,3 +376,17 @@ Great. Bye.
 
 **Lenny** (01:16:41):
 That was awesome. Thank you for listening. If you enjoy the chat, don't forget to subscribe to the podcast. You can also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Shreyas Doshi|Shreyas Doshi]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]

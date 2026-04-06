@@ -25,3 +25,15 @@ Pro tip: Try the “Voice” mode.
 ![Image from Taking the week off](https://substack-post-media.s3.amazonaws.com/public/images/dca89170-5e3e-4f73-b2d3-10ccb341f3e7_4032x3024.jpeg)
 
 See you next week!
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/kenneth-berger|Kenneth Berger]]
+- 📰 [[Newsletters/when-they-hired-their-first-pm|When they hired their first PM]]
+- 🎙️ [[Podcasts/jiaona-zhang|Jiaona Zhang]]
+- 🎙️ [[Podcasts/deb-liu|Deb Liu]]

@@ -542,3 +542,17 @@ Good stuff. Take care.
 
 **Lenny** (01:09:26):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Adam Grenier|Adam Grenier]]
+
+**See also**:
+- 🎙️ [[Podcasts/melissa-tan|Melissa Tan]]
+- 🎙️ [[Podcasts/elena-verna-30|Elena Verna 3.0]]
+- 📰 [[Newsletters/the-minto-pyramid-principle-and-the-scr-framework|The Minto Pyramid Principle and the SCR Framework]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

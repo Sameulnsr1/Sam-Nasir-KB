@@ -521,3 +521,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/state-of-the-product-job-market-in-2025|State of the product job market in 2025]]
+- 📰 [[Newsletters/state-of-the-product-job-market-part-2|State of the product job market, part 2]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]

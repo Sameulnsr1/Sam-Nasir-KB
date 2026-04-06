@@ -282,3 +282,15 @@ Once you sense that you’ve got enough supply — or even prior to that (we’l
 2. If you have any other insights to share about what was important early-on for your company (or any marketplace company), I’d love love love to know. Please share!
 
 [Sign up now](https://www.lennysnewsletter.com/subscribe?)
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 📰 [[Newsletters/when-and-how-to-run-a-billboard-campaign|When and how to run a billboard campaign]]
+- 🎙️ [[Podcasts/emilie-gerber|Emilie Gerber]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]

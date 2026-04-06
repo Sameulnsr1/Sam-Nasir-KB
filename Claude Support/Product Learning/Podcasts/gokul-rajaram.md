@@ -498,3 +498,17 @@ Thank you, Lenny. Thanks for having me.
 
 **Lenny** (01:02:06):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at Lenny's podcast dot com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Gokul Rajaram|Gokul Rajaram]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/kenneth-berger|Kenneth Berger]]
+- 📰 [[Newsletters/when-they-hired-their-first-pm|When they hired their first PM]]
+- 🎙️ [[Podcasts/jiaona-zhang|Jiaona Zhang]]

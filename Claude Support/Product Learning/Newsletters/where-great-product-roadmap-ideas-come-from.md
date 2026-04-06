@@ -38,3 +38,15 @@ Sincerely,
 [Lenny](https://twitter.com/lennysan)
 
 *Thank you to everyone who contributed your great suggestions on [this twitter thread](https://twitter.com/lennysan/status/1135563031352471552), particularly [Gustaf Alströmer](https://medium.com/@gustaf), [Alistair Croll](https://medium.com/@acroll), [Blake Robbins](https://medium.com/@blakeir), [Carey Caulfield](https://medium.com/@careycaulfield), [Lin Classon](https://twitter.com/lin_IRL), [Justin Jones](https://twitter.com/devpuppy?lang=en), [Henry Vazquez](https://twitter.com/hvasquez), and [Jatin Bhatia](https://twitter.com/JBhatia001)*🙏
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]
+- 🎙️ [[Podcasts/anuj-rathi|Anuj Rathi]]
+- 🎙️ [[Podcasts/maggie-crowley|Maggie Crowley]]

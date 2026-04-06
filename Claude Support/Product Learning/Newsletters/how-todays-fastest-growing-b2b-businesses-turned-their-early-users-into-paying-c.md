@@ -174,3 +174,15 @@ Let’s dive in!
 > This was first put out in the wild using our very popular user forum, which was mostly comprised of our most vocal fans and evangelists. As you can imagine, awareness spread like wildfire after this.
 
 [Subscribe To Read Full Post](https://www.lennyrachitsky.com/subscribe)
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ [[Podcasts/kunal-shah|Kunal Shah]]
+- 🎙️ [[Podcasts/april-dunford|April Dunford]]

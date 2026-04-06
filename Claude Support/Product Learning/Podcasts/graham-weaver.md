@@ -477,3 +477,17 @@ Thank you, Lenny.
 
 **Lenny Rachitsky** (01:11:46):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Graham Weaver|Graham Weaver]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/lennys-product-pass-20-free-premium-products-available-exclusively-for-paid-annu|Lenny's Product Pass: 20+ free premium products, available exclusively for pa...]]
+- 🎙️ [[Podcasts/bob-baxley|Bob Baxley]]
+- 🎙️ [[Podcasts/jessica-livingston|Jessica Livingston]]

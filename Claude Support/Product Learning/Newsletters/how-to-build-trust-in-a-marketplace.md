@@ -261,3 +261,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/gina-gotthilf|Gina Gotthilf]]
+- 🎙️ [[Podcasts/sriram-and-aarthi|Sriram and Aarthi]]
+- 📰 [[Newsletters/virality-is-a-myth-mostly|Virality is a myth (mostly)]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]

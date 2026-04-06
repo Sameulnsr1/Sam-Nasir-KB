@@ -96,3 +96,15 @@ You can also see the episode [transcript](https://www.lennyspodcast.com/ai-and-p
 - Marily recommends ChatGPT and the [Lensa app](https://prisma-ai.com/lensa), which allows users to transform their photos into fantastical images.
 
 This is a human edited summary of the podcast episode with Marily, by Gaurav Chandrashekar ([@cggaurav](https://twitter.com/cggaurav), [productscale.xyz](https://productscale.xyz)). To listen to the full episode, go [here](https://www.lennyspodcast.com/ai-and-product-management-marily-nika-meta-google/#transcript).
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/five-proven-prompt-engineering-techniques-and-a-few-more-advanced-tactics|Five proven prompt engineering techniques (and a few more-advanced tactics)]]
+- 🎙️ [[Podcasts/lane-shackleton|Lane Shackleton]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/everyone-should-be-using-claude-code-more|Everyone should be using Claude Code more]]

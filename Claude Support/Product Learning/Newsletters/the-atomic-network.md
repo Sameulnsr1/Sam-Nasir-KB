@@ -97,3 +97,15 @@ The concept of atomic networks is powerful because if you can build one, you can
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 🎙️ [[Podcasts/brian-tolkin|Brian Tolkin]]
+- 🎙️ [[Podcasts/timothy-davis|Timothy Davis]]
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]

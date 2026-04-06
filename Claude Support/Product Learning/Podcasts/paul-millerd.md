@@ -537,3 +537,17 @@ Adios.
 
 **Lenny** (01:04:28):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Paul Millerd|Paul Millerd]]
+
+**See also**:
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/top-angel-investors-in-the-us|Top angel investors in the U.S.]]
+- 📰 [[Newsletters/how-to-identify-your-ideal-customer-profile-icp|How to identify your ideal customer profile (ICP)]]
+- 🎙️ [[Podcasts/noah-weiss|Noah Weiss]]
+- 📰 [[Newsletters/what-working-at-figma-taught-me-about-customer-obsession|What working at Figma taught me about customer obsession]]

@@ -176,3 +176,15 @@ Good luck!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
+- 🎙️ [[Podcasts/katie-dill|Katie Dill]]
+- 🎙️ [[Podcasts/jules-walter|Jules Walter]]
+- 🎙️ [[Podcasts/sachin-monga|Sachin Monga]]
+- 📰 [[Newsletters/healing-your-co-founder-relationship|Healing your co-founder relationship]]

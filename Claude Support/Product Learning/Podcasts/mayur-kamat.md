@@ -567,3 +567,17 @@ Thank you. Thank you, Lenny, and thank you everyone.
 
 **Lenny Rachitsky** (01:37:28):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Mayur Kamat|Mayur Kamat]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/state-of-the-product-job-market-part-2|State of the product job market, part 2]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]

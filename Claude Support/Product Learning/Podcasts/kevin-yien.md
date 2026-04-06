@@ -737,3 +737,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:28:16):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Kevin Yien|Kevin Yien]]
+
+**See also**:
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]
+- 🎙️ [[Podcasts/christian-idiodi|Christian Idiodi]]

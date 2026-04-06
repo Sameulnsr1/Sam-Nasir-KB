@@ -21,3 +21,15 @@ I also want to take this moment to announce that when I return, I’ll be experi
 If you have any questions, just reply to this email.
 
 Thanks as always for your support 🙏❤️
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 🎙️ [[Podcasts/hamel-husain--shreya-shankar|Hamel Husain & Shreya Shankar]]
+- 📰 [[Newsletters/the-definitive-guide-to-mastering-analytical-thinking-interviews|The definitive guide to mastering analytical thinking interviews]]
+- 📰 [[Newsletters/how-todays-top-consumer-brands-measure-marketings-impact|How today’s top consumer brands measure marketing’s impact]]

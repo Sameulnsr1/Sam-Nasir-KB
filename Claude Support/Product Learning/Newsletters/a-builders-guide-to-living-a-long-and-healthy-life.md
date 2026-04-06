@@ -254,3 +254,15 @@ Sadly, staying healthy in our current environment is hard. I am hopeful this cha
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 🎙️ [[Podcasts/brendan-foody|Brendan Foody]]

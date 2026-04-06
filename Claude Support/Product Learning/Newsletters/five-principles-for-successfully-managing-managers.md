@@ -159,3 +159,15 @@ But if you are new to this role, I hope you will also give yourself the grace of
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 🎙️ [[Podcasts/jake-knapp--john-zeratsky|Jake Knapp + John Zeratsky]]
+- 🎙️ [[Podcasts/ramesh-johari|Ramesh Johari]]
+- 🎙️ [[Podcasts/pete-kazanjy|Pete Kazanjy]]
+- 🎙️ [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]

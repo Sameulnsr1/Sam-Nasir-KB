@@ -146,3 +146,15 @@ See you next week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 📰 [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]

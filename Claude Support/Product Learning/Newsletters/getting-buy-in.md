@@ -177,3 +177,15 @@ Have a fulfilling and productive week 🙏
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 📰 [[Newsletters/how-a-traumatic-brain-injury-made-me-a-better-pm-and-person|How a traumatic brain injury made me a better PM—and person]]
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 📰 [[Newsletters/how-duolingo-builds-product|How Duolingo builds product]]
+- 📰 [[Newsletters/one-team-one-roadmap---issue-30|One team, one roadmap - Issue 30]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]

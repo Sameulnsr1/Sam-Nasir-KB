@@ -544,3 +544,17 @@ Thank you so much for having me.
 
 **Lenny** (01:06:24):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Gia Laudi|Gia Laudi]]
+
+**See also**:
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 🎙️ [[Podcasts/timothy-davis|Timothy Davis]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/the-secret-to-duolingos-exponential-growth|The secret to Duolingo’s exponential growth]]

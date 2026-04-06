@@ -913,3 +913,17 @@ Thank you for having me.
 
 **Lenny** (01:50:27):
 Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Sarah Tavel|Sarah Tavel]]
+
+**See also**:
+- 🎙️ [[Podcasts/crystal-w|Crystal W]]
+- 🎙️ [[Podcasts/merci-grace|Merci Grace]]
+- 📰 [[Newsletters/how-to-win-in-consumer-subscription|How to win in consumer subscription]]
+- 📰 [[Newsletters/finding-your-distribution-advantage|Finding your distribution advantage]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

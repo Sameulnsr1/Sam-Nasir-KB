@@ -104,3 +104,15 @@ And if you’d like some advice yourself, or just want to say hi, just reply to 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/amjad-masad|Amjad Masad]]
+- 🎙️ [[Podcasts/tom-conrad|Tom Conrad]]
+- 🎙️ [[Podcasts/ian-mcallister|Ian McAllister]]

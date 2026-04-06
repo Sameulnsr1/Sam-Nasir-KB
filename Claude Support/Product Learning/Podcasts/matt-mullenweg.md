@@ -629,3 +629,17 @@ Automattic.com, A-U-T-O-M-A-T-T-I-C. There's a Work with Us page. You can kind o
 
 **Lenny Rachitsky** (01:33:53):
 All right. If you made it this far into the podcast, you should definitely apply. Matt, thank you. Thank you for being here. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or a leaving a review as that really helps other listeners find the podcast. You could find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Matt Mullenweg|Matt Mullenweg]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/sam-lessin|Sam Lessin]]
+- 🎙️ [[Podcasts/andrew-wilkinson|Andrew Wilkinson]]
+- 🎙️ [[Podcasts/mike-krieger|Mike Krieger]]
+- 🎙️ [[Podcasts/michael-truell|Michael Truell]]

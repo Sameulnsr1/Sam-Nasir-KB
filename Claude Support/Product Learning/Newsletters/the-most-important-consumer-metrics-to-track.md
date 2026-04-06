@@ -132,3 +132,15 @@ Have a fulfilling and productive week 🙏
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 📰 [[Newsletters/how-todays-top-consumer-brands-measure-marketings-impact|How today’s top consumer brands measure marketing’s impact]]
+- 🎙️ [[Podcasts/lauryn-isford|Lauryn Isford]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]

@@ -377,3 +377,15 @@ That’s it for this week! [Hit me up](https://twitter.com/lennysan) if you have
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/david-placek|David Placek]]
+- 📰 [[Newsletters/how-to-ship-like-a-startup|How to ship like a startup]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]

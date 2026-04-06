@@ -266,3 +266,15 @@ If you’re sitting on a burning idea, I hope you too get to relish your souffl�
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/david-placek|David Placek]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]
+- 🎙️ [[Podcasts/cam-adams|Cam Adams]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]

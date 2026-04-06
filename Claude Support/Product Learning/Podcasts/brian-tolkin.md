@@ -582,3 +582,17 @@ Lenny, I really appreciate it. This was great. Bye everyone.
 
 **Lenny Rachitsky** (01:14:16):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Brian Tolkin|Brian Tolkin]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/cam-adams|Cam Adams]]
+- 🎙️ [[Podcasts/mihika-kapoor|Mihika Kapoor]]
+- 🎙️ [[Podcasts/ray-cao|Ray Cao]]
+- 🎙️ [[Podcasts/megan-cook|Megan Cook]]

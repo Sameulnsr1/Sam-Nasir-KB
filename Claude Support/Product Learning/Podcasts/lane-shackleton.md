@@ -597,3 +597,17 @@ Bye everyone.
 
 **Lenny** (01:29:29):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Lane Shackleton|Lane Shackleton]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/five-proven-prompt-engineering-techniques-and-a-few-more-advanced-tactics|Five proven prompt engineering techniques (and a few more-advanced tactics)]]
+- 📰 [[Newsletters/summary-ai-and-product-management--marily-nika-meta-google|Summary: AI and product management | Marily Nika (Meta, Google)]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 📰 [[Newsletters/everyone-should-be-using-claude-code-more|Everyone should be using Claude Code more]]

@@ -866,3 +866,17 @@ It was my honor, Tristan. Bye everyone.
 
 **Lenny Rachitsky** (01:56:05):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Tristan de Montebello|Tristan de Montebello]]
+
+**See also**:
+- 🎙️ [[Podcasts/sam-lessin|Sam Lessin]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]

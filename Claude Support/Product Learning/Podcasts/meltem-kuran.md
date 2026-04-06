@@ -627,3 +627,17 @@ Thank you so much for having me.
 
 **Lenny** (01:11:25):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Meltem Kuran|Meltem Kuran]]
+
+**See also**:
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/mike-maples-jr|Mike Maples Jr]]
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]

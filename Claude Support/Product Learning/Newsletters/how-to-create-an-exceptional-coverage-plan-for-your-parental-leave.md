@@ -149,3 +149,15 @@ Congratulations on becoming a parent, and I wish you the best of luck!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]]
+
+**See also**:
+- 📰 [[Newsletters/how-figma-builds-product|How Figma builds product]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]

@@ -272,3 +272,15 @@ We recently partnered with Notion to help them scale their PM team. [One role th
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 📰 [[Newsletters/the-ultimate-guide-to-willingness-to-pay|The ultimate guide to willingness-to-pay]]
+- 🎙️ [[Podcasts/christopher-miller|Christopher Miller]]
+- 📰 [[Newsletters/your-startup-idea-probably-isnt-venture-scale|Your startup idea probably isn’t venture-scale]]
+- 🎙️ [[Podcasts/carilu-dietrich|Carilu Dietrich]]

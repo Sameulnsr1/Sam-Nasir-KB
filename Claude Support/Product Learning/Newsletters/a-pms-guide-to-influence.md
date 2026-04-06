@@ -131,3 +131,15 @@ I’ve got a white-glove recruiting service specializing in senior product roles
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/the-secret-to-a-great-planning-process---lessons-from-airbnb-and-eventbrite|The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/the-ultimate-guide-to-negotiating-your-comp|The ultimate guide to negotiating your comp]]
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]

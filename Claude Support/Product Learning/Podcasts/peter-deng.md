@@ -1065,3 +1065,17 @@ Well, thank you for having me. This has been a real pleasure and hopefully some 
 
 **Lenny Rachitsky** (01:55:00):
 Thank you, Peter. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Peter Deng|Peter Deng]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 📰 [[Newsletters/a-free-year-of-devin-the-worlds-most-advanced-autonomous-ai-software-engineer|A free year of Devin: the world’s most advanced autonomous AI software engineer]]

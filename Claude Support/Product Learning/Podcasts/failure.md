@@ -366,3 +366,17 @@ Good times.
 
 **Lenny** (01:00:29):
 And that is a wrap. I hope you enjoy these stories of failure. I want to give a huge special thank you to all of our amazing guests for being vulnerable and sharing these stories of failure in their career. I hope you leave this episode with a new perspective on how setbacks and challenges and failure can often be exactly what you need to get to the next step of your career or your life. If you've got a great story to tell about failure, I'd love to hear it. Leave a comment either on YouTube or on Lennysnewsletter.com or just DM me on Twitter. Or you could reach out at LennyRachitzky.com and click the big contact button. Thank you for listening. Bye, everyone.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Failure|Failure]]
+
+**See also**:
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/mike-maples-jr|Mike Maples Jr]]
+- 🎙️ [[Podcasts/noam-lovinsky|Noam Lovinsky]]
+- 🎙️ [[Podcasts/ethan-evans-20|Ethan Evans 2.0]]
+- 🎙️ [[Podcasts/judd-antin|Judd Antin]]

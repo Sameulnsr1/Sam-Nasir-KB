@@ -511,3 +511,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:28:32):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Bret Taylor|Bret Taylor]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]
+- 📰 [[Newsletters/top-angel-investors-in-the-us|Top angel investors in the U.S.]]

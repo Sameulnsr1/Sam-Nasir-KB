@@ -217,3 +217,15 @@ Now, get out there and find that 🎯
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]
+- 📰 [[Newsletters/summary-april-dunford-on-product-positioning-segmentation-and-optimizing-your-sa|Summary: April Dunford on product positioning, segmentation, and optimizing y...]]

@@ -179,3 +179,15 @@ Have any questions, comments, or other ideas? Leave a comment!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/judd-antin|Judd Antin]]
+- 🎙️ [[Podcasts/nir-eyal|Nir Eyal]]
+- 🎙️ [[Podcasts/gina-gotthilf|Gina Gotthilf]]
+- 🎙️ [[Podcasts/laura-modi|Laura Modi]]
+- 🎙️ [[Podcasts/sriram-and-aarthi|Sriram and Aarthi]]

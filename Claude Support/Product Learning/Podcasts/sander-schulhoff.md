@@ -1019,3 +1019,17 @@ Bye everyone.
 
 **Lenny Rachitsky** (01:37:22):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Sander Schulhoff|Sander Schulhoff]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 🎙️ [[Podcasts/hamel-husain--shreya-shankar|Hamel Husain & Shreya Shankar]]
+- 🎙️ [[Podcasts/guillermo-rauch|Guillermo Rauch]]
+- 📰 [[Newsletters/announcing-the-greatest-product-bundle-ever-get-a-year-free-of-granola-notion-su|Announcing the greatest product bundle ever: Get a year free of Granola, Noti...]]

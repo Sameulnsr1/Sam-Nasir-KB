@@ -125,3 +125,15 @@ The results from this survey are primarily generalizable to this community of su
 [2](#footnote-anchor-2)
 
 More details on respondent demographic and work profiles from this dataset are included at the end of this post.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-tech-workers-really-feel-about-work-right-now|How tech workers really feel about work right now]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

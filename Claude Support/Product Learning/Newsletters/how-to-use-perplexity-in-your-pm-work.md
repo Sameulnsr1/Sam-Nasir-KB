@@ -156,3 +156,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 📰 [[Newsletters/how-to-become-a-supermanager-with-ai|How to become a supermanager with AI]]

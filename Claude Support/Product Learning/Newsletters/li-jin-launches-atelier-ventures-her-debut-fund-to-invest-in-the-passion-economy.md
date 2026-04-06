@@ -135,3 +135,15 @@ I could go on forever because I really believe the passion economy is going to t
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ [[Podcasts/itamar-gilad|Itamar Gilad]]
+- 🎙️ [[Podcasts/christopher-lochhead|Christopher Lochhead]]
+- 🎙️ [[Podcasts/noah-weiss|Noah Weiss]]
+- 🎙️ [[Podcasts/ayo-omojola|Ayo Omojola]]

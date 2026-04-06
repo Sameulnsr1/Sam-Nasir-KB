@@ -701,3 +701,17 @@ Okay, cool. I'll hold you to that.
 
 **Lenny** (00:59:19):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You could also learn more at LennysPodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Gibson Biddle|Gibson Biddle]]
+
+**See also**:
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 🎙️ [[Podcasts/julian-shapiro|Julian Shapiro]]
+- 📰 [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-5-retain-iterate-until-enoug|How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until ...]]
+- 🎙️ [[Podcasts/jason-cohen|Jason Cohen]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

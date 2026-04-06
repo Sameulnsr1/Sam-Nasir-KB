@@ -918,3 +918,17 @@ Thank you for all the time, Lenny. I'm a super fan. It's great to be here and le
 
 **Lenny** (02:01:28):
 I really appreciate that. And the same in reverse. Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lenny's podcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Jason M Lemkin|Jason M Lemkin]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-1-the-definitive-list-of-successful-pivots|The art of the pivot, part 1: The definitive list of successful pivots]]

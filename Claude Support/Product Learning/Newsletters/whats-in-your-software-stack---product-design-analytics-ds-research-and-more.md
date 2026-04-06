@@ -121,3 +121,15 @@ Have a productive and fulfilling week 🙏
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 📰 [[Newsletters/introducing-core-4-the-best-way-to-measure-and-improve-your-product-velocity|Introducing Core 4: The best way to measure and improve your product velocity]]
+- 🎙️ [[Podcasts/fareed-mosavat|Fareed Mosavat]]
+- 📰 [[Newsletters/this-week-4-motivating-engineers-to-hit-deadlines-pm-career-ladders-and-aligning|This Week #4: Motivating engineers to hit deadlines, PM career ladders, and a...]]

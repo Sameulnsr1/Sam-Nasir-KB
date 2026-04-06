@@ -406,3 +406,17 @@ No, it's a pleasure, Lenny. Thank you very much for having me.
 
 **Lenny** (01:11:50):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lenny'spodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Ray Cao|Ray Cao]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/brian-tolkin|Brian Tolkin]]
+- 🎙️ [[Podcasts/geoffrey-moore|Geoffrey Moore]]
+- 🎙️ [[Podcasts/camille-hearst|Camille Hearst]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]

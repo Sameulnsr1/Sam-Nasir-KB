@@ -490,3 +490,17 @@ Thank you so much for listening. If you found this valuable, you can subscribe t
 
 **Lenny** (01:07:27):
 See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jiaona Zhang|Jiaona Zhang]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ [[Podcasts/kenneth-berger|Kenneth Berger]]
+- 📰 [[Newsletters/when-they-hired-their-first-pm|When they hired their first PM]]
+- 🎙️ [[Podcasts/deb-liu|Deb Liu]]

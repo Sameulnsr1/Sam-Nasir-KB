@@ -89,3 +89,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/josh-miller|Josh Miller]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 📰 [[Newsletters/how-much-product-managers-make-in-the-us-europe-and-canada|How much product managers make in the U.S., Europe, and Canada]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]

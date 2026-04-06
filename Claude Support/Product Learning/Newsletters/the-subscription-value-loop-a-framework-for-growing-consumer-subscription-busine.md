@@ -382,3 +382,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 📰 [[Newsletters/pulling-back-the-curtain-on-the-magic-of-y-combinator|Pulling back the curtain on the magic of Y Combinator]]
+- 📰 [[Newsletters/when-and-how-to-run-a-billboard-campaign|When and how to run a billboard campaign]]
+- 🎙️ [[Podcasts/emilie-gerber|Emilie Gerber]]

@@ -569,3 +569,17 @@ Yeah, thank you. Honor to be a guest here. Super excited to be with you, especia
 
 **Lenny Rachitsky** (01:23:32):
 Appreciate it. Thanks for coming. Thanks for joining us. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jason Droege|Jason Droege]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/alex-komoroske|Alex Komoroske]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]

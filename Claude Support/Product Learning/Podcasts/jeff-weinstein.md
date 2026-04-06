@@ -783,3 +783,17 @@ Bye everyone.
 
 **Lenny Rachitsky** (02:34:37):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jeff Weinstein|Jeff Weinstein]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 📰 [[Newsletters/general-management-functional-and-hybrid-models-which-org-design-works-best-for|General management, functional, and hybrid models: Which org design works bes...]]
+- 📰 [[Newsletters/fostering-a-culture-of-experimentation|Fostering a culture of experimentation]]

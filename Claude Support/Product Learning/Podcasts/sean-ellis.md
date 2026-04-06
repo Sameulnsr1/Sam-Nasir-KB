@@ -774,3 +774,17 @@ Awesome. Thank you, Lenny. I really appreciate you having me on.
 
 **Lenny Rachitsky** (01:44:00):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcasts.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Sean Ellis|Sean Ellis]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 📰 [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]

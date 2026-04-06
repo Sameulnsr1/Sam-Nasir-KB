@@ -91,3 +91,15 @@ That’s it for this week!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 📰 [[Newsletters/introducing-core-4-the-best-way-to-measure-and-improve-your-product-velocity|Introducing Core 4: The best way to measure and improve your product velocity]]
+- 🎙️ [[Podcasts/fareed-mosavat|Fareed Mosavat]]
+- 📰 [[Newsletters/whats-in-your-software-stack---product-design-analytics-ds-research-and-more|What's in your software stack — Product, Design, Analytics, DS, Research, and...]]

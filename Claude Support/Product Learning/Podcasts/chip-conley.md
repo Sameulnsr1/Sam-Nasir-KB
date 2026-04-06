@@ -672,3 +672,17 @@ Thanks.
 
 **Lenny Rachitsky** (01:19:08):
 Thanks everyone for listening. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at LennysPodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Chip Conley|Chip Conley]]
+
+**See also**:
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 📰 [[Newsletters/which-companies-produce-the-best-product-managers|Which companies produce the best product managers]]
+- 📰 [[Newsletters/which-companies-accelerate-pm-careers-most|Which companies accelerate PM careers most]]

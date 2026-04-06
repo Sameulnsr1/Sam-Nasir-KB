@@ -211,3 +211,15 @@ The overarching theme is that businesses need to be serious about investing in t
 - **Favorite growth concept:** North Star Metric. This concept helps her think long term and evaluate what's valuable not just in her work, but in personal areas such as career and child upbringing.
 
 This is a human edited summary of the podcast episode with Hila, by Gaurav Chandrashekar ([@cggaurav](https://twitter.com/cggaurav), [productscale.xyz](https://productscale.xyz)). To listen to the full episode, go [here](https://www.lennyspodcast.com/the-ultimate-guide-to-adding-a-plg-motion-hila-qu-reforge-gitlab/).
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/freemium-vs-trial|Freemium vs. trial]]
+- 📰 [[Newsletters/six-rules-of-hiring-for-growth|Six rules of hiring for growth]]
+- 📰 [[Newsletters/choosing-a-take-rate|Choosing a take rate]]
+- 📰 [[Newsletters/pricing-your-saas-product|Pricing your SaaS product]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]

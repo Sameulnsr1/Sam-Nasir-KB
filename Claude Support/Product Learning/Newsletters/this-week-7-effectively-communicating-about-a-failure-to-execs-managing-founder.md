@@ -123,3 +123,15 @@ And if you’d like some advice yourself, or just want to say hi, just reply to 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-1|Essential reading for product builders—part 1]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]

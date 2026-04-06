@@ -668,3 +668,17 @@ You, too. Bye, everyone.
 
 **Lenny** (01:04:23):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Hari Srinivasan|Hari Srinivasan]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 📰 [[Newsletters/how-much-do-us-product-managers-really-make|How much do U.S. product managers really make?]]

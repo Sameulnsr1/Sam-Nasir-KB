@@ -295,3 +295,17 @@ Well, thanks again for inviting me, Lenny, and good luck to everybody out there.
 
 **Lenny** (00:59:28):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple podcast, Spotify, or your favorite podcast app. Also please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Marty Cagan|Marty Cagan]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]

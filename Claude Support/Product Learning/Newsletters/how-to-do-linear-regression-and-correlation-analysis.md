@@ -261,3 +261,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/marily-nika|Marily Nika]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 📰 [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]
+- 📰 [[Newsletters/counterintuitive-advice-for-building-ai-products|Counterintuitive advice for building AI products]]

@@ -443,3 +443,15 @@ So implement your ~~first~~ second agent today. Then your third. Not only will y
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/aishwarya-naresh-reganti--kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]

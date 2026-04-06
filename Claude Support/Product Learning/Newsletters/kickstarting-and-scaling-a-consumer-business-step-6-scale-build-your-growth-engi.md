@@ -406,3 +406,15 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
+- 🎙️ [[Podcasts/claire-butler|Claire Butler]]
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/robby-stein|Robby Stein]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

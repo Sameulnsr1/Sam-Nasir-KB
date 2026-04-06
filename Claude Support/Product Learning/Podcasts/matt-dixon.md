@@ -553,3 +553,17 @@ Thanks, Lenny. It was a blast. Thank you.
 
 **Lenny Rachitsky** (00:56:14):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Matt Dixon|Matt Dixon]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/roger-martin|Roger Martin]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ [[Podcasts/nilan-peiris|Nilan Peiris]]

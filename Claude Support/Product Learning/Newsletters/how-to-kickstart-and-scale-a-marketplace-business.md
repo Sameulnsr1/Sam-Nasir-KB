@@ -157,3 +157,15 @@ Once you’ve decided how to constrain your marketplace, you then need to pick w
 - [Part 4: Drive initial demand 👋](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace-2e5)
 
 [Sign up now](https://www.lennysnewsletter.com/subscribe?)
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/gina-gotthilf|Gina Gotthilf]]
+- 🎙️ [[Podcasts/jason-feifer|Jason Feifer]]

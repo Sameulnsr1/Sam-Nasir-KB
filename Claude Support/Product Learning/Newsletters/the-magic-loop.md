@@ -209,3 +209,15 @@ If you’re looking for a new gig, apply to join! You’ll get personalized oppo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/claire-vo|Claire Vo]]
+- 🎙️ [[Podcasts/jeremy-henrickson|Jeremy Henrickson]]
+- 🎙️ [[Podcasts/laura-schaffer|Laura Schaffer]]
+- 🎙️ [[Podcasts/fareed-mosavat|Fareed Mosavat]]

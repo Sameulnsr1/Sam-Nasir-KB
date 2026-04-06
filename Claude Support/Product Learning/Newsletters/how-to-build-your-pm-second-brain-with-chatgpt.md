@@ -199,3 +199,15 @@ PM away!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 📰 [[Newsletters/how-to-become-a-supermanager-with-ai|How to become a supermanager with AI]]
+- 📰 [[Newsletters/state-of-the-product-job-market-part-2|State of the product job market, part 2]]

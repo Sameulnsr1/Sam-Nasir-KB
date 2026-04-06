@@ -964,3 +964,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:54:46):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Growth|Growth]]
+
+**Guest**: [[Guests/Eli Schwartz|Eli Schwartz]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/boris-cherny|Boris Cherny]]
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/robby-stein|Robby Stein]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

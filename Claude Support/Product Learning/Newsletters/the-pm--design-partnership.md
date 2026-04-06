@@ -156,3 +156,15 @@ Good luck and happy collaborating!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 [[Newsletters/how-to-communicate-tradeoffs-so-leaders-will-listen|How to communicate tradeoffs so leaders will listen]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 📰 [[Newsletters/the-most-common-pitfalls-of-new-product-managers|The most common pitfalls of new product managers]]

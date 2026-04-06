@@ -204,3 +204,15 @@ This answer went much further than you likely imagined, but I hope this gives yo
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**See also**:
+- 🎙️ [[Podcasts/austin-hay|Austin Hay]]
+- 🎙️ [[Podcasts/scott-belsky|Scott Belsky]]
+- 🎙️ [[Podcasts/hila-qu|Hila Qu]]
+- 🎙️ [[Podcasts/lauryn-isford|Lauryn Isford]]
+- 📰 [[Newsletters/a-founders-guide-to-community|A founder’s guide to community]]

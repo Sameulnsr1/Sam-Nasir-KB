@@ -433,3 +433,17 @@ Yeah, and it is just as helpful to everybody else. So thank you again.
 Cool. Thanks Lenny.
 **Lenny** (01:09:06):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Growth|Growth]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Ryan Hoover|Ryan Hoover]]
+
+**See also**:
+- 🎙️ [[Podcasts/jason-cohen|Jason Cohen]]
+- 🎙️ [[Podcasts/grant-lee|Grant Lee]]
+- 🎙️ [[Podcasts/brendan-foody|Brendan Foody]]
+- 🎙️ [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

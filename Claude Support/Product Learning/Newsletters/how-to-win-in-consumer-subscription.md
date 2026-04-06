@@ -289,3 +289,15 @@ A post shared by Geometria Sagrada ([@geometriasagrada](https://instagram.com/ge
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ [[Podcasts/crystal-w|Crystal W]]
+- 🎙️ [[Podcasts/merci-grace|Merci Grace]]
+- 📰 [[Newsletters/finding-your-distribution-advantage|Finding your distribution advantage]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

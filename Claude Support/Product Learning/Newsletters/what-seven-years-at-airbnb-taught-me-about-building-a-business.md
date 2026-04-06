@@ -132,3 +132,15 @@ Thinking back to what Joe suggested to that one designer many years ago, Airbnb 
 [![Image from What Seven Years at Airbnb Taught Me About Building a Business](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/baa9ad88-399e-4704-a0fc-4b6a9759d413_1600x1200.jpeg)](https://substackcdn.com/image/fetch/$s_!eqk2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaa9ad88-399e-4704-a0fc-4b6a9759d413_1600x1200.jpeg)
 
 *A big thank you to Vanessa, Ann, Brett, and Yelena for reviewing early drafts of this post.*
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/molly-graham|Molly Graham]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/how-tech-workers-really-feel-about-work-right-now|How tech workers really feel about work right now]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]

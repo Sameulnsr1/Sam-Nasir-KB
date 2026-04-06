@@ -489,3 +489,17 @@ Yeah. Thank you, Lenny.
 
 **Lenny** (01:00:35):
 That was awesome. Thank you for listening. If you enjoy the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Nickey Skarstad|Nickey Skarstad]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 📰 [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 🎙️ [[Podcasts/timothy-davis|Timothy Davis]]

@@ -392,3 +392,17 @@ Awesome. Thanks Lenny.
 
 **Lenny** (01:00:25):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Engineering|Engineering]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Julia Schottenstein|Julia Schottenstein]]
+
+**See also**:
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ [[Podcasts/pete-kazanjy|Pete Kazanjy]]
+- 📰 [[Newsletters/picking-a-wedge|Picking a wedge]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]

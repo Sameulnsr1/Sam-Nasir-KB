@@ -43,3 +43,15 @@ The framework is made up of four steps:
 Sincerely,
 
 Lenny (and Nels) 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]
+- 📰 [[Newsletters/a-pms-guide-to-influence|A PM’s guide to influence]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 🎙️ [[Podcasts/geoff-charles|Geoff Charles]]
+- 🎙️ [[Podcasts/paige-costello|Paige Costello]]

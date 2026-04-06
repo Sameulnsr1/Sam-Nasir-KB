@@ -20,3 +20,15 @@ Fun fact: I *also* led the overhaul of an onboarding journey (for new Airbnb h
 **The trick to sharing bad news effectively is to imagine being on the other side of the table. What would you want to know if*****you*****were in charge?**
 
 If you’re like most people, you’d want to know everything, as soon as possible, plus exactly how to best move forward. So start there. Here how…
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 🎙️ [[Podcasts/ebi-atawodi|Ebi Atawodi]]
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]

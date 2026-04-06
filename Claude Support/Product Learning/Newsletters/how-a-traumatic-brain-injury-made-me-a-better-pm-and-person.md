@@ -355,3 +355,15 @@ I consider myself fortunate to have experienced firsthand what it’s like to be
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/nikita-miller|Nikita Miller]]
+- 📰 [[Newsletters/how-duolingo-builds-product|How Duolingo builds product]]
+- 📰 [[Newsletters/getting-buy-in|Getting buy-in]]
+- 📰 [[Newsletters/one-team-one-roadmap---issue-30|One team, one roadmap - Issue 30]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]

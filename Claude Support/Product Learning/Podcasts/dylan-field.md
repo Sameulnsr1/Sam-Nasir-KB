@@ -501,3 +501,17 @@ Good luck. Thanks Dylan. Bye everyone.
 
 **Lenny Rachitsky** (00:47:44):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Dylan Field|Dylan Field]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/lazar-jovanovic|Lazar Jovanovic]]
+- 📰 [[Newsletters/how-to-identify-your-ideal-customer-profile-icp|How to identify your ideal customer profile (ICP)]]
+- 🎙️ [[Podcasts/jenny-wen|Jenny Wen]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]

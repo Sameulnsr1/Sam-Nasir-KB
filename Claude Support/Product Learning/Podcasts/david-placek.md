@@ -594,3 +594,17 @@ Take care.
 
 **Lenny Rachitsky** (01:22:19):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/David Placek|David Placek]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/how-to-ship-like-a-startup|How to ship like a startup]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]
+- 🎙️ [[Podcasts/cam-adams|Cam Adams]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]

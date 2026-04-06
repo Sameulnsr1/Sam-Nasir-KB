@@ -358,3 +358,17 @@ Absolutely. Thanks for making time for this.
 Thank you.
 **Lenny** (01:20:53):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Claire Hughes Johnson|Claire Hughes Johnson]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/the-art-of-the-pivot-part-1-the-definitive-list-of-successful-pivots|The art of the pivot, part 1: The definitive list of successful pivots]]
+- 📰 [[Newsletters/hiring-your-early-team|Hiring your early team]]

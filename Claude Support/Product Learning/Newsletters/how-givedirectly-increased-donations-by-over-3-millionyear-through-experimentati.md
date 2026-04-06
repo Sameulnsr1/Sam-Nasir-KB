@@ -242,3 +242,15 @@ Lenny 👋
 [1](#footnote-anchor-1)
 
 Kiva’s co-founder and CEO [responded](https://www.cgdev.org/blog/matt-flannery-kiva-ceo-and-co-founder-replies) that pre-disbursal of loans is better because borrowers can get their loans more quickly, and that the model they present to users is simplified for people unfamiliar with microfinance. Kiva ended up making changes to their [website](https://www.kiva.org/about/how) in response to the controversy.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/chip-huyen|Chip Huyen]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]

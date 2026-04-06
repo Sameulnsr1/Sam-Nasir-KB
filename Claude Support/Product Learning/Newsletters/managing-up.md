@@ -67,3 +67,15 @@ Have any other advice? Leave a comment!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/general-management-functional-and-hybrid-models-which-org-design-works-best-for|General management, functional, and hybrid models: Which org design works bes...]]
+- 🎙️ [[Podcasts/claire-vo|Claire Vo]]
+- 🎙️ [[Podcasts/jeremy-henrickson|Jeremy Henrickson]]
+- 🎙️ [[Podcasts/laura-schaffer|Laura Schaffer]]

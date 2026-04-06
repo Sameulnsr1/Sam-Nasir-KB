@@ -453,3 +453,10 @@ Thank you. Thank you so much, this was so fun.
 
 **Lenny Rachitsky** (01:20:35):
 Same. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]]
+
+**Guest**: [[Guests/Annie Duke|Annie Duke]]

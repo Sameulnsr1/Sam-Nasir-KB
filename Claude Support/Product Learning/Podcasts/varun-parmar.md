@@ -548,3 +548,17 @@ Thanks, Lenny. Awesome.
 
 **Lenny** (01:24:45):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Varun Parmar|Varun Parmar]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 [[Newsletters/how-linear-builds-product|How Linear builds product]]
+- 📰 [[Newsletters/how-shopify-builds-product|How Shopify builds product]]

@@ -313,3 +313,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 🎙️ [[Podcasts/guillermo-rauch|Guillermo Rauch]]
+- 📰 [[Newsletters/a-guide-to-ai-prototyping-for-product-managers|A guide to AI prototyping for product managers]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]

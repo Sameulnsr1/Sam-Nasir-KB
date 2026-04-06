@@ -318,3 +318,17 @@ What a beautiful way to end it. Christine, thank you again for being here.
 Thank you. This was so fun. 
 **Lenny** (01:06:12):
 So much fun. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Christine Itwaru|Christine Itwaru]]
+
+**See also**:
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 🎙️ [[Podcasts/tanguy-crusson|Tanguy Crusson]]

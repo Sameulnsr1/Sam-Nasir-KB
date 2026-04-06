@@ -423,3 +423,17 @@ Yeah, dude, thank you so much. It's been a lot, a lot of fun.
 
 **Lenny** (01:04:35):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Engineering|Engineering]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Ryan J. Salva|Ryan J. Salva]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/sam-lessin|Sam Lessin]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/scott-wu|Scott Wu]]
+- 🎙️ [[Podcasts/anton-osika|Anton Osika]]

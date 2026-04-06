@@ -146,3 +146,15 @@ Remember, you don’t *have* to have a unique distribution advantage. Many hugel
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ [[Podcasts/crystal-w|Crystal W]]
+- 🎙️ [[Podcasts/merci-grace|Merci Grace]]
+- 📰 [[Newsletters/how-to-win-in-consumer-subscription|How to win in consumer subscription]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

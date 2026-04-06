@@ -99,3 +99,15 @@ Let’s look closer at each of these areas.
 > “If you think about how do you get to the big idea, we call it an Earned Secret. You did something in your past, you tried to solve some hard problem, and you learned something about the world that not a lot of people in the world know.” — Ben Horowitz
 
 [Subscribe to Read Full Post](https://www.lennyrachitsky.com/p/evaluating-a-marketplace-business)
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 🎙️ [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 🎙️ [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]

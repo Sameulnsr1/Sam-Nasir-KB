@@ -87,3 +87,15 @@ And if you’d like some advice yourself, or just want to say hi, just reply to 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/new-data-on-the-product-job-market|New data on the product job market]]
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 📰 [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
+- 🎙️ [[Podcasts/christopher-miller|Christopher Miller]]

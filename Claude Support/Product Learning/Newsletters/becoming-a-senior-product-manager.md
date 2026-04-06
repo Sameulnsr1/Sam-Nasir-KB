@@ -167,3 +167,15 @@ In our new book ***[Cracking the PM Career](https://amzn.to/3nEiox9)***, Gayle a
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/dmitry-zlokazov|Dmitry Zlokazov]]
+- 📰 [[Newsletters/why-youre-so-angry-at-work-and-what-to-do-about-it|Why you’re so angry at work (and what to do about it)]]

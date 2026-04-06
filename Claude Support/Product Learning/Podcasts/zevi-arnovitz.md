@@ -745,3 +745,17 @@ Thank you.
 
 **Lenny Rachitsky** (01:14:46):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Engineering|Engineering]] · [[Topics/Product Management|Product Management]]
+
+**Guest**: [[Guests/Zevi Arnovitz|Zevi Arnovitz]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/peter-deng|Peter Deng]]
+- 📰 [[Newsletters/state-of-the-product-job-market-in-2025|State of the product job market in 2025]]
+- 🎙️ [[Podcasts/guillermo-rauch|Guillermo Rauch]]
+- 🎙️ [[Podcasts/gaurav-misra|Gaurav Misra]]

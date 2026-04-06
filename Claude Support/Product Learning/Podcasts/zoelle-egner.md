@@ -581,3 +581,17 @@ You didn't. Zoelle, thank you. Very good.
 Thank you. 
 **Lenny** (01:13:28):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Zoelle Egner|Zoelle Egner]]
+
+**See also**:
+- 🎙️ [[Podcasts/oji-udezue|Oji Udezue]]
+- 📰 [[Newsletters/how-to-hire-your-first-growth-team|How to hire your first growth team]]
+- 🎙️ [[Podcasts/sri-batchu|Sri Batchu]]
+- 🎙️ [[Podcasts/elena-verna-30|Elena Verna 3.0]]
+- 📰 [[Newsletters/gtm-motions-of-30-b2b-saas-companies|GTM motions of 30 B2B SaaS companies]]

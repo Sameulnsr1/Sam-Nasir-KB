@@ -392,3 +392,17 @@ Amazing. Ravi, again, thank you for being here, and we'll share all these in the
 Yeah, thanks so much for having me. This has been great.
 **Lenny** (01:21:01):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Ravi Mehta|Ravi Mehta]]
+
+**See also**:
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 🎙️ [[Podcasts/bob-baxley|Bob Baxley]]
+- 🎙️ [[Podcasts/jerry-colonna|Jerry Colonna]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]

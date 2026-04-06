@@ -358,3 +358,17 @@ Thanks, Lenny. It's been a blast.
 
 **Lenny** (00:49:33):
 That was awesome. Thank you for listening. If you enjoy the chat, don't forget to subscribe to the podcast. You could also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Brandon Chu|Brandon Chu]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/ben-horowitz|Ben Horowitz]]
+- 🎙️ [[Podcasts/tom-conrad|Tom Conrad]]
+- 🎙️ [[Podcasts/ian-mcallister|Ian McAllister]]
+- 🎙️ [[Podcasts/sanchan-saxena|Sanchan Saxena]]

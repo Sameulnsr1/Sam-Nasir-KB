@@ -810,3 +810,17 @@ Same for me. Bye everyone. Thank you so much for listening. If you found this va
 
 **Lenny Rachitsky** (01:41:42):
 Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at Lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Bob Baxley|Bob Baxley]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jessica-livingston|Jessica Livingston]]
+- 🎙️ [[Podcasts/boz|Boz]]
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]

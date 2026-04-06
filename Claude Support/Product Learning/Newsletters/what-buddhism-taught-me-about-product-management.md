@@ -104,3 +104,15 @@ If you’ve have any questions, suggestions, or just want to say hi — don�
 Sincerely,
 
 [Lenny](https://twitter.com/lennysan)
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jessica-fain|Jessica Fain]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 📰 [[Newsletters/the-definitive-guide-to-mastering-product-sense-interviews|The definitive guide to mastering product sense interviews]]

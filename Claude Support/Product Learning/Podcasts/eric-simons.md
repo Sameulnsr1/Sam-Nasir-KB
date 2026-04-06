@@ -751,3 +751,17 @@ Thank you so much for listening. If you found this valuable, you can subscribe t
 
 **Lenny Rachitsky** (01:28:46):
 See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Eric Simons|Eric Simons]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/edwin-chen|Edwin Chen]]
+- 🎙️ [[Podcasts/tomer-cohen|Tomer Cohen]]
+- 🎙️ [[Podcasts/scott-wu|Scott Wu]]
+- 🎙️ [[Podcasts/anton-osika|Anton Osika]]

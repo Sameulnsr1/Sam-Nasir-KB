@@ -291,3 +291,15 @@ If you have any questions or further suggestions, leave a comment!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/archie-abrams|Archie Abrams]]
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 🎙️ [[Podcasts/dan-hockenmaier|Dan Hockenmaier]]
+- 📰 [[Newsletters/freemium-vs-trial|Freemium vs. trial]]

@@ -533,3 +533,17 @@ Bye, everyone.
 
 **Lenny** (01:02:10):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Scott Belsky|Scott Belsky]]
+
+**See also**:
+- 🎙️ [[Podcasts/austin-hay|Austin Hay]]
+- 📰 [[Newsletters/28-ways-to-grow-supply-in-a-marketplace|28 Ways to Grow Supply in a Marketplace 📈]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 📰 [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
+- 🎙️ [[Podcasts/aparna-chennapragada|Aparna Chennapragada]]

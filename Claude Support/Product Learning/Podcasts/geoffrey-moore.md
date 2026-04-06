@@ -471,3 +471,17 @@ It was my pleasure. Bye, everyone.
 
 **Lenny** (01:24:26):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Geoffrey Moore|Geoffrey Moore]]
+
+**See also**:
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]
+- 🎙️ [[Podcasts/kunal-shah|Kunal Shah]]
+- 🎙️ [[Podcasts/ray-cao|Ray Cao]]
+- 📰 [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
+- 📰 [[Newsletters/the-racecar-growth-framework-expanded-and-illustrated|The Racecar Growth Framework—expanded and illustrated]]

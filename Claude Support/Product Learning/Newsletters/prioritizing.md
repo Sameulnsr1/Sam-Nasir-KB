@@ -207,3 +207,15 @@ Good luck!
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/ebi-atawodi|Ebi Atawodi]]
+- 🎙️ [[Podcasts/nickey-skarstad|Nickey Skarstad]]
+- 🎙️ [[Podcasts/jackie-bavaro|Jackie Bavaro]]
+- 📰 [[Newsletters/applications-now-open-for-my-live-course-product-management-fundamentals|🚨 Applications now open for my live course—Product Management Fundamentals]]
+- 📰 [[Newsletters/how-to-build-your-pm-second-brain-with-chatgpt|How to build your PM second brain with ChatGPT]]

@@ -275,3 +275,17 @@ To close, this podcasting journey has been so much more fulfilling and exciting 
 
 **Lenny** (01:00:22):
 With that, I'd love to hear from you. What do you love about this podcast? What do you hate about the podcast? What annoys you? What do you find most interesting? I'd love to hear your feedback. You can either email me at podcast@lennyrichards.com. You can also go to this episode on my newsletter, if you go to lennysnewsletter.com and find this episode, you can leave a comment at the bottom of that episode. You can also DM me on Twitter if you just want to reach out directly. Seriously, I'd love to hear from you. This is how I'm going to make this podcast better. Until then, happy holidays. Happy New Year. From the bottom of my heart, thank you for listening and for supporting this podcast. I'll see you next year.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/EOY Review|EOY Review]]
+
+**See also**:
+- 🎙️ [[Podcasts/gia-laudi|Gia Laudi]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]

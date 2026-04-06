@@ -172,3 +172,15 @@ Sincerely,
 [Lenny](https://twitter.com/lennysan)
 
 *Big thank you to [Sean](https://twitter.com/sean_lynch?lang=en), [Brett](https://matterapp.com/), and [Yelena](https://twitter.com/yelenart?lang=en) for reviewing early drafts.*
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/saying-no|Saying no]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/melanie-perkins|Melanie Perkins]]
+- 🎙️ [[Podcasts/david-placek|David Placek]]

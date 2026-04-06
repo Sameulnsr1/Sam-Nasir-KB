@@ -873,3 +873,17 @@ Bye-bye.
 
 **Lenny Rachitsky** (01:53:39):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Tanguy Crusson|Tanguy Crusson]]
+
+**See also**:
+- 🎙️ [[Podcasts/raaz-herzberg|Raaz Herzberg]]
+- 🎙️ [[Podcasts/maggie-crowley|Maggie Crowley]]
+- 🎙️ [[Podcasts/jen-abel|Jen Abel]]
+- 🎙️ [[Podcasts/bret-taylor|Bret Taylor]]
+- 🎙️ [[Podcasts/madhavan-ramanujam|Madhavan Ramanujam]]

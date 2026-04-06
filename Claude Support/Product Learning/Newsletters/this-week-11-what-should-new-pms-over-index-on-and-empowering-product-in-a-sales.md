@@ -114,3 +114,15 @@ If you’d like some advice yourself, just reply to this email. Each week, I’l
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/shaun-clowes|Shaun Clowes]]
+- 🎙️ [[Podcasts/shreyas-doshi|Shreyas Doshi]]
+- 🎙️ [[Podcasts/shreyas-doshi-live|Shreyas Doshi Live]]
+- 🎙️ [[Podcasts/kevin-yien|Kevin Yien]]
+- 🎙️ [[Podcasts/christian-idiodi|Christian Idiodi]]

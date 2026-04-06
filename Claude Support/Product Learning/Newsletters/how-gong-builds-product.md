@@ -252,3 +252,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Leadership|Leadership]] · [[Topics/Organization|Organization]]
+
+**See also**:
+- 🎙️ [[Podcasts/paige-costello|Paige Costello]]
+- 🎙️ [[Podcasts/jeetu-patel|Jeetu Patel]]
+- 🎙️ [[Podcasts/nicole-forsgren|Nicole Forsgren]]
+- 🎙️ [[Podcasts/garrett-lord|Garrett Lord]]
+- 📰 [[Newsletters/beyond-vibe-checks-a-pms-complete-guide-to-evals|Beyond vibe checks: A PM’s complete guide to evals]]

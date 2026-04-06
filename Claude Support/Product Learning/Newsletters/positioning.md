@@ -197,3 +197,15 @@ Positioning is a misunderstood concept, but I believe that if you master it, it 
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ [[Podcasts/april-dunford|April Dunford]]
+- 📰 [[Newsletters/how-todays-fastest-growing-b2b-businesses-turned-their-early-users-into-paying-c|How today's fastest-growing B2B businesses turned their early users into payi...]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]

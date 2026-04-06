@@ -77,3 +77,15 @@ And then you ask yourself, “Well, who cares a lot about that?" Not everybody, 
 - After segmentation, personas come to know who the internal champion of the prospective buyer is. For example, this could be John, who is the head of Sales Ops, and it’s his responsibility to build consensus and galvanize the deal, including their boss, who’s the actual check writer. John becomes the gatekeeper and the most important persona, and if your product is not differentiated, you don’t get on John’s shortlist.
 
 This is a human edited summary of the podcast episode with April, by Gaurav Chandrashekar ([@cggaurav](https://twitter.com/cggaurav), [productscale.xyz](https://productscale.xyz)). To listen to the full episode, go [here](https://www.lennyspodcast.com/april-dunford-on-product-positioning-segmentation-and-optimizing-your-sales-process/).
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
+- 🎙️ [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ [[Podcasts/kunal-shah|Kunal Shah]]
+- 📰 [[Newsletters/how-to-build-a-killer-sales-pitch|How to build a killer sales pitch]]
+- 🎙️ [[Podcasts/april-dunford|April Dunford]]

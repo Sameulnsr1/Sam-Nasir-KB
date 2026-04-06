@@ -374,3 +374,17 @@ Bye, everyone.
 
 **Lenny Rachitsky** (01:11:55):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Vikrama Dhiman|Vikrama Dhiman]]
+
+**See also**:
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/annie-pearl|Annie Pearl]]
+- 🎙️ [[Podcasts/yuhki-yamashata|Yuhki Yamashata]]
+- 📰 [[Newsletters/taking-the-week-off-9|Taking the week off]]
+- 📰 [[Newsletters/what-covid-taught-me-about-product-management|What COVID taught me about product management]]

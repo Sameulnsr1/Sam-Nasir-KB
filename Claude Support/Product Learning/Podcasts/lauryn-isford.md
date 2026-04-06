@@ -440,3 +440,17 @@ All right.
 
 **Lenny** (01:03:57):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Lauryn Isford|Lauryn Isford]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have|How to accelerate growth by focusing on the features you already have]]
+- 🎙️ [[Podcasts/jason-fried|Jason Fried]]
+- 🎙️ [[Podcasts/austin-hay|Austin Hay]]

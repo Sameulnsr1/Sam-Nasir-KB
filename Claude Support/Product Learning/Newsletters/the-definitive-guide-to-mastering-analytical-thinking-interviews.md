@@ -335,3 +335,15 @@ The most effective preparation combines understanding the framework with extensi
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 🎙️ [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 📰 [[Newsletters/a-builders-guide-to-living-a-long-and-healthy-life|A builder’s guide to living a long and healthy life]]
+- 🎙️ [[Podcasts/ravi-mehta|Ravi Mehta]]
+- 📰 [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]

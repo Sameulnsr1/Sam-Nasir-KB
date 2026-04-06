@@ -186,3 +186,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/Career|Career]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/jason-droege|Jason Droege]]
+- 🎙️ [[Podcasts/brendan-foody|Brendan Foody]]
+- 🎙️ [[Podcasts/dan-shipper|Dan Shipper]]
+- 🎙️ [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
+- 🎙️ [[Podcasts/alex-komoroske|Alex Komoroske]]

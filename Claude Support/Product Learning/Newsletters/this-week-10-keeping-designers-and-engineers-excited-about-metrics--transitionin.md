@@ -136,3 +136,15 @@ If you’d like some advice yourself, just reply to this email. Each week, I’l
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 🎙️ [[Podcasts/bill-carr|Bill Carr]]
+- 🎙️ [[Podcasts/josh-miller|Josh Miller]]
+- 🎙️ [[Podcasts/marily-nika|Marily Nika]]

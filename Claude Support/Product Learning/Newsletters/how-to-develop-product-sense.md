@@ -231,3 +231,15 @@ I hope you decide to invest in developing your product sense, and that the pract
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/albert-cheng|Albert Cheng]]
+- 🎙️ [[Podcasts/jackson-shuttleworth|Jackson Shuttleworth]]
+- 🎙️ [[Podcasts/kayvon-beykpour|Kayvon Beykpour]]
+- 🎙️ [[Podcasts/noam-lovinsky|Noam Lovinsky]]
+- 🎙️ [[Podcasts/bill-carr|Bill Carr]]

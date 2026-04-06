@@ -64,3 +64,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**See also**:
+- 🎙️ [[Podcasts/brian-halligan|Brian Halligan]]
+- 🎙️ [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
+- 🎙️ [[Podcasts/stewart-butterfield|Stewart Butterfield]]
+- 📰 [[Newsletters/hiring-your-early-team|Hiring your early team]]
+- 📰 [[Newsletters/the-unconventional-palantir-principles-that-catalyzed-a-generation-of-startups|The unconventional Palantir principles that catalyzed a generation of startups]]

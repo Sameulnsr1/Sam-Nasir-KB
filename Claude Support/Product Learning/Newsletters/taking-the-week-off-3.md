@@ -21,3 +21,8 @@ If you’re looking for something to read or listen to in the meantime, a few su
 4. [How to do great work](https://paulgraham.com/greatwork.html) by Paul Graham
 
 See you next week!
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]]

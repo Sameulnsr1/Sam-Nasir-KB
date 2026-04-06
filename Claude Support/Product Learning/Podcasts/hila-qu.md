@@ -680,3 +680,17 @@ Bye.
 
 **Lenny** (01:32:59):
 Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcast, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]]
+
+**Guest**: [[Guests/Hila Qu|Hila Qu]]
+
+**See also**:
+- 🎙️ [[Podcasts/austin-hay|Austin Hay]]
+- 🎙️ [[Podcasts/scott-belsky|Scott Belsky]]
+- 🎙️ [[Podcasts/lauryn-isford|Lauryn Isford]]
+- 📰 [[Newsletters/a-founders-guide-to-community|A founder’s guide to community]]
+- 📰 [[Newsletters/how-people-discover-new-products|How people discover new products]]

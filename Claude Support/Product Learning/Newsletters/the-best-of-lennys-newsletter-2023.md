@@ -235,3 +235,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Growth|Growth]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/bangaly-kaba|Bangaly Kaba]]
+- 🎙️ [[Podcasts/vikrama-dhiman|Vikrama Dhiman]]
+- 🎙️ [[Podcasts/annie-pearl|Annie Pearl]]
+- 🎙️ [[Podcasts/yuhki-yamashata|Yuhki Yamashata]]
+- 📰 [[Newsletters/taking-the-week-off-9|Taking the week off]]

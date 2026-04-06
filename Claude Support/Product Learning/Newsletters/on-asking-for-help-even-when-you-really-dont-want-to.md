@@ -300,3 +300,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]]
+
+**See also**:
+- 🎙️ [[Podcasts/josh-miller|Josh Miller]]
+- 📰 [[Newsletters/my-favorite-pm-courses|My favorite PM courses]]
+- 🎙️ [[Podcasts/ken-norton|Ken Norton]]
+- 🎙️ [[Podcasts/jackie-bavaro|Jackie Bavaro]]
+- 📰 [[Newsletters/applications-now-open-for-my-live-course-product-management-fundamentals|🚨 Applications now open for my live course—Product Management Fundamentals]]

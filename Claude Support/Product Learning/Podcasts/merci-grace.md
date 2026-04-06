@@ -428,3 +428,17 @@ Likewise, Lenny. Thank you.
 
 **Lenny** (00:58:50):
 That was awesome. Thank you for listening. If you enjoyed the chat, don't forget to subscribe to the podcast. You can also learn more at lennyspodcast.com. I'll see you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/B2C|B2C]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Merci Grace|Merci Grace]]
+
+**See also**:
+- 🎙️ [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ [[Podcasts/crystal-w|Crystal W]]
+- 📰 [[Newsletters/how-to-win-in-consumer-subscription|How to win in consumer subscription]]
+- 📰 [[Newsletters/finding-your-distribution-advantage|Finding your distribution advantage]]
+- 🎙️ [[Podcasts/matt-macinnis|Matt MacInnis]]

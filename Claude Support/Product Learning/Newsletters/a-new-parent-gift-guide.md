@@ -131,3 +131,15 @@ If you’re exploring new opportunities yourself, use the same button above to s
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/AI|AI]] · [[Topics/B2C|B2C]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/what-people-are-vibe-coding-and-actually-using|What people are vibe coding (and actually using)]]
+- 📰 [[Newsletters/how-techs-most-resilient-workers-handle-burnout|How tech’s most resilient workers handle burnout]]
+- 🎙️ [[Podcasts/sam-schillace|Sam Schillace]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]

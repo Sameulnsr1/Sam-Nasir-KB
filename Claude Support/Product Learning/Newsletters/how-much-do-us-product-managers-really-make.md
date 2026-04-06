@@ -125,3 +125,15 @@ I’ve got a white-glove recruiting service specializing in senior product roles
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Career|Career]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/taking-the-week-off-6|Taking the week off]]
+- 🎙️ [[Podcasts/mayur-kamat|Mayur Kamat]]
+- 📰 [[Newsletters/strategy-blocks-an-operators-guide-to-product-strategy|Strategy Blocks: An operator’s guide to product strategy]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
+- 🎙️ [[Podcasts/anneka-gupta|Anneka Gupta]]

@@ -144,3 +144,15 @@ To go even deeper, definitely check out Reforge’s [Monetization and Pricing](h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Pricing|Pricing]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 📰 [[Newsletters/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab|Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]]
+- 📰 [[Newsletters/six-rules-of-hiring-for-growth|Six rules of hiring for growth]]
+- 📰 [[Newsletters/choosing-a-take-rate|Choosing a take rate]]
+- 📰 [[Newsletters/pricing-your-saas-product|Pricing your SaaS product]]
+- 🎙️ [[Podcasts/elena-verna-40|Elena Verna 4.0]]

@@ -221,3 +221,15 @@ If you’re looking for a new gig, join to get personalized opportunities from h
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/Career|Career]] · [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]]
+
+**See also**:
+- 🎙️ [[Podcasts/fareed-mosavat|Fareed Mosavat]]
+- 🎙️ [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ [[Podcasts/wes-kao|Wes Kao]]
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 📰 [[Newsletters/introducing-core-4-the-best-way-to-measure-and-improve-your-product-velocity|Introducing Core 4: The best way to measure and improve your product velocity]]

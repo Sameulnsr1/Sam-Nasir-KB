@@ -796,3 +796,17 @@ Thanks, Lenny. It was great.
 
 **Lenny** (01:49:12):
 Bye everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lenny'spodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Analytics|Analytics]] · [[Topics/B2B|B2B]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Startups|Startups]]
+
+**Guest**: [[Guests/Jason Fried|Jason Fried]]
+
+**See also**:
+- 🎙️ [[Podcasts/tobi-lutke|Tobi Lutke]]
+- 🎙️ [[Podcasts/sean-ellis|Sean Ellis]]
+- 🎙️ [[Podcasts/evan-lapointe|Evan LaPointe]]
+- 🎙️ [[Podcasts/jess-lachs|Jess Lachs]]
+- 📰 [[Newsletters/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have|How to accelerate growth by focusing on the features you already have]]

@@ -450,3 +450,17 @@ Happy to be here. Great convo.
 
 **Lenny Rachitsky** (01:21:19):
 So good. Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+---
+
+## Related
+
+**Topics**: [[Topics/Go-to-Market|Go-to-Market]] · [[Topics/Leadership|Leadership]] · [[Topics/Strategy|Strategy]]
+
+**Guest**: [[Guests/Jessica Hische|Jessica Hische]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 🎙️ [[Podcasts/jeanne-grosser|Jeanne Grosser]]
+- 🎙️ [[Podcasts/david-placek|David Placek]]
+- 📰 [[Newsletters/how-to-ship-like-a-startup|How to ship like a startup]]
+- 🎙️ [[Podcasts/jonathan-lowenhar|Jonathan Lowenhar]]

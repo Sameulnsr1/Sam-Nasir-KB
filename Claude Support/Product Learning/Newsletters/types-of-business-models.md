@@ -246,3 +246,15 @@ If you’ve come across other examples of business model innovations, I’d love
 Sincerely,
 
 Lenny 👋
+---
+
+## Related
+
+**Topics**: [[Topics/Engineering|Engineering]] · [[Topics/Growth|Growth]] · [[Topics/Leadership|Leadership]] · [[Topics/Product Management|Product Management]] · [[Topics/Strategy|Strategy]]
+
+**See also**:
+- 🎙️ [[Podcasts/claire-vo-openclaw|Claire Vo]]
+- 📰 [[Newsletters/reforge-applications-open-and-taking-a-sick-day|Reforge applications open (and taking a sick day)]]
+- 📰 [[Newsletters/startup-pm-vs-big-company-pm|Startup PM vs. big company PM]]
+- 🎙️ [[Podcasts/seth-godin|Seth Godin]]
+- 🎙️ [[Podcasts/naomi-gleit|Naomi Gleit]]
