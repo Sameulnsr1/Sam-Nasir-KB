@@ -10,10 +10,9 @@
 
 - 2023-01-15 — [[Podcasts/john-cutler|What differentiates the highest-performing product teams | John Cutler (Amplitude, The Beautiful Mess)]]
 
-## Mentioned In (17 articles)
+## Mentioned In (16 articles)
 
 - 🎙️ 2025-12-18 — [[Podcasts/elena-verna-40|Elena Verna 4.0]]
-- 📰 2025-11-18 — [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
 - 📰 2024-06-04 — [[Newsletters/in-defense-of-feature-team-product-managers|In defense of feature team product managers]]
 - 🎙️ 2024-02-04 — [[Podcasts/megan-cook|Megan Cook]]
 - 🎙️ 2024-01-18 — [[Podcasts/heidi-helfand|Heidi Helfand]]

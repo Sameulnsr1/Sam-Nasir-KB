@@ -10,7 +10,7 @@
 
 - 2022-06-09 — [[Podcasts/april-dunford|April Dunford on product positioning, segmentation, and optimizing your sales process]]
 
-## Mentioned In (21 articles)
+## Mentioned In (26 articles)
 
 - 🎙️ 2026-01-01 — [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
 - 🎙️ 2025-11-30 — [[Podcasts/jeanne-grosser|Jeanne Grosser]]
@@ -18,6 +18,8 @@
 - 📰 2024-12-17 — [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
 - 📰 2024-08-13 — [[Newsletters/summary-april-dunford-on-product-positioning-segmentation-and-optimizing-your-sa|Summary: April Dunford on product positioning, segmentation, and optimizing y...]]
 - 🎙️ 2024-05-30 — [[Podcasts/matt-dixon|Matt Dixon]]
+- 🎙️ 2024-05-05 — [[Podcasts/hamilton-helmer|Hamilton Helmer]]
+- 🎙️ 2024-03-24 — [[Podcasts/kunal-shah|Kunal Shah]]
 - 📰 2024-01-09 — [[Newsletters/what-to-do-if-your-product-isnt-taking-off|What to do if your product isn’t taking off]]
 - 📰 2024-01-02 — [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]
@@ -30,6 +32,4 @@
 - 🎙️ 2022-09-11 — [[Podcasts/emily-kramer|Emily Kramer]]
 - 📰 2022-07-19 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-3-craft-your-pitch|How to kickstart and scale a consumer business—Step 3: Craft your pitch]]
 - 📰 2022-07-12 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-2-identify-your-super-specif|How to kickstart and scale a consumer business—Step 2: Identify your super-sp...]]
-- 📰 2022-01-11 — [[Newsletters/differentiating-your-product|Differentiating your product]]
-- 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]
-- *...and 1 more*
+- *...and 6 more*

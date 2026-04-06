@@ -10,7 +10,8 @@
 
 - 2023-05-07 — [[Podcasts/jonathan-becker|Mastering paid growth | Jonathan Becker (Thrive Digital)]]
 
-## Mentioned In (2 articles)
+## Mentioned In (3 articles)
 
 - 📰 2024-12-17 — [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
+- 🎙️ 2024-01-21 — [[Podcasts/richard-rumelt|Richard Rumelt]]
 - 📰 2023-10-24 — [[Newsletters/scaling-your-b2b-growth-engine|Scaling your B2B growth engine]]

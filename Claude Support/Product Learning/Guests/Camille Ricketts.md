@@ -10,8 +10,10 @@
 
 - 2022-12-11 — [[Podcasts/camille-ricketts|How Notion leveraged community to build a $10B business | Camille Ricketts (Notion, First Round Capital)]]
 
-## Mentioned In (4 articles)
+## Mentioned In (6 articles)
 
+- 🎙️ 2024-01-04 — [[Podcasts/judd-antin|Judd Antin]]
+- 🎙️ 2023-04-13 — [[Podcasts/laura-modi|Laura Modi]]
 - 🎙️ 2023-04-06 — [[Podcasts/nikita-miller|Nikita Miller]]
 - 📰 2023-02-14 — [[Newsletters/growth-inflections|Growth inflections]]
 - 📰 2023-01-03 — [[Newsletters/virality-is-a-myth-mostly|Virality is a myth (mostly)]]

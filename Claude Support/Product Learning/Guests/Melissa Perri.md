@@ -10,9 +10,11 @@
 
 - 2022-07-28 — [[Podcasts/melissa-perri|How to create a winning product strategy | Melissa Perri]]
 
-## Mentioned In (5 articles)
+## Mentioned In (7 articles)
 
 - 📰 2024-06-04 — [[Newsletters/in-defense-of-feature-team-product-managers|In defense of feature team product managers]]
+- 🎙️ 2024-04-21 — [[Podcasts/mihika-kapoor|Mihika Kapoor]]
+- 🎙️ 2024-02-04 — [[Podcasts/megan-cook|Megan Cook]]
 - 📰 2024-01-02 — [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]
 - 🎙️ 2022-06-20 — [[Podcasts/gibson-biddle|Gibson Biddle]]

@@ -10,8 +10,9 @@
 
 - 2023-06-01 — [[Podcasts/nancy-duarte|Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks]]
 
-## Mentioned In (4 articles)
+## Mentioned In (5 articles)
 
+- 📰 2024-12-24 — [[Newsletters/top-angel-investors-in-the-us|Top angel investors in the U.S.]]
 - 🎙️ 2024-10-06 — [[Podcasts/john-mark-nickels|John Mark Nickels]]
 - 🎙️ 2024-07-07 — [[Podcasts/mike-maples-jr|Mike Maples Jr]]
 - 🎙️ 2022-11-27 — [[Podcasts/petra-wille|Petra Wille]]

@@ -10,12 +10,13 @@
 
 - 2025-04-10 — [[Podcasts/kevin-weil|OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram, Twitter)]]
 
-## Mentioned In (12 articles)
+## Mentioned In (14 articles)
 
 - 🎙️ 2026-02-26 — [[Podcasts/jeetu-patel|Jeetu Patel]]
 - 🎙️ 2026-02-12 — [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
 - 🎙️ 2026-01-12 — [[Podcasts/alexander-embiricos|Alexander Embiricos]]
 - 🎙️ 2025-12-07 — [[Podcasts/edwin-chen|Edwin Chen]]
+- 🎙️ 2025-12-04 — [[Podcasts/tomer-cohen|Tomer Cohen]]
 - 🎙️ 2025-08-09 — [[Podcasts/nick-turley|Nick Turley]]
 - 🎙️ 2025-06-05 — [[Podcasts/mike-krieger|Mike Krieger]]
 - 🎙️ 2025-05-25 — [[Podcasts/krithika-shankarraman|Krithika Shankarraman]]
@@ -24,3 +25,4 @@
 - 📰 2025-04-08 — [[Newsletters/beyond-vibe-checks-a-pms-complete-guide-to-evals|Beyond vibe checks: A PM’s complete guide to evals]]
 - 🎙️ 2025-02-09 — [[Podcasts/karina-nguyen|Karina Nguyen]]
 - 🎙️ 2024-09-26 — [[Podcasts/tamar-yehoshua|Tamar Yehoshua]]
+- 🎙️ 2022-11-13 — [[Podcasts/alex-hardimen|Alex Hardimen]]

@@ -10,9 +10,11 @@
 
 - 2022-09-15 — [[Podcasts/adam-grenier|When and how to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)]]
 
-## Mentioned In (4 articles)
+## Mentioned In (6 articles)
 
 - 📰 2023-08-22 — [[Newsletters/how-to-hire-your-first-growth-team|How to hire your first growth team]]
+- 🎙️ 2023-06-18 — [[Podcasts/melissa-tan|Melissa Tan]]
 - 📰 2022-02-08 — [[Newsletters/what-is-good-monthly-churn|What is good monthly churn]]
 - 📰 2021-12-14 — [[Newsletters/what-is-a-good-payback-period|What is a good payback period?]]
 - 📰 2021-11-09 — [[Newsletters/six-rules-of-hiring-for-growth|Six rules of hiring for growth]]
+- 📰 2021-03-30 — [[Newsletters/the-minto-pyramid-principle-and-the-scr-framework|The Minto Pyramid Principle and the SCR Framework]]

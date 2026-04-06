@@ -10,9 +10,8 @@
 
 - 2023-09-10 — [[Podcasts/andy-johns|When enough is enough | Andy Johns (ex-FB, Twitter, Quora)]]
 
-## Mentioned In (19 articles)
+## Mentioned In (18 articles)
 
-- 📰 2025-11-18 — [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
 - 📰 2025-10-28 — [[Newsletters/a-builders-guide-to-living-a-long-and-healthy-life|A builder’s guide to living a long and healthy life]]
 - 📰 2025-07-15 — [[Newsletters/essential-reading-for-product-builders-part-1|Essential reading for product builders—part 1]]
 - 📰 2025-07-08 — [[Newsletters/what-people-are-vibe-coding-and-actually-using|What people are vibe coding (and actually using)]]

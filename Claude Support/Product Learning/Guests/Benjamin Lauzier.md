@@ -10,12 +10,26 @@
 
 - 2024-09-29 — [[Podcasts/benjamin-lauzier|How marketplaces win: Liquidity, growth levers, quality, and more | Benjamin Lauzier (Lyft, Thumbtack, Reforge)]]
 
-## Mentioned In (7 articles)
+## Mentioned In (32 articles)
 
-- 📰 2019-12-19 — [[Newsletters/what-theyd-do-differently--kickstarting-and-scaling-a-marketplace-business|What They'd Do Differently 🔮 Kickstarting and Scaling a Marketplace Business]]
-- 📰 2019-12-17 — [[Newsletters/maintaining-quality--phase-2-of-kickstarting-and-scaling-a-marketplace-business|Maintaining Quality 🏅 Phase 2 of Kickstarting and Scaling a Marketplace Business]]
-- 📰 2019-12-10 — [[Newsletters/how-to-know-if-youre-supply-or-demand-constrained----phase-2-of-kickstarting-and|How To Know If You're Supply or Demand Constrained 🤹‍♂️ - Phase 2 of Kickstar...]]
-- 📰 2019-12-03 — [[Newsletters/how-to-kickstart-and-scale-a-marketplace-business---part-4-cracking-the-chicken|How to Kickstart and Scale a Marketplace Business – Part 4: Cracking the Chic...]]
-- 📰 2019-11-25 — [[Newsletters/how-to-kickstart-and-scale-a-marketplace-business---part-3-cracking-the-chicken|How to Kickstart and Scale a Marketplace Business – Part 3: Cracking the Chic...]]
-- 📰 2019-11-22 — [[Newsletters/how-to-kickstart-and-scale-a-marketplace-business---part-2-cracking-the-chicken|How to Kickstart and Scale a Marketplace Business – Part 2: Cracking the Chic...]]
-- 📰 2019-11-20 — [[Newsletters/how-to-kickstart-and-scale-a-marketplace-business|How to kickstart and scale a marketplace business]]
+- 🎙️ 2025-12-28 — [[Podcasts/matt-macinnis|Matt MacInnis]]
+- 📰 2025-08-12 — [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 🎙️ 2025-03-23 — [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 📰 2024-12-17 — [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
+- 🎙️ 2024-05-16 — [[Podcasts/jag-duggal|Jag Duggal]]
+- 📰 2023-09-11 — [[Newsletters/500000-ten-lessons-learned-from-building-this-newsletter|500,000]]
+- 🎙️ 2023-06-15 — [[Podcasts/luc-levesque|Luc Levesque]]
+- 🎙️ 2023-04-30 — [[Podcasts/carilu-dietrich|Carilu Dietrich]]
+- 🎙️ 2023-04-16 — [[Podcasts/ada-chen-rekhi|Ada Chen Rekhi]]
+- 🎙️ 2023-03-02 — [[Podcasts/gustaf-alstromer|Gustaf Alstromer]]
+- 🎙️ 2023-01-15 — [[Podcasts/john-cutler|John Cutler]]
+- 📰 2022-11-22 — [[Newsletters/startup-to-exit-lessons-from-a-first-time-founder|Startup to exit: Lessons from a first-time founder]]
+- 🎙️ 2022-10-13 — [[Podcasts/adam-fishman|Adam Fishman]]
+- 🎙️ 2022-09-11 — [[Podcasts/emily-kramer|Emily Kramer]]
+- 🎙️ 2022-07-21 — [[Podcasts/casey-winters|Casey Winters]]
+- 🎙️ 2022-06-23 — [[Podcasts/elena-verna-30|Elena Verna 3.0]]
+- 📰 2022-01-25 — [[Newsletters/lessons-from-140-angel-investments|Lessons from 140+ angel investments]]
+- 📰 2021-03-02 — [[Newsletters/content-driven-growth|Content-driven growth]]
+- 📰 2020-09-01 — [[Newsletters/a-playbook-for-fundraising|A playbook for fundraising]]
+- 📰 2020-06-30 — [[Newsletters/surviving-reorgs-tactically-and-emotionally---issue-32|Surviving reorgs, tactically and emotionally - Issue 32]]
+- *...and 12 more*

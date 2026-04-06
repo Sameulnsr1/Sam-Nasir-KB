@@ -10,8 +10,9 @@
 
 - 2023-01-12 — [[Podcasts/naomi-ionita|How to price your product | Naomi Ionita (Menlo Ventures)]]
 
-## Mentioned In (6 articles)
+## Mentioned In (7 articles)
 
+- 📰 2023-10-24 — [[Newsletters/scaling-your-b2b-growth-engine|Scaling your B2B growth engine]]
 - 📰 2023-03-14 — [[Newsletters/growth-ideas|Growth ideas]]
 - 📰 2022-02-08 — [[Newsletters/what-is-good-monthly-churn|What is good monthly churn]]
 - 📰 2021-12-14 — [[Newsletters/what-is-a-good-payback-period|What is a good payback period?]]

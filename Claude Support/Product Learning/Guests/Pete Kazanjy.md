@@ -10,14 +10,16 @@
 
 - 2022-12-15 — [[Podcasts/pete-kazanjy|Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)]]
 
-## Mentioned In (14 articles)
+## Mentioned In (16 articles)
 
+- 📰 2025-05-20 — [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]
 - 📰 2024-12-17 — [[Newsletters/the-best-of-lennys-newsletter-2024-edition|The Best of Lenny’s Newsletter—2024 Edition]]
 - 📰 2024-08-06 — [[Newsletters/ethan-smith-the-power-of-internal-linking-for-seo|Ethan Smith: The power of internal linking for SEO]]
 - 🎙️ 2024-04-18 — [[Podcasts/dalton-caldwell|Dalton Caldwell]]
 - 📰 2024-01-16 — [[Newsletters/how-to-describe-your-business-as-an-equation|How to describe your business as an equation]]
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]
 - 📰 2023-10-03 — [[Newsletters/hiring-your-early-team|Hiring your early team]]
+- 🎙️ 2023-07-13 — [[Podcasts/julia-schottenstein|Julia Schottenstein]]
 - 📰 2022-12-27 — [[Newsletters/the-best-of-lennys-newsletter-2022|The Best of Lenny’s Newsletter 2022]]
 - 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]
 - 📰 2021-08-24 — [[Newsletters/gtm-motions-of-30-b2b-saas-companies|GTM motions of 30 B2B SaaS companies]]

@@ -10,6 +10,7 @@
 
 - 2025-06-19 — [[Podcasts/sander-schulhoff|AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)]]
 
-## Mentioned In (1 articles)
+## Mentioned In (2 articles)
 
 - 🎙️ 2026-04-02 — [[Podcasts/simon-willison|Simon Willison]]
+- 🎙️ 2025-04-13 — [[Podcasts/guillermo-rauch|Guillermo Rauch]]

@@ -10,7 +10,7 @@
 
 - 2024-06-23 — [[Podcasts/ami-vora|Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)]]
 
-## Mentioned In (22 articles)
+## Mentioned In (23 articles)
 
 - 🎙️ 2026-01-04 — [[Podcasts/molly-graham|Molly Graham]]
 - 🎙️ 2026-01-01 — [[Podcasts/jason-m-lemkin|Jason M Lemkin]]
@@ -32,4 +32,4 @@
 - 🎙️ 2023-10-29 — [[Podcasts/eric-ries|Eric Ries]]
 - 🎙️ 2023-08-10 — [[Podcasts/christopher-miller|Christopher Miller]]
 - 📰 2023-06-06 — [[Newsletters/how-a-traumatic-brain-injury-made-me-a-better-pm-and-person|How a traumatic brain injury made me a better PM—and person]]
-- *...and 2 more*
+- *...and 3 more*

@@ -10,11 +10,12 @@
 
 - 2024-05-30 — [[Podcasts/matt-dixon|The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon (author of The Challenger Sale and The JOLT Effect)]]
 
-## Mentioned In (11 articles)
+## Mentioned In (12 articles)
 
 - 🎙️ 2025-11-16 — [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
 - 🎙️ 2024-08-18 — [[Podcasts/kevin-yien|Kevin Yien]]
 - 🎙️ 2024-08-11 — [[Podcasts/evan-lapointe|Evan LaPointe]]
+- 🎙️ 2024-07-25 — [[Podcasts/roger-martin|Roger Martin]]
 - 📰 2024-02-20 — [[Newsletters/you-should-be-playing-with-gpts-at-work|You should be playing with GPTs at work]]
 - 📰 2023-12-05 — [[Newsletters/lessons-on-building-a-viral-consumer-app-the-story-of-saturn|Lessons on building a viral consumer app: The story of Saturn]]
 - 📰 2023-10-17 — [[Newsletters/how-to-build-a-killer-sales-pitch|How to build a killer sales pitch]]

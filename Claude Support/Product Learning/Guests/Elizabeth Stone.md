@@ -10,10 +10,9 @@
 
 - 2024-02-22 — [[Podcasts/elizabeth-stone|How Netflix builds a culture of excellence | Elizabeth Stone (CTO)]]
 
-## Mentioned In (7 articles)
+## Mentioned In (6 articles)
 
 - 🎙️ 2025-11-23 — [[Podcasts/rachel-lockett|Rachel Lockett]]
-- 📰 2025-03-04 — [[Newsletters/1000000-taking-a-moment-to-celebrate-and-reflect-and-then-back-to-work|1,000,000]]
 - 🎙️ 2024-07-14 — [[Podcasts/jess-lachs|Jess Lachs]]
 - 📰 2024-06-18 — [[Newsletters/when-and-how-to-run-a-billboard-campaign|When and how to run a billboard campaign]]
 - 🎙️ 2024-06-09 — [[Podcasts/uri-levine|Uri Levine]]

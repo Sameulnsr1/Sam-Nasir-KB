@@ -10,6 +10,8 @@
 
 - 2025-01-16 — [[Podcasts/graham-weaver|How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)]]
 
-## Mentioned In (1 articles)
+## Mentioned In (3 articles)
 
 - 🎙️ 2025-11-23 — [[Podcasts/rachel-lockett|Rachel Lockett]]
+- 📰 2025-07-29 — [[Newsletters/lennys-product-pass-20-free-premium-products-available-exclusively-for-paid-annu|Lenny's Product Pass: 20+ free premium products, available exclusively for pa...]]
+- 📰 2023-08-15 — [[Newsletters/how-to-validate-your-b2b-startup-idea|How to validate your B2B startup idea]]

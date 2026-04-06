@@ -10,11 +10,12 @@
 
 - 2022-06-07 — [[Podcasts/julie-zhuo|Julie Zhuo on accelerating your career, impostor syndrome, writing, building product sense, using intuition vs. data, hiring designers, and moving into management]]
 
-## Mentioned In (12 articles)
+## Mentioned In (13 articles)
 
 - 🎙️ 2026-03-01 — [[Podcasts/jenny-wen|Jenny Wen]]
 - 📰 2025-08-12 — [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
 - 📰 2024-03-12 — [[Newsletters/my-podcast-tech-stack-workflows-and-lessons|My podcast tech stack, workflows, and lessons]]
+- 🎙️ 2024-01-18 — [[Podcasts/heidi-helfand|Heidi Helfand]]
 - 📰 2022-06-14 — [[Newsletters/how-to-build-trust-in-a-marketplace|How to build trust in a marketplace]]
 - 📰 2022-06-07 — [[Newsletters/ive-launched-a-podcast|I’ve launched a podcast!]]
 - 📰 2022-04-19 — [[Newsletters/preparing-for-a-pm-interview|Preparing for a PM interview]]

@@ -10,11 +10,12 @@
 
 - 2022-07-24 — [[Podcasts/ken-norton|How to unlock your product leadership skills | Ken Norton, Ex-Google]]
 
-## Mentioned In (8 articles)
+## Mentioned In (9 articles)
 
 - 📰 2025-08-12 — [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 📰 2024-08-06 — [[Newsletters/on-asking-for-help-even-when-you-really-dont-want-to|On asking for help (even when you really don’t want to)]]
+- 🎙️ 2024-04-04 — [[Podcasts/dharmesh-shah|Dharmesh Shah]]
 - 🎙️ 2023-03-16 — [[Podcasts/christina-wodtke|Christina Wodtke]]
-- 📰 2021-11-05 — [[Newsletters/applications-now-open-for-my-live-course-product-management-fundamentals|🚨 Applications now open for my live course—Product Management Fundamentals]]
 - 📰 2021-11-02 — [[Newsletters/breaking-into-growth|Breaking into growth]]
 - 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]
 - 📰 2021-09-28 — [[Newsletters/saying-no|Saying no]]

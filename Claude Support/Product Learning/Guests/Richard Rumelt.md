@@ -10,11 +10,12 @@
 
 - 2024-01-21 — [[Podcasts/richard-rumelt|Good Strategy, Bad Strategy | Richard Rumelt]]
 
-## Mentioned In (12 articles)
+## Mentioned In (13 articles)
 
 - 🎙️ 2025-10-19 — [[Podcasts/nicole-forsgren|Nicole Forsgren]]
 - 🎙️ 2025-07-20 — [[Podcasts/benjamin-mann|Benjamin Mann]]
 - 🎙️ 2025-01-26 — [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 2024-08-06 — [[Newsletters/ethan-smith-the-power-of-internal-linking-for-seo|Ethan Smith: The power of internal linking for SEO]]
 - 🎙️ 2024-07-25 — [[Podcasts/roger-martin|Roger Martin]]
 - 🎙️ 2024-05-16 — [[Podcasts/jag-duggal|Jag Duggal]]
 - 📰 2024-04-02 — [[Newsletters/the-secret-to-duolingos-exponential-growth|The secret to Duolingo’s exponential growth]]

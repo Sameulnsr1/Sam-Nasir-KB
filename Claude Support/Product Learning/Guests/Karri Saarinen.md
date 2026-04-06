@@ -10,10 +10,13 @@
 
 - 2023-10-08 — [[Podcasts/karri-saarinen|Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)]]
 
-## Mentioned In (14 articles)
+## Mentioned In (18 articles)
 
 - 📰 2025-11-04 — [[Newsletters/part-2-of-how-to-get-the-most-out-of-your-product-pass-and-welcome-stripe-atlas|Part 2 of how to get the most out of your product pass—and welcome, Stripe At...]]
+- 📰 2025-03-11 — [[Newsletters/why-youre-so-angry-at-work-and-what-to-do-about-it|Why you’re so angry at work (and what to do about it)]]
 - 📰 2024-09-17 — [[Newsletters/raising-a-seed-round-101|Raising a seed round 101]]
+- 🎙️ 2024-08-25 — [[Podcasts/nikita-bier|Nikita Bier]]
+- 📰 2024-03-12 — [[Newsletters/my-podcast-tech-stack-workflows-and-lessons|My podcast tech stack, workflows, and lessons]]
 - 📰 2024-02-27 — [[Newsletters/how-to-learn-the-most-about-a-candidate-from-a-single-interview-question|How to learn the most about a candidate from a single interview question]]
 - 📰 2024-01-30 — [[Newsletters/adding-a-work-trial-to-your-interview-process|Adding a work trial to your interview process]]
 - 📰 2024-01-02 — [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
@@ -24,5 +27,6 @@
 - 📰 2023-09-26 — [[Newsletters/how-linear-builds-product|How Linear builds product]]
 - 📰 2023-08-08 — [[Newsletters/how-the-most-successful-b2b-startups-came-up-with-their-original-idea|How the most successful B2B startups came up with their original idea]]
 - 📰 2022-11-08 — [[Newsletters/how-to-determine-your-activation-metric|How to determine your activation metric]]
+- 🎙️ 2022-09-18 — [[Podcasts/jason-shah|Jason Shah]]
 - 📰 2022-03-01 — [[Newsletters/what-is-good-waitlist-conversion|What is good waitlist conversion]]
 - 📰 2020-12-04 — [[Newsletters/seo-keywords-career-ladders-backlog-tools-copywriting-onlyfans-ama-with-pete-kaz|SEO keywords, career ladders, backlog tools, copywriting, OnlyFans, AMA with ...]]

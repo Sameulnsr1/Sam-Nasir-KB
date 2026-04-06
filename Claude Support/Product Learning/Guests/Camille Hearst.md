@@ -10,7 +10,8 @@
 
 - 2023-08-20 — [[Podcasts/camille-hearst|Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst (Spotify, Patreon, Apple, YouTube)]]
 
-## Mentioned In (2 articles)
+## Mentioned In (3 articles)
 
+- 🎙️ 2024-03-07 — [[Podcasts/ray-cao|Ray Cao]]
 - 📰 2024-02-27 — [[Newsletters/how-to-learn-the-most-about-a-candidate-from-a-single-interview-question|How to learn the most about a candidate from a single interview question]]
 - 🎙️ 2023-11-29 — [[Podcasts/interview-q-compilation|Interview Q Compilation]]

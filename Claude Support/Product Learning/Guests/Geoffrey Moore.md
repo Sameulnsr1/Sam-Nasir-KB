@@ -10,10 +10,11 @@
 
 - 2024-01-25 — [[Podcasts/geoffrey-moore|Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market]]
 
-## Mentioned In (12 articles)
+## Mentioned In (13 articles)
 
 - 🎙️ 2025-01-09 — [[Podcasts/drew-houston|Drew Houston]]
 - 🎙️ 2024-04-04 — [[Podcasts/dharmesh-shah|Dharmesh Shah]]
+- 🎙️ 2024-03-07 — [[Podcasts/ray-cao|Ray Cao]]
 - 📰 2024-02-20 — [[Newsletters/you-should-be-playing-with-gpts-at-work|You should be playing with GPTs at work]]
 - 📰 2024-01-09 — [[Newsletters/what-to-do-if-your-product-isnt-taking-off|What to do if your product isn’t taking off]]
 - 🎙️ 2023-12-21 — [[Podcasts/christian-idiodi|Christian Idiodi]]

@@ -10,7 +10,7 @@
 
 - 2022-11-06 — [[Podcasts/ben-williams|How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)]]
 
-## Mentioned In (23 articles)
+## Mentioned In (24 articles)
 
 - 🎙️ 2025-08-14 — [[Podcasts/matt-lemay|Matt LeMay]]
 - 🎙️ 2025-06-12 — [[Podcasts/bob-baxley|Bob Baxley]]
@@ -32,4 +32,4 @@
 - 📰 2022-07-12 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-2-identify-your-super-specif|How to kickstart and scale a consumer business—Step 2: Identify your super-sp...]]
 - 📰 2022-07-05 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business|How to kickstart and scale a consumer business]]
 - 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]
-- *...and 3 more*
+- *...and 4 more*

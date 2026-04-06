@@ -10,7 +10,7 @@
 
 - 2022-11-10 — [[Podcasts/matt-mochary|How to fire people with grace, work through fear, and nurture innovation | Matt Mochary (CEO coach)]]
 
-## Mentioned In (17 articles)
+## Mentioned In (16 articles)
 
 - 📰 2024-08-27 — [[Newsletters/part-2-time-management-techniques-that-actually-work|Part 2: Time management techniques that actually work]]
 - 📰 2024-08-13 — [[Newsletters/time-management-techniques-that-actually-work|Time management techniques that actually work]]
@@ -26,6 +26,5 @@
 - 🎙️ 2023-01-05 — [[Podcasts/jules-walter|Jules Walter]]
 - 🎙️ 2022-12-29 — [[Podcasts/eoy-review|EOY Review]]
 - 📰 2022-12-27 — [[Newsletters/the-best-of-lennys-newsletter-2022|The Best of Lenny’s Newsletter 2022]]
-- 📰 2022-11-29 — [[Newsletters/lennys-newsletter-holiday-gift-guide-2022|Lenny’s Newsletter Holiday Gift Guide 2022]]
 - 🎙️ 2022-11-27 — [[Podcasts/petra-wille|Petra Wille]]
 - 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]

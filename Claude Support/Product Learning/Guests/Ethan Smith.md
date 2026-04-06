@@ -10,7 +10,7 @@
 
 - 2025-09-14 — [[Podcasts/ethan-smith|The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)]]
 
-## Mentioned In (13 articles)
+## Mentioned In (14 articles)
 
 - 📰 2025-11-11 — [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
 - 📰 2025-09-23 — [[Newsletters/how-to-get-the-most-out-of-your-product-pass-part-1|How to get the most out of your product pass, part 1]]
@@ -18,6 +18,7 @@
 - 🎙️ 2024-09-19 — [[Podcasts/eli-schwartz|Eli Schwartz]]
 - 📰 2024-08-06 — [[Newsletters/ethan-smith-the-power-of-internal-linking-for-seo|Ethan Smith: The power of internal linking for SEO]]
 - 📰 2024-03-12 — [[Newsletters/my-podcast-tech-stack-workflows-and-lessons|My podcast tech stack, workflows, and lessons]]
+- 🎙️ 2024-01-21 — [[Podcasts/richard-rumelt|Richard Rumelt]]
 - 🎙️ 2024-01-14 — [[Podcasts/ethan-evans-20|Ethan Evans 2.0]]
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]
 - 📰 2023-03-28 — [[Newsletters/product-led-marketing|Product-led marketing]]

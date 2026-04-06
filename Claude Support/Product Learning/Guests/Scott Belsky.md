@@ -10,7 +10,7 @@
 
 - 2023-05-18 — [[Podcasts/scott-belsky|Lessons on building product sense, navigating AI, optimizing the first mile, and making it through the messy middle | Scott Belsky (Adobe, Behance)]]
 
-## Mentioned In (17 articles)
+## Mentioned In (21 articles)
 
 - 🎙️ 2026-01-12 — [[Podcasts/alexander-embiricos|Alexander Embiricos]]
 - 🎙️ 2025-11-13 — [[Podcasts/grant-lee|Grant Lee]]
@@ -23,9 +23,13 @@
 - 📰 2024-01-09 — [[Newsletters/what-to-do-if-your-product-isnt-taking-off|What to do if your product isn’t taking off]]
 - 🎙️ 2023-12-07 — [[Podcasts/anuj-rathi|Anuj Rathi]]
 - 🎙️ 2023-11-29 — [[Podcasts/interview-q-compilation|Interview Q Compilation]]
+- 🎙️ 2023-08-13 — [[Podcasts/austin-hay|Austin Hay]]
+- 🎙️ 2023-04-02 — [[Podcasts/hila-qu|Hila Qu]]
 - 🎙️ 2023-03-19 — [[Podcasts/josh-miller|Josh Miller]]
 - 📰 2022-08-16 — [[Newsletters/kickstarting-and-scaling-a-consumer-business-step-6-scale-build-your-growth-engi|Kickstarting and scaling a consumer business—Step 6: SCALE: Build your growth...]]
 - 📰 2022-07-26 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-4-find-your-early-adopters-b|How to kickstart and scale a consumer business—Step 4: Find your early adopte...]]
 - 🎙️ 2022-07-21 — [[Podcasts/casey-winters|Casey Winters]]
 - 📰 2022-07-19 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-3-craft-your-pitch|How to kickstart and scale a consumer business—Step 3: Craft your pitch]]
+- 📰 2021-06-08 — [[Newsletters/how-people-discover-new-products|How people discover new products]]
 - 📰 2020-08-25 — [[Newsletters/how-to-increase-your-products-retention|How to increase your product's retention]]
+- *...and 1 more*

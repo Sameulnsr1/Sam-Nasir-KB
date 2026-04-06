@@ -10,18 +10,26 @@
 
 - 2024-09-05 — [[Podcasts/sean-ellis|The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)]]
 
-## Mentioned In (13 articles)
+## Mentioned In (40 articles)
 
+- 📰 2025-08-12 — [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
+- 📰 2025-05-20 — [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]
 - 🎙️ 2025-03-23 — [[Podcasts/rahul-vohra|Rahul Vohra]]
+- 📰 2024-12-03 — [[Newsletters/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati|How GiveDirectly increased donations by over $3 million/year through experime...]]
 - 🎙️ 2024-09-29 — [[Podcasts/benjamin-lauzier|Benjamin Lauzier]]
 - 📰 2024-09-03 — [[Newsletters/the-subscription-value-loop-a-framework-for-growing-consumer-subscription-busine|The Subscription Value Loop: A framework for growing consumer subscription bu...]]
+- 🎙️ 2024-08-11 — [[Podcasts/evan-lapointe|Evan LaPointe]]
+- 🎙️ 2024-07-28 — [[Podcasts/timothy-davis|Timothy Davis]]
 - 🎙️ 2024-05-16 — [[Podcasts/jag-duggal|Jag Duggal]]
+- 📰 2024-04-02 — [[Newsletters/the-secret-to-duolingos-exponential-growth|The secret to Duolingo’s exponential growth]]
 - 🎙️ 2023-12-27 — [[Podcasts/sarah-tavel|Sarah Tavel]]
+- 🎙️ 2023-12-17 — [[Podcasts/jason-fried|Jason Fried]]
 - 🎙️ 2023-09-21 — [[Podcasts/itamar-gilad|Itamar Gilad]]
+- 📰 2023-07-18 — [[Newsletters/how-todays-top-consumer-brands-measure-marketings-impact|How today’s top consumer brands measure marketing’s impact]]
+- 📰 2023-05-09 — [[Newsletters/how-miro-builds-product|How Miro builds product]]
+- 📰 2023-02-28 — [[Newsletters/how-duolingo-reignited-user-growth|How Duolingo reignited user growth]]
 - 📰 2022-12-20 — [[Newsletters/my-favorite-pm-courses|My favorite PM courses]]
-- 📰 2022-08-09 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-5-retain-iterate-until-enoug|How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until ...]]
-- 📰 2022-07-26 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-4-find-your-early-adopters-b|How to kickstart and scale a consumer business—Step 4: Find your early adopte...]]
-- 📰 2021-01-26 — [[Newsletters/positioning|Positioning]]
-- 📰 2020-06-02 — [[Newsletters/what-to-ask-your-users-about-product-market-fit|What to ask your users about Product-Market Fit]]
-- 📰 2020-01-28 — [[Newsletters/how-to-know-if-youve-got-product-market-fit|How to know if you've got product-market fit]]
-- 📰 2019-09-17 — [[Newsletters/this-week-1-must-reads-on-growth-what-pms-should-focus-on-when-joining-a-new-tea|This Week #1: Must reads on growth, what PMs should focus on when joining a n...]]
+- 📰 2022-11-22 — [[Newsletters/startup-to-exit-lessons-from-a-first-time-founder|Startup to exit: Lessons from a first-time founder]]
+- 🎙️ 2022-09-25 — [[Podcasts/julian-shapiro|Julian Shapiro]]
+- 📰 2022-09-20 — [[Newsletters/how-to-get-better-at-influence|How to get better at influence]]
+- *...and 20 more*

@@ -10,7 +10,9 @@
 
 - 2022-12-04 — [[Podcasts/sahil-mansuri|How to hit revenue targets in a recession | Sahil Mansuri (Bravado)]]
 
-## Mentioned In (2 articles)
+## Mentioned In (4 articles)
 
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]
+- 🎙️ 2023-07-23 — [[Podcasts/noah-weiss|Noah Weiss]]
 - 📰 2022-12-27 — [[Newsletters/the-best-of-lennys-newsletter-2022|The Best of Lenny’s Newsletter 2022]]
+- 📰 2022-12-06 — [[Newsletters/how-to-activate-your-investor-network|How to activate your investor network]]

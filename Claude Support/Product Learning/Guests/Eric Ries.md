@@ -10,7 +10,7 @@
 
 - 2023-10-29 — [[Podcasts/eric-ries|Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)]]
 
-## Mentioned In (216 articles)
+## Mentioned In (213 articles)
 
 - 🎙️ 2026-04-02 — [[Podcasts/simon-willison|Simon Willison]]
 - 🎙️ 2026-03-22 — [[Podcasts/jessica-fain|Jessica Fain]]
@@ -27,9 +27,9 @@
 - 🎙️ 2025-12-07 — [[Podcasts/edwin-chen|Edwin Chen]]
 - 🎙️ 2025-12-04 — [[Podcasts/tomer-cohen|Tomer Cohen]]
 - 🎙️ 2025-11-30 — [[Podcasts/jeanne-grosser|Jeanne Grosser]]
-- 📰 2025-11-18 — [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
 - 🎙️ 2025-11-13 — [[Podcasts/grant-lee|Grant Lee]]
 - 📰 2025-11-11 — [[Newsletters/ecosystem-is-the-next-big-growth-channel|Ecosystem is the next big growth channel]]
 - 🎙️ 2025-11-09 — [[Podcasts/jen-abel|Jen Abel]]
 - 📰 2025-11-04 — [[Newsletters/part-2-of-how-to-get-the-most-out-of-your-product-pass-and-welcome-stripe-atlas|Part 2 of how to get the most out of your product pass—and welcome, Stripe At...]]
-- *...and 196 more*
+- 📰 2025-10-28 — [[Newsletters/a-builders-guide-to-living-a-long-and-healthy-life|A builder’s guide to living a long and healthy life]]
+- *...and 193 more*

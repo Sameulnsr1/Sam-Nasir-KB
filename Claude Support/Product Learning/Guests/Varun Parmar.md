@@ -10,6 +10,9 @@
 
 - 2023-04-20 — [[Podcasts/varun-parmar|An inside look at how Miro builds product: Lessons on outmaneuvering competitors, team structure, product quality, and moving fast | Varun Parmar (CPO of Miro)]]
 
-## Mentioned In (1 articles)
+## Mentioned In (4 articles)
 
+- 🎙️ 2025-01-26 — [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
+- 📰 2023-07-25 — [[Newsletters/how-shopify-builds-product|How Shopify builds product]]
+- 📰 2023-07-11 — [[Newsletters/how-snowflake-builds-product|How Snowflake builds product]]
 - 📰 2023-05-09 — [[Newsletters/how-miro-builds-product|How Miro builds product]]

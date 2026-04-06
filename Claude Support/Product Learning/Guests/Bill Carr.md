@@ -10,7 +10,7 @@
 
 - 2023-11-02 — [[Podcasts/bill-carr|Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)]]
 
-## Mentioned In (80 articles)
+## Mentioned In (92 articles)
 
 - 🎙️ 2026-02-26 — [[Podcasts/jeetu-patel|Jeetu Patel]]
 - 🎙️ 2026-02-12 — [[Podcasts/sherwin-wu-v2|Sherwin Wu V2]]
@@ -32,4 +32,4 @@
 - 🎙️ 2025-06-22 — [[Podcasts/peter-deng|Peter Deng]]
 - 📰 2025-05-20 — [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]
 - 🎙️ 2025-05-11 — [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
-- *...and 60 more*
+- *...and 72 more*

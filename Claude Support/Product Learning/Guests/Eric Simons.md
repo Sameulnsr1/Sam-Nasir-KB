@@ -10,7 +10,9 @@
 
 - 2025-03-13 — [[Podcasts/eric-simons|Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder and CEO of StackBlitz)]]
 
-## Mentioned In (2 articles)
+## Mentioned In (4 articles)
 
+- 🎙️ 2025-12-04 — [[Podcasts/tomer-cohen|Tomer Cohen]]
 - 📰 2025-11-04 — [[Newsletters/part-2-of-how-to-get-the-most-out-of-your-product-pass-and-welcome-stripe-atlas|Part 2 of how to get the most out of your product pass—and welcome, Stripe At...]]
 - 📰 2025-01-07 — [[Newsletters/a-guide-to-ai-prototyping-for-product-managers|A guide to AI prototyping for product managers]]
+- 📰 2024-07-01 — [[Newsletters/meet-your-lennys-newsletter-fellows|Meet your Lenny’s Newsletter Fellows ✨]]

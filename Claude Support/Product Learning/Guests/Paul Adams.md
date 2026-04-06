@@ -10,9 +10,12 @@
 
 - 2023-10-26 — [[Podcasts/paul-adams|What AI means for your product strategy | Paul Adams (CPO of Intercom)]]
 
-## Mentioned In (10 articles)
+## Mentioned In (14 articles)
 
+- 🎙️ 2025-11-16 — [[Podcasts/dr-fei-fei-li|Dr. Fei Fei Li]]
+- 📰 2025-09-02 — [[Newsletters/how-to-find-the-perfect-name|How to find the perfect name]]
 - 🎙️ 2025-08-21 — [[Podcasts/eoghan-mccabe|Eoghan McCabe]]
+- 🎙️ 2025-04-10 — [[Podcasts/kevin-weil|Kevin Weil]]
 - 🎙️ 2024-12-19 — [[Podcasts/farhan-thawar|Farhan Thawar]]
 - 📰 2024-07-02 — [[Newsletters/counterintuitive-advice-for-building-ai-products|Counterintuitive advice for building AI products]]
 - 📰 2024-01-02 — [[Newsletters/inspiration-for-the-year-ahead|Inspiration for the year ahead]]
@@ -21,4 +24,5 @@
 - 🎙️ 2023-08-24 — [[Podcasts/bob-moesta|Bob Moesta]]
 - 📰 2023-08-15 — [[Newsletters/how-to-validate-your-b2b-startup-idea|How to validate your B2B startup idea]]
 - 📰 2023-08-08 — [[Newsletters/how-the-most-successful-b2b-startups-came-up-with-their-original-idea|How the most successful B2B startups came up with their original idea]]
+- 🎙️ 2022-07-14 — [[Podcasts/manik-gupta|Manik Gupta]]
 - 📰 2021-10-05 — [[Newsletters/my-all-time-favorite-reads-on-product-growth-leadership-writing-investing-and-mu|My all-time favorite reads on product, growth, leadership, writing, investing...]]

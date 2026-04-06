@@ -10,9 +10,10 @@
 
 - 2023-06-11 — [[Podcasts/nikhyl-singhal|Building a long and meaningful career | Nikhyl Singhal (Meta, Google)]]
 
-## Mentioned In (8 articles)
+## Mentioned In (9 articles)
 
 - 🎙️ 2024-10-17 — [[Podcasts/anneka-gupta|Anneka Gupta]]
+- 🎙️ 2024-03-17 — [[Podcasts/noam-lovinsky|Noam Lovinsky]]
 - 📰 2024-03-12 — [[Newsletters/my-podcast-tech-stack-workflows-and-lessons|My podcast tech stack, workflows, and lessons]]
 - 📰 2024-02-27 — [[Newsletters/how-to-learn-the-most-about-a-candidate-from-a-single-interview-question|How to learn the most about a candidate from a single interview question]]
 - 📰 2023-12-12 — [[Newsletters/the-best-of-lennys-newsletter-2023|The Best of Lenny’s Newsletter 2023]]

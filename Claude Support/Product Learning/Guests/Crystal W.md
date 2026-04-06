@@ -13,7 +13,6 @@
 ## Mentioned In (80 articles)
 
 - 📰 2025-12-09 — [[Newsletters/how-to-spot-a-top-1-startup-early|How to spot a top 1% startup early]]
-- 📰 2025-11-18 — [[Newsletters/a-holiday-gift-guide-for-tech-people-with-taste|A holiday gift guide for tech people with taste 🤌]]
 - 📰 2025-08-12 — [[Newsletters/essential-reading-for-product-builders-part-2|Essential reading for product builders—part 2]]
 - 🎙️ 2025-08-03 — [[Podcasts/chip-conley|Chip Conley]]
 - 📰 2025-07-22 — [[Newsletters/build-your-personal-ai-copilot|Build your personal AI copilot]]
@@ -22,7 +21,6 @@
 - 📰 2025-05-20 — [[Newsletters/five-principles-for-successfully-managing-managers|Five principles for successfully managing managers]]
 - 🎙️ 2025-05-11 — [[Podcasts/nabeel-s-qureshi|Nabeel S. Qureshi]]
 - 🎙️ 2025-05-08 — [[Podcasts/jerry-colonna|Jerry Colonna]]
-- 📰 2025-03-04 — [[Newsletters/1000000-taking-a-moment-to-celebrate-and-reflect-and-then-back-to-work|1,000,000]]
 - 📰 2025-01-28 — [[Newsletters/introducing-the-foundation-sprint-from-the-creators-of-the-design-sprint|Introducing the Foundation Sprint: From the creators of the Design Sprint]]
 - 🎙️ 2025-01-05 — [[Podcasts/alisa-cohn|Alisa Cohn]]
 - 🎙️ 2024-11-17 — [[Podcasts/raaz-herzberg|Raaz Herzberg]]
@@ -32,4 +30,6 @@
 - 🎙️ 2024-08-25 — [[Podcasts/nikita-bier|Nikita Bier]]
 - 📰 2024-08-20 — [[Newsletters/why-pms-are-best-positioned-to-thrive-in-an-ai-world|Why PMs are best positioned to thrive in an AI world]]
 - 🎙️ 2024-08-18 — [[Podcasts/kevin-yien|Kevin Yien]]
+- 🎙️ 2024-08-11 — [[Podcasts/evan-lapointe|Evan LaPointe]]
+- 🎙️ 2024-07-07 — [[Podcasts/mike-maples-jr|Mike Maples Jr]]
 - *...and 60 more*

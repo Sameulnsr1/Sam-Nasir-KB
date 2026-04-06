@@ -10,8 +10,10 @@
 
 - 2022-08-07 — [[Podcasts/ryan-hoover|How to launch and grow your product | Ryan Hoover of Product Hunt and Weekend Fund]]
 
-## Mentioned In (7 articles)
+## Mentioned In (9 articles)
 
+- 🎙️ 2026-01-25 — [[Podcasts/jason-cohen|Jason Cohen]]
+- 🎙️ 2025-09-18 — [[Podcasts/brendan-foody|Brendan Foody]]
 - 📰 2024-08-13 — [[Newsletters/time-management-techniques-that-actually-work|Time management techniques that actually work]]
 - 🎙️ 2022-11-10 — [[Podcasts/matt-mochary|Matt Mochary]]
 - 📰 2022-08-09 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-5-retain-iterate-until-enoug|How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until ...]]

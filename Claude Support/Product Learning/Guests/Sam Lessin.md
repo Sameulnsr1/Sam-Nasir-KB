@@ -10,18 +10,23 @@
 
 - 2026-01-15 — [[Podcasts/sam-lessin|How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin]]
 
-## Mentioned In (13 articles)
+## Mentioned In (18 articles)
 
 - 🎙️ 2025-03-30 — [[Podcasts/ryan-singer|Ryan Singer]]
 - 🎙️ 2025-03-06 — [[Podcasts/ivan-zhao|Ivan Zhao]]
+- 🎙️ 2025-03-02 — [[Podcasts/matt-mullenweg|Matt Mullenweg]]
 - 🎙️ 2025-01-26 — [[Podcasts/chandra-janakiraman|Chandra Janakiraman]]
 - 🎙️ 2025-01-16 — [[Podcasts/graham-weaver|Graham Weaver]]
 - 🎙️ 2025-01-09 — [[Podcasts/drew-houston|Drew Houston]]
+- 🎙️ 2024-10-13 — [[Podcasts/tristan-de-montebello|Tristan de Montebello]]
+- 📰 2024-07-16 — [[Newsletters/taking-the-week-off-4|Taking the week off]]
 - 🎙️ 2023-11-26 — [[Podcasts/tom-conrad|Tom Conrad]]
 - 🎙️ 2023-06-18 — [[Podcasts/melissa-tan|Melissa Tan]]
 - 📰 2023-06-06 — [[Newsletters/how-a-traumatic-brain-injury-made-me-a-better-pm-and-person|How a traumatic brain injury made me a better PM—and person]]
 - 🎙️ 2023-04-13 — [[Podcasts/laura-modi|Laura Modi]]
 - 🎙️ 2023-02-26 — [[Podcasts/annie-pearl|Annie Pearl]]
 - 📰 2023-02-14 — [[Newsletters/growth-inflections|Growth inflections]]
+- 📰 2023-02-07 — [[Newsletters/i-built-a-lenny-chatbot-using-gpt-3-heres-how-to-build-your-own|I built a Lenny chatbot using GPT-3. Here’s how to build your own.]]
+- 🎙️ 2022-09-04 — [[Podcasts/ryan-j-salva|Ryan J. Salva]]
 - 📰 2022-07-26 — [[Newsletters/how-to-kickstart-and-scale-a-consumer-business-step-4-find-your-early-adopters-b|How to kickstart and scale a consumer business—Step 4: Find your early adopte...]]
 - 🎙️ 2022-07-18 — [[Podcasts/nickey-skarstad|Nickey Skarstad]]
