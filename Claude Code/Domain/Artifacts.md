@@ -1,1 +1,1 @@
-/Users/sameul.nasir/.claude/skills/workspace-references/SKILL.md
+/Users/sameul.nasir/.claude/memory/domain/artifacts.md

@@ -1,0 +1,6 @@
+2026-04-06 16:42:36,430 - mlflow.claude_code.tracing - CLAUDE_TRACING - Stop hook: session=ee0d08f7-f319-43b4-b85b-682ac3e6c5a2, transcript=/Users/sameul.nasir/.claude/projects/-Users-sameul-nasir/ee0d08f7-f319-43b4-b85b-682ac3e6c5a2.jsonl
+2026-04-06 16:42:36,438 - mlflow.claude_code.tracing - CLAUDE_TRACING - Creating MLflow trace for session: ee0d08f7-f319-43b4-b85b-682ac3e6c5a2
+2026-04-06 16:42:36,811 - mlflow.claude_code.tracing - CLAUDE_TRACING - Created MLflow trace: tr-90024782dcd26c3d245c2c9333c580c4
+2026-04-06 16:43:10,264 - mlflow.claude_code.tracing - CLAUDE_TRACING - Stop hook: session=ee0d08f7-f319-43b4-b85b-682ac3e6c5a2, transcript=/Users/sameul.nasir/.claude/projects/-Users-sameul-nasir/ee0d08f7-f319-43b4-b85b-682ac3e6c5a2.jsonl
+2026-04-06 16:43:10,272 - mlflow.claude_code.tracing - CLAUDE_TRACING - Creating MLflow trace for session: ee0d08f7-f319-43b4-b85b-682ac3e6c5a2
+2026-04-06 16:43:10,606 - mlflow.claude_code.tracing - CLAUDE_TRACING - Created MLflow trace: tr-8aa9cd6c9db223be5f57adb34e0bf3da

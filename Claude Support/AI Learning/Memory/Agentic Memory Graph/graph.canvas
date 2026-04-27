@@ -1,0 +1,917 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Memory Quality & Lifecycle Management",
+      "x": 0,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_junk_memory_audit",
+      "type": "file",
+      "file": "graphify/obsidian/97.8% Junk Memory Finding.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_cranimem",
+      "type": "file",
+      "file": "graphify/obsidian/CraniMem.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ebbinghaus_forgetting",
+      "type": "file",
+      "file": "graphify/obsidian/Ebbinghaus Forgetting Curve.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_fademem",
+      "type": "file",
+      "file": "graphify/obsidian/FadeMem.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_gdpr_right_to_erasure",
+      "type": "file",
+      "file": "graphify/obsidian/GDPR Article 17 - Right to Erasure.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hou_memory_strength",
+      "type": "file",
+      "file": "graphify/obsidian/Hou et al. Memory Strength Model.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_locomo_benchmark",
+      "type": "file",
+      "file": "graphify/obsidian/LOCOMO Benchmark.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mem0",
+      "type": "file",
+      "file": "graphify/obsidian/Mem0.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_conflict_resolution",
+      "type": "file",
+      "file": "graphify/obsidian/Memory Conflict Resolution.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sunflower_case_study",
+      "type": "file",
+      "file": "graphify/obsidian/Sunflower Case Study.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Hierarchical Memory Architectures",
+      "x": 960,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_claude_code",
+      "type": "file",
+      "file": "graphify/obsidian/Claude Code.md",
+      "x": 980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_repositories",
+      "type": "file",
+      "file": "graphify/obsidian/Context Repositories.md",
+      "x": 1180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_continual_learning_token_space",
+      "type": "file",
+      "file": "graphify/obsidian/Continual Learning in Token Space.md",
+      "x": 1380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_gaikwad_routing",
+      "type": "file",
+      "file": "graphify/obsidian/Gaikwad Cost-Sensitive Routing.md",
+      "x": 980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_gallego_memory_as_tool",
+      "type": "file",
+      "file": "graphify/obsidian/Gallego Memory-as-a-Tool.md",
+      "x": 1180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_macla",
+      "type": "file",
+      "file": "graphify/obsidian/MACLA.md",
+      "x": 1380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_memgpt",
+      "type": "file",
+      "file": "graphify/obsidian/MemGPT  Letta.md",
+      "x": 980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_procedural_memory",
+      "type": "file",
+      "file": "graphify/obsidian/Procedural Memory.md",
+      "x": 1180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_skill_learning",
+      "type": "file",
+      "file": "graphify/obsidian/Skill Learning.md",
+      "x": 1380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_working_memory",
+      "type": "file",
+      "file": "graphify/obsidian/Working Memory.md",
+      "x": 980,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Retrieval & Reasoning Mechanisms",
+      "x": 1920,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_bge_m3",
+      "type": "file",
+      "file": "graphify/obsidian/BGE-M3.md",
+      "x": 1940,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_crag",
+      "type": "file",
+      "file": "graphify/obsidian/CRAG.md",
+      "x": 2140,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_contextual_retrieval",
+      "type": "file",
+      "file": "graphify/obsidian/Contextual Retrieval.md",
+      "x": 2340,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_crewai",
+      "type": "file",
+      "file": "graphify/obsidian/CrewAI.md",
+      "x": 1940,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_generative_agents",
+      "type": "file",
+      "file": "graphify/obsidian/Generative Agents.md",
+      "x": 2140,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hybrid_retrieval",
+      "type": "file",
+      "file": "graphify/obsidian/Hybrid Retrieval.md",
+      "x": 2340,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rrf_score_fusion",
+      "type": "file",
+      "file": "graphify/obsidian/Reciprocal Rank Fusion.md",
+      "x": 1940,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reflection_mechanism",
+      "type": "file",
+      "file": "graphify/obsidian/Reflection Mechanism.md",
+      "x": 2140,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_self_rag",
+      "type": "file",
+      "file": "graphify/obsidian/Self-RAG.md",
+      "x": 2340,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Cognitive Frameworks & Memory Taxonomy",
+      "x": 0,
+      "y": 600,
+      "width": 660,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_coala_framework",
+      "type": "file",
+      "file": "graphify/obsidian/CoALA Framework.md",
+      "x": 20,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_episodic_memory",
+      "type": "file",
+      "file": "graphify/obsidian/Episodic Memory.md",
+      "x": 220,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_four_evolutionary_paradigms",
+      "type": "file",
+      "file": "graphify/obsidian/Four Evolutionary Paradigms.md",
+      "x": 420,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_langgraph_langmem",
+      "type": "file",
+      "file": "graphify/obsidian/LangGraph  LangMem.md",
+      "x": 20,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_semantic_memory",
+      "type": "file",
+      "file": "graphify/obsidian/Semantic Memory.md",
+      "x": 220,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_zhou_survey",
+      "type": "file",
+      "file": "graphify/obsidian/Zhou et al. Externalization Survey.md",
+      "x": 420,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Graph-Based Knowledge Storage",
+      "x": 960,
+      "y": 600,
+      "width": 660,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_acgm",
+      "type": "file",
+      "file": "graphify/obsidian/ACGM.md",
+      "x": 980,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_cognee",
+      "type": "file",
+      "file": "graphify/obsidian/Cognee.md",
+      "x": 1180,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_graph_db",
+      "type": "file",
+      "file": "graphify/obsidian/Graph Database Storage.md",
+      "x": 1380,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_graphrag",
+      "type": "file",
+      "file": "graphify/obsidian/GraphRAG.md",
+      "x": 980,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_graphiti",
+      "type": "file",
+      "file": "graphify/obsidian/Zep  Graphiti.md",
+      "x": 1180,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Vector Embedding Infrastructure",
+      "x": 1920,
+      "y": 600,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_matryoshka_embeddings",
+      "type": "file",
+      "file": "graphify/obsidian/Matryoshka Representation Learning.md",
+      "x": 1940,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specter2",
+      "type": "file",
+      "file": "graphify/obsidian/SPECTER2.md",
+      "x": 2140,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vector_db",
+      "type": "file",
+      "file": "graphify/obsidian/Vector Database Storage.md",
+      "x": 2340,
+      "y": 680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pgvector",
+      "type": "file",
+      "file": "graphify/obsidian/pgvector.md",
+      "x": 1940,
+      "y": 760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Production API & Multi-Agent Patterns",
+      "x": 0,
+      "y": 1080,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_api_design_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/5 API Design Patterns.md",
+      "x": 20,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_bilt_case_study",
+      "type": "file",
+      "file": "graphify/obsidian/Bilt Case Study.md",
+      "x": 220,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_memory_as_service",
+      "type": "file",
+      "file": "graphify/obsidian/Memory-as-a-Service (MCP).md",
+      "x": 420,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_multi_agent_memory",
+      "type": "file",
+      "file": "graphify/obsidian/Multi-Agent Memory Architecture.md",
+      "x": 20,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Background Processing & Consolidation",
+      "x": 960,
+      "y": 1080,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_engram",
+      "type": "file",
+      "file": "graphify/obsidian/ENGRAM.md",
+      "x": 980,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_progressive_summarization",
+      "type": "file",
+      "file": "graphify/obsidian/Progressive Summarization.md",
+      "x": 1180,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sleep_time_compute",
+      "type": "file",
+      "file": "graphify/obsidian/Sleep-Time Compute.md",
+      "x": 1380,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_coala_framework_working_memory",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_working_memory",
+      "label": "defines [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_episodic_memory",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_episodic_memory",
+      "label": "defines [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_semantic_memory",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_semantic_memory",
+      "label": "defines [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_procedural_memory",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_procedural_memory",
+      "label": "defines [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_memgpt",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_memgpt",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_zhou_survey",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_zhou_survey",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_coala_framework_four_evolutionary_paradigms",
+      "fromNode": "n_coala_framework",
+      "toNode": "n_four_evolutionary_paradigms",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_memgpt_working_memory",
+      "fromNode": "n_memgpt",
+      "toNode": "n_working_memory",
+      "label": "extends [EXTRACTED]"
+    },
+    {
+      "id": "e_memgpt_sleep_time_compute",
+      "fromNode": "n_memgpt",
+      "toNode": "n_sleep_time_compute",
+      "label": "introduces [EXTRACTED]"
+    },
+    {
+      "id": "e_memgpt_context_repositories",
+      "fromNode": "n_memgpt",
+      "toNode": "n_context_repositories",
+      "label": "introduces [EXTRACTED]"
+    },
+    {
+      "id": "e_memgpt_claude_code",
+      "fromNode": "n_memgpt",
+      "toNode": "n_claude_code",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_vector_db",
+      "fromNode": "n_mem0",
+      "toNode": "n_vector_db",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_graph_db",
+      "fromNode": "n_mem0",
+      "toNode": "n_graph_db",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_conflict_resolution",
+      "fromNode": "n_mem0",
+      "toNode": "n_conflict_resolution",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_junk_memory_audit",
+      "fromNode": "n_mem0",
+      "toNode": "n_junk_memory_audit",
+      "label": "evaluates [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_cranimem",
+      "fromNode": "n_mem0",
+      "toNode": "n_cranimem",
+      "label": "outperforms [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_locomo_benchmark",
+      "fromNode": "n_mem0",
+      "toNode": "n_locomo_benchmark",
+      "label": "evaluates [EXTRACTED]"
+    },
+    {
+      "id": "e_mem0_sunflower_case_study",
+      "fromNode": "n_mem0",
+      "toNode": "n_sunflower_case_study",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_graphiti_graph_db",
+      "fromNode": "n_graphiti",
+      "toNode": "n_graph_db",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_graphiti_hybrid_retrieval",
+      "fromNode": "n_graphiti",
+      "toNode": "n_hybrid_retrieval",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_graphiti_graphrag",
+      "fromNode": "n_graphiti",
+      "toNode": "n_graphrag",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_langgraph_langmem_episodic_memory",
+      "fromNode": "n_langgraph_langmem",
+      "toNode": "n_episodic_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_langgraph_langmem_semantic_memory",
+      "fromNode": "n_langgraph_langmem",
+      "toNode": "n_semantic_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_crewai_hybrid_retrieval",
+      "fromNode": "n_crewai",
+      "toNode": "n_hybrid_retrieval",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_crewai_generative_agents",
+      "fromNode": "n_crewai",
+      "toNode": "n_generative_agents",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_code_procedural_memory",
+      "fromNode": "n_claude_code",
+      "toNode": "n_procedural_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_code_context_repositories",
+      "fromNode": "n_claude_code",
+      "toNode": "n_context_repositories",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_code_gallego_memory_as_tool",
+      "fromNode": "n_claude_code",
+      "toNode": "n_gallego_memory_as_tool",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_cranimem_ebbinghaus_forgetting",
+      "fromNode": "n_cranimem",
+      "toNode": "n_ebbinghaus_forgetting",
+      "label": "extends [EXTRACTED]"
+    },
+    {
+      "id": "e_cranimem_junk_memory_audit",
+      "fromNode": "n_cranimem",
+      "toNode": "n_junk_memory_audit",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_cranimem_fademem",
+      "fromNode": "n_cranimem",
+      "toNode": "n_fademem",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_fademem_ebbinghaus_forgetting",
+      "fromNode": "n_fademem",
+      "toNode": "n_ebbinghaus_forgetting",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_fademem_conflict_resolution",
+      "fromNode": "n_fademem",
+      "toNode": "n_conflict_resolution",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_fademem_progressive_summarization",
+      "fromNode": "n_fademem",
+      "toNode": "n_progressive_summarization",
+      "label": "extends [EXTRACTED]"
+    },
+    {
+      "id": "e_fademem_gdpr_right_to_erasure",
+      "fromNode": "n_fademem",
+      "toNode": "n_gdpr_right_to_erasure",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_macla_procedural_memory",
+      "fromNode": "n_macla",
+      "toNode": "n_procedural_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_macla_skill_learning",
+      "fromNode": "n_macla",
+      "toNode": "n_skill_learning",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_generative_agents_reflection_mechanism",
+      "fromNode": "n_generative_agents",
+      "toNode": "n_reflection_mechanism",
+      "label": "introduces [EXTRACTED]"
+    },
+    {
+      "id": "e_generative_agents_episodic_memory",
+      "fromNode": "n_generative_agents",
+      "toNode": "n_episodic_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_generative_agents_hou_memory_strength",
+      "fromNode": "n_generative_agents",
+      "toNode": "n_hou_memory_strength",
+      "label": "improves_upon [EXTRACTED]"
+    },
+    {
+      "id": "e_self_rag_reflection_mechanism",
+      "fromNode": "n_self_rag",
+      "toNode": "n_reflection_mechanism",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_self_rag_crag",
+      "fromNode": "n_self_rag",
+      "toNode": "n_crag",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_crag_hybrid_retrieval",
+      "fromNode": "n_crag",
+      "toNode": "n_hybrid_retrieval",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_graphrag_graph_db",
+      "fromNode": "n_graphrag",
+      "toNode": "n_graph_db",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_contextual_retrieval_hybrid_retrieval",
+      "fromNode": "n_contextual_retrieval",
+      "toNode": "n_hybrid_retrieval",
+      "label": "enhances [EXTRACTED]"
+    },
+    {
+      "id": "e_hybrid_retrieval_bge_m3",
+      "fromNode": "n_hybrid_retrieval",
+      "toNode": "n_bge_m3",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_hybrid_retrieval_rrf_score_fusion",
+      "fromNode": "n_hybrid_retrieval",
+      "toNode": "n_rrf_score_fusion",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_specter2_vector_db",
+      "fromNode": "n_specter2",
+      "toNode": "n_vector_db",
+      "label": "generates_embeddings_for [EXTRACTED]"
+    },
+    {
+      "id": "e_zhou_survey_four_evolutionary_paradigms",
+      "fromNode": "n_zhou_survey",
+      "toNode": "n_four_evolutionary_paradigms",
+      "label": "proposes [EXTRACTED]"
+    },
+    {
+      "id": "e_hou_memory_strength_ebbinghaus_forgetting",
+      "fromNode": "n_hou_memory_strength",
+      "toNode": "n_ebbinghaus_forgetting",
+      "label": "formalizes [EXTRACTED]"
+    },
+    {
+      "id": "e_gaikwad_routing_working_memory",
+      "fromNode": "n_gaikwad_routing",
+      "toNode": "n_working_memory",
+      "label": "optimizes [EXTRACTED]"
+    },
+    {
+      "id": "e_gallego_memory_as_tool_procedural_memory",
+      "fromNode": "n_gallego_memory_as_tool",
+      "toNode": "n_procedural_memory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_acgm_graph_db",
+      "fromNode": "n_acgm",
+      "toNode": "n_graph_db",
+      "label": "extends [EXTRACTED]"
+    },
+    {
+      "id": "e_cognee_graph_db",
+      "fromNode": "n_cognee",
+      "toNode": "n_graph_db",
+      "label": "uses [EXTRACTED]"
+    },
+    {
+      "id": "e_vector_db_pgvector",
+      "fromNode": "n_vector_db",
+      "toNode": "n_pgvector",
+      "label": "is_type_of [EXTRACTED]"
+    },
+    {
+      "id": "e_vector_db_matryoshka_embeddings",
+      "fromNode": "n_vector_db",
+      "toNode": "n_matryoshka_embeddings",
+      "label": "optimizes [EXTRACTED]"
+    },
+    {
+      "id": "e_sleep_time_compute_progressive_summarization",
+      "fromNode": "n_sleep_time_compute",
+      "toNode": "n_progressive_summarization",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_context_repositories_continual_learning_token_space",
+      "fromNode": "n_context_repositories",
+      "toNode": "n_continual_learning_token_space",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_progressive_summarization_engram",
+      "fromNode": "n_progressive_summarization",
+      "toNode": "n_engram",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_multi_agent_memory_memory_as_service",
+      "fromNode": "n_multi_agent_memory",
+      "toNode": "n_memory_as_service",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_multi_agent_memory_bilt_case_study",
+      "fromNode": "n_multi_agent_memory",
+      "toNode": "n_bilt_case_study",
+      "label": "demonstrates [EXTRACTED]"
+    },
+    {
+      "id": "e_memory_as_service_api_design_patterns",
+      "fromNode": "n_memory_as_service",
+      "toNode": "n_api_design_patterns",
+      "label": "enables [EXTRACTED]"
+    }
+  ]
+}

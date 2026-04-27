@@ -1,1 +1,0 @@
-/Users/sameul.nasir/.claude/references/context-layer-scorecard.md

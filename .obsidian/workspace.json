@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e917c553c5208f8d",
+        "id": "bc6fabb66a50b5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "772c1e58c2ab86e7",
+            "id": "88755310f150fef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Support/Agents.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agents"
-            }
-          },
-          {
-            "id": "895cbc018a2edd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Claude Support/Evals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evals"
-            }
-          },
-          {
-            "id": "446fe02df53938d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Tasks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Claude Code/References/AI-Ready Data Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AI-Ready Data Framework"
             }
           },
           {
@@ -137,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Claude Code/References/AI-Ready Data Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AI-Ready Data Framework"
             }
           },
           {
@@ -179,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Claude Code/References/AI-Ready Data Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of AI-Ready Data Framework"
             }
           }
         ]
@@ -205,46 +183,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "446fe02df53938d7",
+  "active": "88755310f150fef8",
   "lastOpenFiles": [
-    "Claude Support/Product Learning/Guests/Elena Verna 3.0.md",
-    "Claude Support/Product Learning/Guests/Sanchan Saxena.md",
-    "Claude Support/Product Learning/Guests/Gia Laudi.md",
-    "Claude Support/Product Learning/Guests/Barbra Gago.md",
-    "Claude Support/Product Learning/Guests/Sachin Monga.md",
-    "Claude Support/Product Learning/Guests/Alex Hardimen.md",
-    "Claude Support/Product Learning/Guests/Petra Wille.md",
-    "Claude Support/Product Learning/Guests/Chris Hutchins.md",
-    "Claude Support/Product Learning/Guests/Yuhki Yamashata.md",
-    "Claude Support/Product Learning/Guests/Christine Itwaru.md",
-    "Claude Support/Product Learning/Guests/Lulu Cheng Meservey.md",
-    "Claude Support/Product Learning/Guests/Kevin Aluwi.md",
-    "Claude Support/Product Learning/Guests/Nikita Miller.md",
-    "Claude Support/Product Learning/Guests/Carilu Dietrich.md",
-    "Claude Support/Product Learning/Guests/Jeremy Henrickson.md",
-    "Claude Support/Product Learning/Guests/Tim Holley.md",
-    "Claude Support/Product Learning/Guests/Anuj Rathi.md",
-    "Claude Support/Product Learning/Guests/Sam Schillace.md",
-    "Claude Support/Product Learning/Guests/Ethan Evans 2.0.md",
-    "Claude Support/Product Learning/Guests/Heidi Helfand.md",
-    "Claude Support/Product Learning/Guests/Megan Cook.md",
-    "Claude Support/Product Learning/Guests/Jake Knapp + John Zeratsky.md",
-    "Claude Support/Product Learning/Guests/Ray Cao.md",
-    "Claude Support/Product Learning/Guests/Emilie Gerber.md",
-    "Claude Support/Product Learning/Guests/Vikrama Dhiman.md",
-    "Claude Support/Product Learning/Guests/Jag Duggal.md",
-    "Claude Support/Product Learning/Guests",
-    "Claude Support/Product Learning/Topics",
-    "build_backlinks.py",
-    "Scratch Pad",
-    "Claude Support/Product Learning/Podcasts",
-    "Claude Support/Product Learning/Newsletters",
-    "Claude Support/Product Learning",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-26T22-45-46.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-23T18-06-10.md",
+    "Claude Code/References/Research/Knowledge Layer.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-22T18-36-15.md",
+    "Claude Code/References/Research/Text-to-SQL 2026.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-21T20-19-27.md",
+    "Claude Code/References/Memory/Knowledge Layer.md",
+    "Claude Code/References/Evals/AI Evals Reference.md",
+    "Cortex Code.md",
+    "Tasks.md",
+    "Scratch Pad/Miscallenous.md",
+    "Scratch Pad/Growth Strategy.md",
+    "Claude Support/AI Learning/Text-To- SQL.md",
+    "Claude Support/AI Learning/Feynman-Graphify Learning System.md",
+    "Claude Code/Lessons/Claude Code.md",
+    "Claude Code/References/Research/Memory Research Overview.md",
+    "Claude Code/References/Research/Agentic Memory Systems Research.md",
+    "Claude Code/migration-manifest.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-20T17-32-52.md",
+    "Claude Code/References/New Machine Setup Guide.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-19T23-19-03.md",
+    "Claude Support/AI Learning/Memory/Memory Overview.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-18T18-12-06.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-17T20-00-48.md",
+    "Claude Code/Evals/Reports/online-scoring-report-2026-04-16T18-21-35.md",
+    "LLM evals/LLM-Judge Based Eval Intro.md",
+    "Code Based Evals",
+    "LLM evals",
+    "Claude Code/References/Memory",
+    "Claude Support/AI Learning/Memory",
+    "ai-ready-data-framework-diagram.png",
+    "Claude Support/AI Learning/Memory/Agentic Memory Graph/graph.canvas",
+    "Claude Support/AI Learning/Memory/Agentic Memory Graph",
+    "Claude Support/AI Learning/Memory/Agentic Memory Raw",
+    "Claude Code/Evals/Reports",
+    "Claude Code/Evals",
+    "Claude Code/References/Research",
+    "Claude Code/References/Evals",
     "Claude Support/AI Learning/Attachments/ai-application-architecture.png",
-    "Claude Support/AI Learning/Attachments/7-step-ai-agent-process.png",
-    "Claude Support/AI Learning/Attachments",
-    "Claude Support/AI Learning",
-    "Claude Code/Domain",
-    "ai-ready-data-framework-diagram.png"
+    "Claude Support/AI Learning/Attachments/7-step-ai-agent-process.png"
   ]
 }
